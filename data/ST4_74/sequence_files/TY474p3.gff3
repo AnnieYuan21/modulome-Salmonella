@@ -1,0 +1,26 @@
+##sequence-region CP002490.1 1 8688
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=909946
+CP002490.1	Genbank	region	1	8688	.	+	.	ID=CP002490.1:1..8688;Dbxref=taxon:909946;Is_circular=true;Name=TY474p3;gbkey=Src;genome=plasmid;mol_type=genomic DNA;old-name=Salmonella enterica subsp. enterica serovar Typhimurium str. 474;plasmid-name=TY474p3;serovar=Typhimurium;strain=ST4/74;sub-species=enterica
+CP002490.1	Genbank	gene	27	842	.	-	.	ID=gene-STM474_p301;Name=folP;gbkey=Gene;gene=folP;gene_biotype=protein_coding;locus_tag=STM474_p301
+CP002490.1	Genbank	CDS	27	842	.	-	0	ID=cds-ADX20578.1;Parent=gene-STM474_p301;Dbxref=NCBI_GP:ADX20578.1;Name=ADX20578.1;gbkey=CDS;gene=folP;locus_tag=STM474_p301;product=Dihydropteroate synthase;protein_id=ADX20578.1;transl_table=11
+CP002490.1	Genbank	gene	1150	2100	.	-	.	ID=gene-STM474_p302;Name=repC;gbkey=Gene;gene=repC;gene_biotype=protein_coding;locus_tag=STM474_p302
+CP002490.1	Genbank	CDS	1150	2100	.	-	0	ID=cds-ADX20579.1;Parent=gene-STM474_p302;Dbxref=NCBI_GP:ADX20579.1;Name=ADX20579.1;gbkey=CDS;gene=repC;locus_tag=STM474_p302;product=replication protein C;protein_id=ADX20579.1;transl_table=11
+CP002490.1	Genbank	gene	1988	2827	.	-	.	ID=gene-STM474_p303;Name=repA;gbkey=Gene;gene=repA;gene_biotype=protein_coding;locus_tag=STM474_p303
+CP002490.1	Genbank	CDS	1988	2827	.	-	0	ID=cds-ADX20580.1;Parent=gene-STM474_p303;Dbxref=NCBI_GP:ADX20580.1;Name=ADX20580.1;gbkey=CDS;gene=repA;locus_tag=STM474_p303;product=replication protein A;protein_id=ADX20580.1;transl_table=11
+CP002490.1	Genbank	gene	2857	3063	.	-	.	ID=gene-STM474_p304;Name=STM474_p304;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM474_p304
+CP002490.1	Genbank	CDS	2857	3063	.	-	0	ID=cds-ADX20581.1;Parent=gene-STM474_p304;Dbxref=NCBI_GP:ADX20581.1;Name=ADX20581.1;gbkey=CDS;locus_tag=STM474_p304;product=repressor protein F;protein_id=ADX20581.1;transl_table=11
+CP002490.1	Genbank	gene	3065	3277	.	-	.	ID=gene-STM474_p305;Name=STM474_p305;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM474_p305
+CP002490.1	Genbank	CDS	3065	3277	.	-	0	ID=cds-ADX20582.1;Parent=gene-STM474_p305;Dbxref=NCBI_GP:ADX20582.1;Name=ADX20582.1;gbkey=CDS;locus_tag=STM474_p305;product=hypothetical protein;protein_id=ADX20582.1;transl_table=11
+CP002490.1	Genbank	gene	3338	4261	.	-	.	ID=gene-STM474_p306;Name=mobA;gbkey=Gene;gene=mobA;gene_biotype=protein_coding;locus_tag=STM474_p306
+CP002490.1	Genbank	CDS	3338	4261	.	-	0	ID=cds-ADX20583.1;Parent=gene-STM474_p306;Dbxref=NCBI_GP:ADX20583.1;Name=ADX20583.1;gbkey=CDS;gene=mobA;locus_tag=STM474_p306;product=mobilization protein A;protein_id=ADX20583.1;transl_table=11
+CP002490.1	Genbank	gene	4306	4719	.	-	.	ID=gene-STM474_p307;Name=mobB;gbkey=Gene;gene=mobB;gene_biotype=protein_coding;locus_tag=STM474_p307
+CP002490.1	Genbank	CDS	4306	4719	.	-	0	ID=cds-ADX20584.1;Parent=gene-STM474_p307;Dbxref=NCBI_GP:ADX20584.1;Name=ADX20584.1;gbkey=CDS;gene=mobB;locus_tag=STM474_p307;product=mobilization protein B;protein_id=ADX20584.1;transl_table=11
+CP002490.1	Genbank	gene	5666	5950	.	+	.	ID=gene-STM474_p308;Name=mobC;gbkey=Gene;gene=mobC;gene_biotype=protein_coding;locus_tag=STM474_p308
+CP002490.1	Genbank	CDS	5666	5950	.	+	0	ID=cds-ADX20585.1;Parent=gene-STM474_p308;Dbxref=NCBI_GP:ADX20585.1;Name=ADX20585.1;gbkey=CDS;gene=mobC;locus_tag=STM474_p308;product=mobilization protein C;protein_id=ADX20585.1;transl_table=11
+CP002490.1	Genbank	gene	6504	7043	.	+	.	ID=gene-STM474_p309;Name=STM474_p309;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM474_p309
+CP002490.1	Genbank	CDS	6504	7043	.	+	0	ID=cds-ADX20586.1;Parent=gene-STM474_p309;Dbxref=NCBI_GP:ADX20586.1;Name=ADX20586.1;gbkey=CDS;locus_tag=STM474_p309;product=transposase;protein_id=ADX20586.1;transl_table=11
+CP002490.1	Genbank	gene	7015	7845	.	-	.	ID=gene-STM474_p310;Name=strB;gbkey=Gene;gene=strB;gene_biotype=protein_coding;locus_tag=STM474_p310
+CP002490.1	Genbank	CDS	7015	7845	.	-	0	ID=cds-ADX20587.1;Parent=gene-STM474_p310;Dbxref=NCBI_GP:ADX20587.1;Name=ADX20587.1;gbkey=CDS;gene=strB;locus_tag=STM474_p310;product=streptomycin phosphotransferase;protein_id=ADX20587.1;transl_table=11
+CP002490.1	Genbank	gene	7851	8669	.	-	.	ID=gene-STM474_p311;Name=strA;gbkey=Gene;gene=strA;gene_biotype=protein_coding;locus_tag=STM474_p311
+CP002490.1	Genbank	CDS	7851	8669	.	-	0	ID=cds-ADX20588.1;Parent=gene-STM474_p311;Dbxref=NCBI_GP:ADX20588.1;Name=ADX20588.1;gbkey=CDS;gene=strA;locus_tag=STM474_p311;product=aminoglycoside resistance protein A;protein_id=ADX20588.1;transl_table=11
+

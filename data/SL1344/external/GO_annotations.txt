@@ -1,0 +1,57 @@
+UniProtKB	A0A0H3NB84	ssaN		GO:0005515	PMID:19767440	IPI	UniProtKB:A0A0H3NKV4	F	AAA domain-containing protein	SL1344_1349	protein	NCBITaxon:216597	20200613	IntAct			protein binding
+UniProtKB	A0A0H3NB84	ssaN		GO:0005515	PMID:20140193	IPI	UniProtKB:A0A0H3NDF5	F	AAA domain-containing protein	SL1344_1349	protein	NCBITaxon:216597	20151216	AgBase			protein binding
+UniProtKB	A0A0H3NB84	ssaN		GO:0005515	PMID:20140193	IPI	UniProtKB:A0A0H3NDF5	F	AAA domain-containing protein	SL1344_1349	protein	NCBITaxon:216597	20200613	IntAct			protein binding
+UniProtKB	A0A0H3NB84	ssaN		GO:0016887	PMID:20140193	IDA		F	AAA domain-containing protein	SL1344_1349	protein	NCBITaxon:216597	20151216	AgBase			ATPase activity
+UniProtKB	A0A0H3NB70	sseC		GO:0005515	PMID:24090070	IPI	UniProtKB:A0A0H3NG86	F	Type III secretion system apparatus protein	SL1344_1334	protein	NCBITaxon:216597	20200613	IntAct			protein binding
+UniProtKB	A0A0H3NA16	sopB		GO:0005515	PMID:21566117	IPI	UniProtKB:P60953	F	Type III secretion system effector protein. Activates Cdc42, RhoG, AktA and chloride secretion through its inositol phosphatase activity and disrupts tight junctions	SL1344_1030	protein	NCBITaxon:216597	20200613	IntAct			protein binding
+UniProtKB	A0A0H3NPR5	sseBb		GO:0005515	PMID:19767440	IPI	UniProtKB:A0A0H3NKV4	F	Enhanced serine sensitivity protein	SL1344_2497	protein	NCBITaxon:216597	20200613	IntAct			protein binding
+UniProtKB	A0A0H3NK16	cpxR		GO:0005515	PMID:21472855	IPI	UniProtKB:A0A0H3NUZ2	F	Two-component response regulatory protein	SL1344_4008	protein	NCBITaxon:216597	20200613	IntAct			protein binding
+UniProtKB	A0A0H3NHZ2	ygiW		GO:0005515	PMID:23302685	IPI	UniProtKB:A0A0H3NVJ7	F	BOF domain-containing protein	SL1344_3150	protein	NCBITaxon:216597	20200613	IntAct			protein binding
+UniProtKB	A0A0H3NKV1	ssrB		GO:0003677	PMID:21059960	IDA		F	Two-component response regulator	SL1344_1325	protein	NCBITaxon:216597	20151002	AgBase			DNA binding
+UniProtKB	A0A0H3NKV1	ssrB		GO:0005515	PMID:21059960	IPI	UniProtKB:A0A0H3NI89	F	Two-component response regulator	SL1344_1325	protein	NCBITaxon:216597	20151002	AgBase			protein binding
+UniProtKB	A0A0H3NKV1	ssrB		GO:0005515	PMID:21059960	IPI	UniProtKB:A0A0H3NI89	F	Two-component response regulator	SL1344_1325	protein	NCBITaxon:216597	20200613	IntAct			protein binding
+UniProtKB	A0A0H3NKV1	ssrB		GO:0042000	PMID:20140193	IMP		P	Two-component response regulator	SL1344_1325	protein	NCBITaxon:216597	20151216	AgBase			translocation of peptides or proteins into host
+UniProtKB	A0A0H3NKV1	ssrB		GO:0072321	PMID:20140193	IMP		P	Two-component response regulator	SL1344_1325	protein	NCBITaxon:216597	20151216	AgBase			chaperone-mediated protein transport
+UniProtKB	A0A0H3NF38	sspH2		GO:0005515	PMID:21566117	IPI	UniProtKB:O43684	F	Type III secretion system effector protein-E3 Ubiquitin ligase	SL1344_2217	protein	NCBITaxon:216597	20200613	IntAct			protein binding
+UniProtKB	A0A0H3NF38	sspH2		GO:0005515	PMID:21566117	IPI	UniProtKB:Q9Y2Z0	F	Type III secretion system effector protein-E3 Ubiquitin ligase	SL1344_2217	protein	NCBITaxon:216597	20200613	IntAct			protein binding
+UniProtKB	A0A0H3NF38	sspH2		GO:0005515	PMID:23935490	IPI	UniProtKB:Q9SUR9	F	Type III secretion system effector protein-E3 Ubiquitin ligase	SL1344_2217	protein	NCBITaxon:216597	20200613	IntAct			protein binding
+UniProtKB	A0A0H3NF38	sspH2		GO:0005515	PMID:23935490	IPI	UniProtKB:Q9SUT5	F	Type III secretion system effector protein-E3 Ubiquitin ligase	SL1344_2217	protein	NCBITaxon:216597	20200613	IntAct			protein binding
+UniProtKB	A0A0H3NF38	sspH2		GO:0005515	PMID:23935490	IPI	UniProtKB:Q9Y239	F	Type III secretion system effector protein-E3 Ubiquitin ligase	SL1344_2217	protein	NCBITaxon:216597	20200613	IntAct			protein binding
+UniProtKB	A0A0H3NF38	sspH2		GO:0005515	PMID:23935490	IPI	UniProtKB:Q9Y2Z0	F	Type III secretion system effector protein-E3 Ubiquitin ligase	SL1344_2217	protein	NCBITaxon:216597	20200613	IntAct			protein binding
+UniProtKB	A0A0H3NF38	sspH2		GO:0005515	PMID:23935490	IPI	UniProtKB:Q9Y2Z0-2	F	Type III secretion system effector protein-E3 Ubiquitin ligase	SL1344_2217	protein	NCBITaxon:216597	20200613	IntAct			protein binding
+UniProtKB	E1WAC8	sipC		GO:0005515	PMID:20579884	IPI	UniProtKB:O35250	F	Cell invasion protein SipC	sspC|SL1344_2863	protein	NCBITaxon:216597	20150426	AgBase			protein binding
+UniProtKB	E1WAC8	sipC		GO:0005515	PMID:20579884	IPI	UniProtKB:Q96A65	F	Cell invasion protein SipC	sspC|SL1344_2863	protein	NCBITaxon:216597	20150426	AgBase			protein binding
+UniProtKB	E1WAC8	sipC		GO:0005515	PMID:20579884	IPI	UniProtKB:Q96KP1	F	Cell invasion protein SipC	sspC|SL1344_2863	protein	NCBITaxon:216597	20150426	AgBase			protein binding
+UniProtKB	E1WAC8	sipC		GO:0005515	PMID:20579884	IPI	UniProtKB:Q9UPT5	F	Cell invasion protein SipC	sspC|SL1344_2863	protein	NCBITaxon:216597	20150426	AgBase			protein binding
+UniProtKB	E1WAC8	sipC		GO:0007015	PMID:22190682	IMP		P	Cell invasion protein SipC	sspC|SL1344_2863	protein	NCBITaxon:216597	20150407	AgBase	CL:0000235		actin filament organization
+UniProtKB	E1WAC8	sipC		GO:0019905	PMID:22190682	IPI	UniProtKB:Q9JKK1	F	Cell invasion protein SipC	sspC|SL1344_2863	protein	NCBITaxon:216597	20150407	AgBase			syntaxin binding
+UniProtKB	E1WAC8	sipC		GO:0034067	PMID:22190682	IMP		P	Cell invasion protein SipC	sspC|SL1344_2863	protein	NCBITaxon:216597	20150407	AgBase	CL:0000235		protein localization to Golgi apparatus
+UniProtKB	E1WAC8	sipC		GO:0042802	PMID:18005098	IPI	UniProtKB:E1WAC8	F	Cell invasion protein SipC	sspC|SL1344_2863	protein	NCBITaxon:216597	20200613	IntAct			identical protein binding
+UniProtKB	E1WAC8	sipC		GO:0045335	PMID:22190682	IMP		C	Cell invasion protein SipC	sspC|SL1344_2863	protein	NCBITaxon:216597	20150407	AgBase			phagocytic vesicle
+UniProtKB	E1WAC8	sipC		GO:1903827	PMID:22190682	IMP		P	Cell invasion protein SipC	sspC|SL1344_2863	protein	NCBITaxon:216597	20150407	AgBase	CL:0000235|UniProtKB:P11438		regulation of cellular protein localization
+UniProtKB	E1WAC8	sipC		GO:1903827	PMID:22190682	IMP		P	Cell invasion protein SipC	sspC|SL1344_2863	protein	NCBITaxon:216597	20150407	AgBase	CL:0000235|UniProtKB:Q9JKK1		regulation of cellular protein localization
+UniProtKB	E1WAC8	sipC		GO:2000535	PMID:22190682	IMP		P	Cell invasion protein SipC	sspC|SL1344_2863	protein	NCBITaxon:216597	20150407	AgBase	CL:0000235		regulation of entry of bacterium into host cell
+UniProtKB	A0A0H3NKV4	ssaE		GO:0005515	PMID:19767440	IPI	UniProtKB:A0A0H3NB84	F	Type III secretion system protein	SL1344_1330	protein	NCBITaxon:216597	20200613	IntAct			protein binding
+UniProtKB	A0A0H3NKV4	ssaE		GO:0005515	PMID:19767440	IPI	UniProtKB:A0A0H3NPR5	F	Type III secretion system protein	SL1344_1330	protein	NCBITaxon:216597	20200613	IntAct			protein binding
+UniProtKB	A0A0H3NVJ7	lpxO		GO:0005515	PMID:23302685	IPI	UniProtKB:A0A0H3NHZ2	F	Asp_Arg_Hydrox domain-containing protein	SL1344_4223	protein	NCBITaxon:216597	20200613	IntAct			protein binding
+UniProtKB	A0A0H3NUZ2	cpxA		GO:0005515	PMID:21472855	IPI	UniProtKB:A0A0H3NK16	F	Two-component sensor kinase protein	SL1344_4007	protein	NCBITaxon:216597	20200613	IntAct			protein binding
+UniProtKB	A0A0H3NI89	ptsN		GO:0005515	PMID:21059960	IPI	UniProtKB:A0A0H3NKV1	F	PTS EIIA type-2 domain-containing protein	SL1344_3294	protein	NCBITaxon:216597	20151002	AgBase			protein binding
+UniProtKB	A0A0H3NI89	ptsN		GO:0005515	PMID:21059960	IPI	UniProtKB:A0A0H3NKV1	F	PTS EIIA type-2 domain-containing protein	SL1344_3294	protein	NCBITaxon:216597	20200613	IntAct			protein binding
+UniProtKB	A0A0H3NI89	ptsN		GO:0009405	PMID:21059960	IMP		P	PTS EIIA type-2 domain-containing protein	SL1344_3294	protein	NCBITaxon:216597	20151002	AgBase			pathogenesis
+UniProtKB	A0A0H3NI89	ptsN		GO:0010629	PMID:21059960	IMP		P	PTS EIIA type-2 domain-containing protein	SL1344_3294	protein	NCBITaxon:216597	20151002	AgBase	UniProtKB:A0A0H3NKV1		negative regulation of gene expression
+UniProtKB	A0A0H3NI89	ptsN		GO:0043392	PMID:21059960	IDA		P	PTS EIIA type-2 domain-containing protein	SL1344_3294	protein	NCBITaxon:216597	20151002	AgBase	UniProtKB:A0A0H3NKV1		negative regulation of DNA binding
+UniProtKB	A0A0H3NG86	sscA		GO:0005515	PMID:24090070	IPI	UniProtKB:A0A0H3NB70	F	Type III secretion system chaperone protein	SL1344_1333	protein	NCBITaxon:216597	20200613	IntAct			protein binding
+UniProtKB	A0A0H3NMJ6	fliC		GO:0005515	PMID:23101627	IPI	UniProtKB:Q6R5P0	F	Flagellin	SL1344_1888	protein	NCBITaxon:216597	20200613	IntAct			protein binding
+UniProtKB	A0A0H3NMJ6	fliC		GO:0005515	PMID:23101627	IPI	UniProtKB:Q9JLF7	F	Flagellin	SL1344_1888	protein	NCBITaxon:216597	20200613	IntAct			protein binding
+UniProtKB	A0A0H3NF77	avrA		GO:0098864	PMID:25838979	IMP		P	Type III secretion system effector protein-regulator of Salmonella-induced inflammatory response	SL1344_2845	protein	NCBITaxon:216597	20170226	CACAO			modification by symbiont of host tight cell-cell junction
+UniProtKB	A0A0H3NDL6	sseL		GO:0005515	PMID:20140193	IPI	UniProtKB:A0A0H3NDF5	F	Type III secretion system effector protein, deubiquitinase	SL1344_2256	protein	NCBITaxon:216597	20151216	AgBase			protein binding
+UniProtKB	A0A0H3NDL6	sseL		GO:0005515	PMID:21566117	IPI	UniProtKB:P22059	F	Type III secretion system effector protein, deubiquitinase	SL1344_2256	protein	NCBITaxon:216597	20200613	IntAct			protein binding
+UniProtKB	A0A0H3NDF5	srcA		GO:0005515	PMID:20140193	IPI	UniProtKB:A0A0H3NB84	F	Type III secretion system effector chaperone	SL1344_2114	protein	NCBITaxon:216597	20151216	AgBase			protein binding
+UniProtKB	A0A0H3NDF5	srcA		GO:0005515	PMID:20140193	IPI	UniProtKB:A0A0H3NB84	F	Type III secretion system effector chaperone	SL1344_2114	protein	NCBITaxon:216597	20200613	IntAct			protein binding
+UniProtKB	A0A0H3NDF5	srcA		GO:0005515	PMID:20140193	IPI	UniProtKB:A0A0H3NDF5	F	Type III secretion system effector chaperone	SL1344_2114	protein	NCBITaxon:216597	20151216	AgBase			protein binding
+UniProtKB	A0A0H3NDF5	srcA		GO:0005515	PMID:20140193	IPI	UniProtKB:A0A0H3NDL6	F	Type III secretion system effector chaperone	SL1344_2114	protein	NCBITaxon:216597	20151216	AgBase			protein binding
+UniProtKB	A0A0H3NDF5	srcA		GO:0042802	PMID:20140193	IPI	UniProtKB:A0A0H3NDF5	F	Type III secretion system effector chaperone	SL1344_2114	protein	NCBITaxon:216597	20200613	IntAct			identical protein binding
+UniProtKB	A0A0H3NDF5	srcA		GO:0046983	PMID:20140193	IPI	UniProtKB:A0A0H3NDF5	F	Type III secretion system effector chaperone	SL1344_2114	protein	NCBITaxon:216597	20151216	AgBase			protein dimerization activity
+UniProtKB	A0A0H3N9Y3	gtgE		GO:0004175	PMID:22042847	IDA		F	Bacteriophage encoded virulence factor	SL1344_0995	protein	NCBITaxon:216597	20160705	ParkinsonsUK-UCL	UniProtKB:O14966|GO:0035897|GO:0009405		endopeptidase activity
+UniProtKB	A0A0H3N9Y3	gtgE		GO:0009405	PMID:22042847	IMP		P	Bacteriophage encoded virulence factor	SL1344_0995	protein	NCBITaxon:216597	20160620	ParkinsonsUK-UCL			pathogenesis
+UniProtKB	A0A0H3N9Y3	gtgE		GO:0035897	PMID:22042847	IDA		P	Bacteriophage encoded virulence factor	SL1344_0995	protein	NCBITaxon:216597	20160620	ParkinsonsUK-UCL	UniProtKB:O14966|GO:0009405		proteolysis in other organism

@@ -1,0 +1,61 @@
+UniProtKB	D0ZPH9	sspH2		GO:0004842	PMID:10861017	IDA		F	E3 ubiquitin-protein ligase SspH2	STM14_2769	protein	NCBITaxon:588858	20100128	UniProt			ubiquitin-protein transferase activity
+UniProtKB	D0ZPH9	sspH2		GO:0009405	PMID:10861017	IDA		P	E3 ubiquitin-protein ligase SspH2	STM14_2769	protein	NCBITaxon:588858	20100128	UniProt			pathogenesis
+UniProtKB	D0ZPH9	sspH2		GO:0016567	PMID:10861017	IDA		P	E3 ubiquitin-protein ligase SspH2	STM14_2769	protein	NCBITaxon:588858	20100128	UniProt			protein ubiquitination
+UniProtKB	D0ZPH9	sspH2		GO:0020002	PMID:10861017	IDA		C	E3 ubiquitin-protein ligase SspH2	STM14_2769	protein	NCBITaxon:588858	20100128	UniProt			host cell plasma membrane
+UniProtKB	D0ZPH9	sspH2		GO:0030254	PMID:10861017	IDA		P	E3 ubiquitin-protein ligase SspH2	STM14_2769	protein	NCBITaxon:588858	20100128	UniProt			protein secretion by the type III secretion system
+UniProtKB	D0ZSY9	rpoE		GO:0009266	PMID:19170886	IEP		P	ECF RNA polymerase sigma-E factor	sigE|STM14_3234	protein	NCBITaxon:588858	20131112	UniProt			response to temperature stimulus
+UniProtKB	D0ZSY9	rpoE		GO:0009405	PMID:19170886	IMP		P	ECF RNA polymerase sigma-E factor	sigE|STM14_3234	protein	NCBITaxon:588858	20131112	UniProt			pathogenesis
+UniProtKB	D0ZSY9	rpoE		GO:0097533	PMID:19170886	IMP		P	ECF RNA polymerase sigma-E factor	sigE|STM14_3234	protein	NCBITaxon:588858	20131115	UniProt			cellular stress response to acid chemical
+UniProtKB	A0A0F6AXY2	cueR		GO:0000976	PMID:20807206	IPI	RefSeq:NC_016856.1	F	HTH merR-type domain-containing protein	STM14_0587	protein	NCBITaxon:588858	20170328	CollecTF			transcription regulatory region sequence-specific DNA binding
+UniProtKB	A0A0F6AXY2	cueR		GO:0001216	PMID:20807206	IPI	RefSeq:NC_016856.1	F	HTH merR-type domain-containing protein	STM14_0587	protein	NCBITaxon:588858	20170328	CollecTF			DNA-binding transcription activator activity
+UniProtKB	A0A0F6AXY2	cueR		GO:0032993	PMID:20807206	IPI	RefSeq:NC_016856.1	C	HTH merR-type domain-containing protein	STM14_0587	protein	NCBITaxon:588858	20170328	CollecTF			protein-DNA complex
+UniProtKB	A0A0F6AXY2	cueR		GO:0045893	PMID:20807206	IDA		P	HTH merR-type domain-containing protein	STM14_0587	protein	NCBITaxon:588858	20170328	CollecTF			positive regulation of transcription, DNA-templated
+UniProtKB	A0A0F6B945	gidA		GO:0007059	PMID:22109813	IMP		P	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG	mnmG|STM14_4671	protein	NCBITaxon:588858	20111204	CACAO			chromosome segregation
+UniProtKB	A0A0F6B945	gidA		GO:0051301	PMID:22109813	IMP		P	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG	mnmG|STM14_4671	protein	NCBITaxon:588858	20111204	CACAO			cell division
+UniProtKB	A0A0F6B941	atpB		GO:0005515	PMID:23827679	IPI	UniProtKB:D0ZLQ7	F	ATP synthase subunit a	STM14_4667	protein	NCBITaxon:588858	20200613	IntAct	GO:0016020		protein binding
+UniProtKB	A0A0F6B632	barA		GO:1900233	PMID:17074910	IMP		P	Histidine kinase	STM14_3566	protein	NCBITaxon:588858	20170405	CACAO			positive regulation of single-species biofilm formation on inanimate substrate
+UniProtKB	A0A0F6B423	sseL		GO:0005515	PMID:27822540	IPI	UniProtKB:E9Q5F6	F	Deubiquitinase	STM14_2824	protein	NCBITaxon:588858	20200613	IntAct			protein binding
+UniProtKB	A0A0F6B423	sseL		GO:0005515	PMID:27822540	IPI	UniProtKB:P29595	F	Deubiquitinase	STM14_2824	protein	NCBITaxon:588858	20200613	IntAct			protein binding
+UniProtKB	A0A0F6B2T8	fliA		GO:1900188	PMID:17074910	IMP		P	RNA polymerase sigma factor FliA	STM14_2374	protein	NCBITaxon:588858	20170405	CACAO			negative regulation of cell adhesion involved in single-species biofilm formation
+UniProtKB	A0A0F6B1Q8	sseJ		GO:0005515	PMID:22740689	IPI	UniProtKB:P61586	F	Lipase_GDSL domain-containing protein	STM14_1974	protein	NCBITaxon:588858	20200613	IntAct	GO:0044174		protein binding
+UniProtKB	A0A0F6B1Q8	sseJ		GO:0020002	PMID:18996344	IDA		C	Lipase_GDSL domain-containing protein	STM14_1974	protein	NCBITaxon:588858	20160121	AgBase			host cell plasma membrane
+UniProtKB	A0A0F6B1Q8	sseJ		GO:0044184	PMID:18996344	IDA		C	Lipase_GDSL domain-containing protein	STM14_1974	protein	NCBITaxon:588858	20160121	AgBase			host cell late endosome
+UniProtKB	A0A0F6B1Q8	sseJ		GO:1903527	PMID:18996344	IDA		P	Lipase_GDSL domain-containing protein	STM14_1974	protein	NCBITaxon:588858	20160121	AgBase	GO:0010008		positive regulation of membrane tubulation
+UniProtKB	D0ZY51	degS		GO:0006508	PMID:19170886	IMP		P	Serine endoprotease DegS	STM14_4041	protein	NCBITaxon:588858	20131112	UniProt			proteolysis
+UniProtKB	D0ZY51	degS		GO:0009266	PMID:19170886	IMP		P	Serine endoprotease DegS	STM14_4041	protein	NCBITaxon:588858	20131112	UniProt			response to temperature stimulus
+UniProtKB	D0ZY51	degS		GO:0009405	PMID:19170886	IMP		P	Serine endoprotease DegS	STM14_4041	protein	NCBITaxon:588858	20131112	UniProt			pathogenesis
+UniProtKB	D0ZY51	degS	not	GO:0097533	PMID:19170886	IMP		P	Serine endoprotease DegS	STM14_4041	protein	NCBITaxon:588858	20131115	UniProt			cellular stress response to acid chemical
+UniProtKB	A0A0F6AZL3	sseI		GO:0005515	PMID:27822540	IPI	UniProtKB:P63085	F	Tox-PLDMTX domain-containing protein	STM14_1193	protein	NCBITaxon:588858	20200613	IntAct			protein binding
+UniProtKB	A0A0F6B063	sifA		GO:0005515	PMID:18996344	IPI	UniProtKB:Q8IWE5	F	Secreted effector protein	STM14_1400	protein	NCBITaxon:588858	20160121	AgBase			protein binding
+UniProtKB	A0A0F6B063	sifA		GO:0005515	PMID:18996344	IPI	UniProtKB:Q8IWE5	F	Secreted effector protein	STM14_1400	protein	NCBITaxon:588858	20200613	IntAct	GO:0010008		protein binding
+UniProtKB	A0A0F6B063	sifA		GO:0020002	PMID:18996344	IDA		C	Secreted effector protein	STM14_1400	protein	NCBITaxon:588858	20160121	AgBase			host cell plasma membrane
+UniProtKB	A0A0F6B063	sifA		GO:0030430	PMID:18996344	IDA		C	Secreted effector protein	STM14_1400	protein	NCBITaxon:588858	20160121	AgBase			host cell cytoplasm
+UniProtKB	A0A0F6B063	sifA		GO:1903527	PMID:18996344	IDA		P	Secreted effector protein	STM14_1400	protein	NCBITaxon:588858	20160121	AgBase	GO:0010008		positive regulation of membrane tubulation
+UniProtKB	D0ZVG2	sspH1		GO:0004842	PMID:18005683	IDA		F	E3 ubiquitin-protein ligase SspH1	STM14_1483	protein	NCBITaxon:588858	20100127	UniProt			ubiquitin-protein transferase activity
+UniProtKB	D0ZVG2	sspH1		GO:0005515	PMID:16611232	IPI	UniProtKB:Q16512	F	E3 ubiquitin-protein ligase SspH1	STM14_1483	protein	NCBITaxon:588858	20100127	UniProt			protein binding
+UniProtKB	D0ZVG2	sspH1		GO:0009405	PMID:16611232	TAS		P	E3 ubiquitin-protein ligase SspH1	STM14_1483	protein	NCBITaxon:588858	20100127	UniProt			pathogenesis
+UniProtKB	D0ZVG2	sspH1		GO:0016567	PMID:18005683	IDA		P	E3 ubiquitin-protein ligase SspH1	STM14_1483	protein	NCBITaxon:588858	20100127	UniProt			protein ubiquitination
+UniProtKB	D0ZVG2	sspH1		GO:0030254	PMID:10861017	IDA		P	E3 ubiquitin-protein ligase SspH1	STM14_1483	protein	NCBITaxon:588858	20100127	UniProt			protein secretion by the type III secretion system
+UniProtKB	D0ZVG2	sspH1		GO:0042025	PMID:16611232	IDA		C	E3 ubiquitin-protein ligase SspH1	STM14_1483	protein	NCBITaxon:588858	20100127	UniProt			host cell nucleus
+UniProtKB	D0ZMG9	sopA		GO:0004842	GO_REF:0000024	ISS	UniProtKB:Q8ZNR3	F	E3 ubiquitin-protein ligase SopA	STM14_2557	protein	NCBITaxon:588858	20100607	UniProt			ubiquitin-protein transferase activity
+UniProtKB	D0ZMG9	sopA		GO:0005576	GO_REF:0000024	ISS	UniProtKB:Q9S4P4	C	E3 ubiquitin-protein ligase SopA	STM14_2557	protein	NCBITaxon:588858	20100607	UniProt			extracellular region
+UniProtKB	D0ZMG9	sopA		GO:0009405	GO_REF:0000024	ISS	UniProtKB:Q8ZNR3	P	E3 ubiquitin-protein ligase SopA	STM14_2557	protein	NCBITaxon:588858	20100607	UniProt			pathogenesis
+UniProtKB	D0ZMG9	sopA		GO:0016567	GO_REF:0000024	ISS	UniProtKB:Q8ZNR3	P	E3 ubiquitin-protein ligase SopA	STM14_2557	protein	NCBITaxon:588858	20100607	UniProt			protein ubiquitination
+UniProtKB	A0A0F6B2Q8	flhC		GO:1900188	PMID:17074910	IMP		P	Flagellar transcriptional regulator FlhC	STM14_2340	protein	NCBITaxon:588858	20170405	CACAO			negative regulation of cell adhesion involved in single-species biofilm formation
+UniProtKB	A0A0F6B2Q9	flhD		GO:1900188	PMID:17074910	IMP		P	Flagellar transcriptional regulator FlhD	STM14_2341	protein	NCBITaxon:588858	20170405	CACAO			negative regulation of cell adhesion involved in single-species biofilm formation
+UniProtKB	D0ZKX9	rsep		GO:0006508	PMID:19170886	IMP		P	Regulator of sigma-E protease RseP	yaeL|STM14_0265	protein	NCBITaxon:588858	20131112	UniProt			proteolysis
+UniProtKB	D0ZKX9	rsep		GO:0009266	PMID:19170886	IMP		P	Regulator of sigma-E protease RseP	yaeL|STM14_0265	protein	NCBITaxon:588858	20131115	UniProt			response to temperature stimulus
+UniProtKB	D0ZKX9	rsep		GO:0009405	PMID:19170886	IMP		P	Regulator of sigma-E protease RseP	yaeL|STM14_0265	protein	NCBITaxon:588858	20131112	UniProt			pathogenesis
+UniProtKB	D0ZKX9	rsep		GO:0097533	PMID:19170886	IMP		P	Regulator of sigma-E protease RseP	yaeL|STM14_0265	protein	NCBITaxon:588858	20131115	UniProt			cellular stress response to acid chemical
+UniProtKB	D0ZLQ7	mgtC		GO:0005515	PMID:23827679	IPI	UniProtKB:A0A0F6B941	F	Protein MgtC	STM14_4538	protein	NCBITaxon:588858	20200613	IntAct	GO:0016020		protein binding
+UniProtKB	D0ZSY8	rseA		GO:0097533	PMID:19170886	IMP		P	Anti-sigma-E factor RseA	STM14_3233	protein	NCBITaxon:588858	20131115	UniProt			cellular stress response to acid chemical
+UniProtKB	D0ZRB2	slrP		GO:0004842	GO_REF:0000024	ISS	UniProtKB:Q8ZQQ2	F	E3 ubiquitin-protein ligase SlrP	STM14_928	protein	NCBITaxon:588858	20100127	UniProt			ubiquitin-protein transferase activity
+UniProtKB	D0ZRB2	slrP		GO:0005515	PMID:19690162	IPI	UniProtKB:P10599	F	E3 ubiquitin-protein ligase SlrP	STM14_928	protein	NCBITaxon:588858	20200116	GO_Central			protein binding
+UniProtKB	D0ZRB2	slrP		GO:0005515	PMID:19690162	IPI	UniProtKB:P10599	F	E3 ubiquitin-protein ligase SlrP	STM14_928	protein	NCBITaxon:588858	20200613	IntAct	GO:0000151		protein binding
+UniProtKB	D0ZRB2	slrP		GO:0009405	GO_REF:0000024	ISS	UniProtKB:Q8ZQQ2	P	E3 ubiquitin-protein ligase SlrP	STM14_928	protein	NCBITaxon:588858	20100127	UniProt			pathogenesis
+UniProtKB	D0ZRB2	slrP		GO:0010942	PMID:19690162	IMP		P	E3 ubiquitin-protein ligase SlrP	STM14_928	protein	NCBITaxon:588858	20160323	AgBase			positive regulation of cell death
+UniProtKB	D0ZRB2	slrP		GO:0016567	GO_REF:0000024	ISS	UniProtKB:Q8ZQQ2	P	E3 ubiquitin-protein ligase SlrP	STM14_928	protein	NCBITaxon:588858	20100127	UniProt			protein ubiquitination
+UniProtKB	D0ZRB2	slrP		GO:0016567	PMID:19690162	IDA		P	E3 ubiquitin-protein ligase SlrP	STM14_928	protein	NCBITaxon:588858	20150508	AgBase			protein ubiquitination
+UniProtKB	D0ZRB2	slrP		GO:0030254	PMID:10861017	IDA		P	E3 ubiquitin-protein ligase SlrP	STM14_928	protein	NCBITaxon:588858	20100127	UniProt			protein secretion by the type III secretion system
+UniProtKB	D0ZRB2	slrP		GO:0061630	PMID:19690162	IDA		F	E3 ubiquitin-protein ligase SlrP	STM14_928	protein	NCBITaxon:588858	20150508	AgBase			ubiquitin protein ligase activity
+UniProtKB	D0ZRB2	slrP		GO:1903124	PMID:19690162	IMP		P	E3 ubiquitin-protein ligase SlrP	STM14_928	protein	NCBITaxon:588858	20150508	AgBase	UniProtKB:P10599		negative regulation of thioredoxin peroxidase activity

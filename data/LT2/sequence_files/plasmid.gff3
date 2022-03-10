@@ -1,0 +1,217 @@
+##sequence-region AE006471.2 1 93933
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=99287
+AE006471.2	Genbank	region	1	93933	.	+	.	ID=AE006471.2:1..93933;Dbxref=taxon:99287;Is_circular=true;Name=pSLT;culture-collection=SGSC:1412;gbkey=Src;genome=plasmid;mol_type=genomic DNA;old-name=Salmonella typhimurium LT2;plasmid-name=pSLT;serovar=Typhimurium;strain=LT2;sub-species=enterica;type-material=type strain of Salmonella enterica
+AE006471.2	Genbank	gene	94	378	.	+	.	ID=gene-PSLT001;Name=PSLT001;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT001
+AE006471.2	Genbank	CDS	94	378	.	+	0	ID=cds-AAL23443.1;Parent=gene-PSLT001;Dbxref=NCBI_GP:AAL23443.1;Name=AAL23443.1;gbkey=CDS;locus_tag=PSLT001;product=putative cytoplasmic protein;protein_id=AAL23443.1;transl_table=11
+AE006471.2	Genbank	gene	712	1155	.	+	.	ID=gene-PSLT002;Name=PSLT002;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT002
+AE006471.2	Genbank	CDS	712	1155	.	+	0	ID=cds-AAL23444.1;Parent=gene-PSLT002;Dbxref=NCBI_GP:AAL23444.1;Name=AAL23444.1;gbkey=CDS;locus_tag=PSLT002;product=putative phospholipase D;protein_id=AAL23444.1;transl_table=11
+AE006471.2	Genbank	gene	1334	1600	.	+	.	ID=gene-PSLT003;Name=repC;gbkey=Gene;gene=repC;gene_biotype=protein_coding;locus_tag=PSLT003
+AE006471.2	Genbank	CDS	1334	1600	.	+	0	ID=cds-AAL23445.1;Parent=gene-PSLT003;Dbxref=NCBI_GP:AAL23445.1;Name=AAL23445.1;gbkey=CDS;gene=repC;locus_tag=PSLT003;product=DNA replication;protein_id=AAL23445.1;transl_table=11
+AE006471.2	Genbank	gene	1723	1845	.	+	.	ID=gene-PSLT004;Name=repA3;gbkey=Gene;gene=repA3;gene_biotype=protein_coding;locus_tag=PSLT004
+AE006471.2	Genbank	CDS	1723	1845	.	+	0	ID=cds-AAL23446.1;Parent=gene-PSLT004;Dbxref=NCBI_GP:AAL23446.1;Name=AAL23446.1;gbkey=CDS;gene=repA3;locus_tag=PSLT004;product=DNA replication;protein_id=AAL23446.1;transl_table=11
+AE006471.2	Genbank	gene	1850	1927	.	+	.	ID=gene-PSLT005;Name=tap;gbkey=Gene;gene=tap;gene_biotype=protein_coding;locus_tag=PSLT005
+AE006471.2	Genbank	CDS	1850	1927	.	+	0	ID=cds-AAL23447.1;Parent=gene-PSLT005;Dbxref=NCBI_GP:AAL23447.1;Name=AAL23447.1;gbkey=CDS;gene=tap;locus_tag=PSLT005;product=replication of plasmid;protein_id=AAL23447.1;transl_table=11
+AE006471.2	Genbank	gene	1908	2789	.	+	.	ID=gene-PSLT006;Name=repA;gbkey=Gene;gene=repA;gene_biotype=protein_coding;locus_tag=PSLT006
+AE006471.2	Genbank	CDS	1908	2789	.	+	0	ID=cds-AAL23448.1;Parent=gene-PSLT006;Dbxref=NCBI_GP:AAL23448.1;Name=AAL23448.1;gbkey=CDS;gene=repA;locus_tag=PSLT006;product=DNA replication;protein_id=AAL23448.1;transl_table=11
+AE006471.2	Genbank	gene	3730	3870	.	+	.	ID=gene-PSLT007;Name=PSLT007;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT007
+AE006471.2	Genbank	CDS	3730	3870	.	+	0	ID=cds-AAL23449.1;Parent=gene-PSLT007;Dbxref=NCBI_GP:AAL23449.1;Name=AAL23449.1;gbkey=CDS;locus_tag=PSLT007;product=putative outer membrane protein;protein_id=AAL23449.1;transl_table=11
+AE006471.2	Genbank	gene	3967	4725	.	-	.	ID=gene-PSLT008;Name=srgC;gbkey=Gene;gene=srgC;gene_biotype=protein_coding;gene_synonym=rcK;locus_tag=PSLT008
+AE006471.2	Genbank	CDS	3967	4725	.	-	0	ID=cds-AAL23512.1;Parent=gene-PSLT008;Dbxref=NCBI_GP:AAL23512.1;Name=AAL23512.1;gbkey=CDS;gene=srgC;locus_tag=PSLT008;product=sdiA-regulated gene%3Bputative bacterial regulatory helix-turn-helix proteins%2C araC family;protein_id=AAL23512.1;transl_table=11
+AE006471.2	Genbank	gene	4992	5549	.	-	.	ID=gene-PSLT009;Name=rcK;gbkey=Gene;gene=rcK;gene_biotype=protein_coding;gene_synonym=srgB;locus_tag=PSLT009
+AE006471.2	Genbank	CDS	4992	5549	.	-	0	ID=cds-AAL23513.1;Parent=gene-PSLT009;Dbxref=NCBI_GP:AAL23513.1;Name=AAL23513.1;gbkey=CDS;gene=rcK;locus_tag=PSLT009;product=resistance to complement killing;protein_id=AAL23513.1;transl_table=11
+AE006471.2	Genbank	gene	5639	6538	.	-	.	ID=gene-PSLT010;Name=srgB;gbkey=Gene;gene=srgB;gene_biotype=protein_coding;gene_synonym=srgA;locus_tag=PSLT010
+AE006471.2	Genbank	CDS	5639	6538	.	-	0	ID=cds-AAL23514.1;Parent=gene-PSLT010;Dbxref=NCBI_GP:AAL23514.1;Name=AAL23514.1;gbkey=CDS;gene=srgB;locus_tag=PSLT010;product=sdiA-regulated gene%3B putative outer membrane protein;protein_id=AAL23514.1;transl_table=11
+AE006471.2	Genbank	gene	6671	7324	.	-	.	ID=gene-PSLT011;Name=srgA;gbkey=Gene;gene=srgA;gene_biotype=protein_coding;gene_synonym=orf7;locus_tag=PSLT011
+AE006471.2	Genbank	CDS	6671	7324	.	-	0	ID=cds-AAL23515.1;Parent=gene-PSLT011;Dbxref=NCBI_GP:AAL23515.1;Name=AAL23515.1;gbkey=CDS;gene=srgA;locus_tag=PSLT011;product=sdiA-regulated gene%3B putative thiol-disulfide isomerase or thioredoxin;protein_id=AAL23515.1;transl_table=11
+AE006471.2	Genbank	gene	7569	7919	.	-	.	ID=gene-PSLT012;Name=orf7;gbkey=Gene;gene=orf7;gene_biotype=protein_coding;gene_synonym=pefI;locus_tag=PSLT012
+AE006471.2	Genbank	CDS	7569	7919	.	-	0	ID=cds-AAL23516.1;Parent=gene-PSLT012;Dbxref=NCBI_GP:AAL23516.1;Name=AAL23516.1;gbkey=CDS;gene=orf7;locus_tag=PSLT012;product=putative bacterial regulatory proteins%2C luxR family;protein_id=AAL23516.1;transl_table=11
+AE006471.2	Genbank	gene	7904	8116	.	-	.	ID=gene-PSLT013;Name=pefI;gbkey=Gene;gene=pefI;gene_biotype=protein_coding;gene_synonym=orf6;locus_tag=PSLT013
+AE006471.2	Genbank	CDS	7904	8116	.	-	0	ID=cds-AAL23517.1;Parent=gene-PSLT013;Dbxref=NCBI_GP:AAL23517.1;Name=AAL23517.1;gbkey=CDS;gene=pefI;locus_tag=PSLT013;product=plasmid-encoded fimbriae%3B regulatory;protein_id=AAL23517.1;transl_table=11
+AE006471.2	Genbank	gene	8548	9423	.	-	.	ID=gene-PSLT014;Name=orf6;gbkey=Gene;gene=orf6;gene_biotype=protein_coding;gene_synonym=orf5;locus_tag=PSLT014
+AE006471.2	Genbank	CDS	8548	9423	.	-	0	ID=cds-AAL23518.1;Parent=gene-PSLT014;Dbxref=NCBI_GP:AAL23518.1;Name=AAL23518.1;gbkey=CDS;gene=orf6;locus_tag=PSLT014;product=putative outer membrane protein;protein_id=AAL23518.1;transl_table=11
+AE006471.2	Genbank	gene	9676	10233	.	-	.	ID=gene-PSLT015;Name=orf5;gbkey=Gene;gene=orf5;gene_biotype=protein_coding;gene_synonym=pefD;locus_tag=PSLT015
+AE006471.2	Genbank	CDS	9676	10233	.	-	0	ID=cds-AAL23519.1;Parent=gene-PSLT015;Dbxref=NCBI_GP:AAL23519.1;Name=AAL23519.1;gbkey=CDS;gene=orf5;locus_tag=PSLT015;product=putative outer membrane protein;protein_id=AAL23519.1;transl_table=11
+AE006471.2	Genbank	gene	10248	10940	.	-	.	ID=gene-PSLT016;Name=pefD;gbkey=Gene;gene=pefD;gene_biotype=protein_coding;gene_synonym=pefC;locus_tag=PSLT016
+AE006471.2	Genbank	CDS	10248	10940	.	-	0	ID=cds-AAL23520.1;Parent=gene-PSLT016;Dbxref=NCBI_GP:AAL23520.1;Name=AAL23520.1;gbkey=CDS;gene=pefD;locus_tag=PSLT016;product=plasmid-encoded fimbriae%3Bchaperone;protein_id=AAL23520.1;transl_table=11
+AE006471.2	Genbank	gene	10933	13341	.	-	.	ID=gene-PSLT017;Name=pefC;gbkey=Gene;gene=pefC;gene_biotype=protein_coding;gene_synonym=pefA;locus_tag=PSLT017
+AE006471.2	Genbank	CDS	10933	13341	.	-	0	ID=cds-AAL23521.1;Parent=gene-PSLT017;Dbxref=NCBI_GP:AAL23521.1;Name=AAL23521.1;gbkey=CDS;gene=pefC;locus_tag=PSLT017;product=plasmid-encoded fimbriae%3B usher protein;protein_id=AAL23521.1;transl_table=11
+AE006471.2	Genbank	gene	13569	14087	.	-	.	ID=gene-PSLT018;Name=pefA;gbkey=Gene;gene=pefA;gene_biotype=protein_coding;gene_synonym=pefB;locus_tag=PSLT018
+AE006471.2	Genbank	CDS	13569	14087	.	-	0	ID=cds-AAL23522.1;Parent=gene-PSLT018;Dbxref=NCBI_GP:AAL23522.1;Name=AAL23522.1;gbkey=CDS;gene=pefA;locus_tag=PSLT018;product=plasmid-encoded fimbriae%3B major fimbrial subunit;protein_id=AAL23522.1;transl_table=11
+AE006471.2	Genbank	gene	14362	14664	.	-	.	ID=gene-PSLT019;Name=pefB;gbkey=Gene;gene=pefB;gene_biotype=protein_coding;locus_tag=PSLT019
+AE006471.2	Genbank	CDS	14362	14664	.	-	0	ID=cds-AAL23523.1;Parent=gene-PSLT019;Dbxref=NCBI_GP:AAL23523.1;Name=AAL23523.1;gbkey=CDS;gene=pefB;locus_tag=PSLT019;product=plasmid-encoded fimbriae%3Bregulation;protein_id=AAL23523.1;transl_table=11
+AE006471.2	Genbank	gene	15561	15764	.	+	.	ID=gene-PSLT020;Name=PSLT020;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT020
+AE006471.2	Genbank	CDS	15561	15764	.	+	0	ID=cds-AAL23450.1;Parent=gene-PSLT020;Dbxref=NCBI_GP:AAL23450.1;Name=AAL23450.1;gbkey=CDS;locus_tag=PSLT020;product=hypothetical protein;protein_id=AAL23450.1;transl_table=11
+AE006471.2	Genbank	gene	15921	16377	.	+	.	ID=gene-PSLT021;Name=PSLT021;gbkey=Gene;gene_biotype=other;locus_tag=PSLT021
+AE006471.2	Genbank	gene	16074	16380	.	-	.	ID=gene-PSLT022;Name=repA2;gbkey=Gene;gene=repA2;gene_biotype=other;locus_tag=PSLT022
+AE006471.2	Genbank	gene	16636	17625	.	-	.	ID=gene-PSLT023;Name=repA2;gbkey=Gene;gene=repA2;gene_biotype=protein_coding;locus_tag=PSLT023
+AE006471.2	Genbank	CDS	16636	17625	.	-	0	ID=cds-AAL23524.1;Parent=gene-PSLT023;Dbxref=NCBI_GP:AAL23524.1;Name=AAL23524.1;gbkey=CDS;gene=repA2;locus_tag=PSLT023;product=DNA replication;protein_id=AAL23524.1;transl_table=11
+AE006471.2	Genbank	gene	17369	17677	.	+	.	ID=gene-PSLT024;Name=PSLT024;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT024
+AE006471.2	Genbank	CDS	17369	17677	.	+	0	ID=cds-AAL23451.1;Parent=gene-PSLT024;Dbxref=NCBI_GP:AAL23451.1;Name=AAL23451.1;gbkey=CDS;locus_tag=PSLT024;product=hypothetical protein;protein_id=AAL23451.1;transl_table=11
+AE006471.2	Genbank	gene	18119	18415	.	-	.	ID=gene-PSLT025;Name=PSLT025;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT025
+AE006471.2	Genbank	CDS	18119	18415	.	-	0	ID=cds-AAL23525.1;Parent=gene-PSLT025;Dbxref=NCBI_GP:AAL23525.1;Name=AAL23525.1;gbkey=CDS;locus_tag=PSLT025;product=putative cytoplasmic protein;protein_id=AAL23525.1;transl_table=11
+AE006471.2	Genbank	gene	18899	19420	.	-	.	ID=gene-PSLT026;Name=PSLT026;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT026
+AE006471.2	Genbank	CDS	18899	19420	.	-	0	ID=cds-AAL23526.1;Parent=gene-PSLT026;Dbxref=NCBI_GP:AAL23526.1;Name=AAL23526.1;gbkey=CDS;locus_tag=PSLT026;product=putative periplasmic protein;protein_id=AAL23526.1;transl_table=11
+AE006471.2	Genbank	gene	20096	20314	.	+	.	ID=gene-PSLT027;Name=ccdA;gbkey=Gene;gene=ccdA;gene_biotype=protein_coding;locus_tag=PSLT027
+AE006471.2	Genbank	CDS	20096	20314	.	+	0	ID=cds-AAL23452.1;Parent=gene-PSLT027;Dbxref=NCBI_GP:AAL23452.1;Name=AAL23452.1;gbkey=CDS;gene=ccdA;locus_tag=PSLT027;product=toxin addiction system: antidote;protein_id=AAL23452.1;transl_table=11
+AE006471.2	Genbank	gene	20316	20621	.	+	.	ID=gene-PSLT028;Name=ccdB;gbkey=Gene;gene=ccdB;gene_biotype=protein_coding;locus_tag=PSLT028
+AE006471.2	Genbank	CDS	20316	20621	.	+	0	ID=cds-AAL23453.1;Parent=gene-PSLT028;Dbxref=NCBI_GP:AAL23453.1;Name=AAL23453.1;gbkey=CDS;gene=ccdB;locus_tag=PSLT028;product=toxin addiction system: toxin;protein_id=AAL23453.1;transl_table=11
+AE006471.2	Genbank	gene	20623	20913	.	+	.	ID=gene-PSLT029;Name=PSLT029;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT029
+AE006471.2	Genbank	CDS	20623	20913	.	+	0	ID=cds-AAL23454.1;Parent=gene-PSLT029;Dbxref=NCBI_GP:AAL23454.1;Name=AAL23454.1;gbkey=CDS;locus_tag=PSLT029;product=putative cytoplasmic protein;protein_id=AAL23454.1;transl_table=11
+AE006471.2	Genbank	gene	20910	21431	.	+	.	ID=gene-PSLT030;Name=PSLT030;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT030
+AE006471.2	Genbank	CDS	20910	21431	.	+	0	ID=cds-AAL23455.1;Parent=gene-PSLT030;Dbxref=NCBI_GP:AAL23455.1;Name=AAL23455.1;gbkey=CDS;locus_tag=PSLT030;product=putative cytoplasmic protein;protein_id=AAL23455.1;transl_table=11
+AE006471.2	Genbank	gene	21466	22248	.	+	.	ID=gene-PSLT031;Name=rsdB;gbkey=Gene;gene=rsdB;gene_biotype=protein_coding;locus_tag=PSLT031
+AE006471.2	Genbank	CDS	21466	22248	.	+	0	ID=cds-AAL23456.1;Parent=gene-PSLT031;Dbxref=NCBI_GP:AAL23456.1;Name=AAL23456.1;gbkey=CDS;gene=rsdB;locus_tag=PSLT031;product=resolvase;protein_id=AAL23456.1;transl_table=11
+AE006471.2	Genbank	gene	22257	22808	.	+	.	ID=gene-PSLT032;Name=PSLT032;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT032
+AE006471.2	Genbank	CDS	22257	22808	.	+	0	ID=cds-AAL23457.1;Parent=gene-PSLT032;Dbxref=NCBI_GP:AAL23457.1;Name=AAL23457.1;gbkey=CDS;locus_tag=PSLT032;product=putative diguanylate cyclase/phosphodiesterase;protein_id=AAL23457.1;transl_table=11
+AE006471.2	Genbank	gene	23477	23962	.	+	.	ID=gene-PSLT033;Name=PSLT033;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT033
+AE006471.2	Genbank	CDS	23477	23962	.	+	0	ID=cds-AAL23458.1;Parent=gene-PSLT033;Dbxref=NCBI_GP:AAL23458.1;Name=AAL23458.1;gbkey=CDS;locus_tag=PSLT033;product=putative inner membrane protein;protein_id=AAL23458.1;transl_table=11
+AE006471.2	Genbank	gene	24682	25242	.	+	.	ID=gene-PSLT034;Name=PSLT034;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT034
+AE006471.2	Genbank	CDS	24682	25242	.	+	0	ID=cds-AAL23459.1;Parent=gene-PSLT034;Dbxref=NCBI_GP:AAL23459.1;Name=AAL23459.1;gbkey=CDS;locus_tag=PSLT034;product=putative adhesin;protein_id=AAL23459.1;transl_table=11
+AE006471.2	Genbank	gene	25309	25659	.	-	.	ID=gene-PSLT035;Name=spvD;gbkey=Gene;gene=spvD;gene_biotype=protein_coding;locus_tag=PSLT035
+AE006471.2	Genbank	CDS	25309	25659	.	-	0	ID=cds-AAL23527.1;Parent=gene-PSLT035;Dbxref=NCBI_GP:AAL23527.1;Name=AAL23527.1;gbkey=CDS;gene=spvD;locus_tag=PSLT035;product=putative transposase;protein_id=AAL23527.1;transl_table=11
+AE006471.2	Genbank	gene	25877	26140	.	+	.	ID=gene-PSLT036;Name=PSLT036;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT036
+AE006471.2	Genbank	CDS	25877	26140	.	+	0	ID=cds-AAL23460.1;Parent=gene-PSLT036;Dbxref=NCBI_GP:AAL23460.1;Name=AAL23460.1;gbkey=CDS;locus_tag=PSLT036;product=putative transposase%2C IS200-like;protein_id=AAL23460.1;transl_table=11
+AE006471.2	Genbank	gene	26267	26917	.	-	.	ID=gene-PSLT037;Name=spvD;gbkey=Gene;gene=spvD;gene_biotype=protein_coding;gene_synonym=spvC;locus_tag=PSLT037
+AE006471.2	Genbank	CDS	26267	26917	.	-	0	ID=cds-AAL23528.1;Parent=gene-PSLT037;Dbxref=NCBI_GP:AAL23528.1;Name=AAL23528.1;gbkey=CDS;gene=spvD;locus_tag=PSLT037;product=Salmonella plasmid virulence: hydrophilic protein;protein_id=AAL23528.1;transl_table=11
+AE006471.2	Genbank	gene	27178	27903	.	-	.	ID=gene-PSLT038;Name=spvC;gbkey=Gene;gene=spvC;gene_biotype=protein_coding;gene_synonym=spvB;locus_tag=PSLT038
+AE006471.2	Genbank	CDS	27178	27903	.	-	0	ID=cds-AAL23529.1;Parent=gene-PSLT038;Dbxref=NCBI_GP:AAL23529.1;Name=AAL23529.1;gbkey=CDS;gene=spvC;locus_tag=PSLT038;product=Salmonella plasmid virulence: hydrophilic protein;protein_id=AAL23529.1;transl_table=11
+AE006471.2	Genbank	gene	28185	29960	.	-	.	ID=gene-PSLT039;Name=spvB;gbkey=Gene;gene=spvB;gene_biotype=protein_coding;gene_synonym=spvA;locus_tag=PSLT039
+AE006471.2	Genbank	CDS	28185	29960	.	-	0	ID=cds-AAL23530.1;Parent=gene-PSLT039;Dbxref=NCBI_GP:AAL23530.1;Name=AAL23530.1;gbkey=CDS;gene=spvB;locus_tag=PSLT039;product=Salmonella plasmid virulence: hydrophilic protein;protein_id=AAL23530.1;transl_table=11
+AE006471.2	Genbank	gene	30142	30909	.	-	.	ID=gene-PSLT040;Name=spvA;gbkey=Gene;gene=spvA;gene_biotype=protein_coding;gene_synonym=spvR;locus_tag=PSLT040
+AE006471.2	Genbank	CDS	30142	30909	.	-	0	ID=cds-AAL23531.1;Parent=gene-PSLT040;Dbxref=NCBI_GP:AAL23531.1;Name=AAL23531.1;gbkey=CDS;gene=spvA;locus_tag=PSLT040;product=Salmonella plasmid virulence: outer membrane protein;protein_id=AAL23531.1;transl_table=11
+AE006471.2	Genbank	gene	31421	32314	.	-	.	ID=gene-PSLT041;Name=spvR;gbkey=Gene;gene=spvR;gene_biotype=protein_coding;locus_tag=PSLT041
+AE006471.2	Genbank	CDS	31421	32314	.	-	0	ID=cds-AAL23532.1;Parent=gene-PSLT041;Dbxref=NCBI_GP:AAL23532.1;Name=AAL23532.1;gbkey=CDS;gene=spvR;locus_tag=PSLT041;product=Salmonella plasmid virulence: regulation of spv operon%2C lysR family;protein_id=AAL23532.1;transl_table=11
+AE006471.2	Genbank	gene	32923	33960	.	+	.	ID=gene-PSLT042;Name=PSLT042;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT042
+AE006471.2	Genbank	CDS	32923	33960	.	+	0	ID=cds-AAL23461.1;Parent=gene-PSLT042;Dbxref=NCBI_GP:AAL23461.1;Name=AAL23461.1;gbkey=CDS;locus_tag=PSLT042;product=putative integrase protein;protein_id=AAL23461.1;transl_table=11
+AE006471.2	Genbank	gene	34149	35174	.	-	.	ID=gene-PSLT043;Name=PSLT043;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT043
+AE006471.2	Genbank	CDS	34149	35174	.	-	0	ID=cds-AAL23533.1;Parent=gene-PSLT043;Dbxref=NCBI_GP:AAL23533.1;Name=AAL23533.1;gbkey=CDS;locus_tag=PSLT043;product=putative phosphoribulokinase / uridine kinase family;protein_id=AAL23533.1;transl_table=11
+AE006471.2	Genbank	gene	35107	36771	.	-	.	ID=gene-PSLT044;Name=rlgA;gbkey=Gene;gene=rlgA;gene_biotype=protein_coding;locus_tag=PSLT044
+AE006471.2	Genbank	CDS	35107	36771	.	-	0	ID=cds-AAL23534.1;Parent=gene-PSLT044;Dbxref=NCBI_GP:AAL23534.1;Name=AAL23534.1;gbkey=CDS;gene=rlgA;locus_tag=PSLT044;product=putative integrase protein;protein_id=AAL23534.1;transl_table=11
+AE006471.2	Genbank	gene	36755	37315	.	-	.	ID=gene-PSLT045;Name=PSLT045;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT045
+AE006471.2	Genbank	CDS	36755	37315	.	-	0	ID=cds-AAL23535.1;Parent=gene-PSLT045;Dbxref=NCBI_GP:AAL23535.1;Name=AAL23535.1;gbkey=CDS;locus_tag=PSLT045;product=putative resolvase;protein_id=AAL23535.1;transl_table=11
+AE006471.2	Genbank	gene	37522	38262	.	-	.	ID=gene-PSLT046;Name=PSLT046;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT046
+AE006471.2	Genbank	CDS	37522	38262	.	-	0	ID=cds-AAL23536.1;Parent=gene-PSLT046;Dbxref=NCBI_GP:AAL23536.1;Name=AAL23536.1;gbkey=CDS;locus_tag=PSLT046;product=putative carbonic anhydrase;protein_id=AAL23536.1;transl_table=11
+AE006471.2	Genbank	gene	38917	39405	.	-	.	ID=gene-PSLT047;Name=PSLT047;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT047
+AE006471.2	Genbank	CDS	38917	39405	.	-	0	ID=cds-AAL23537.1;Parent=gene-PSLT047;Dbxref=NCBI_GP:AAL23537.1;Name=AAL23537.1;gbkey=CDS;locus_tag=PSLT047;product=putative cytoplasmic protein;protein_id=AAL23537.1;transl_table=11
+AE006471.2	Genbank	gene	39664	40779	.	+	.	ID=gene-PSLT048;Name=tlpA;gbkey=Gene;gene=tlpA;gene_biotype=protein_coding;locus_tag=PSLT048
+AE006471.2	Genbank	CDS	39664	40779	.	+	0	ID=cds-AAL23462.1;Parent=gene-PSLT048;Dbxref=NCBI_GP:AAL23462.1;Name=AAL23462.1;gbkey=CDS;gene=tlpA;locus_tag=PSLT048;product=alpha-helical coiled coil protein;protein_id=AAL23462.1;transl_table=11
+AE006471.2	Genbank	gene	40865	41281	.	+	.	ID=gene-PSLT049;Name=PSLT049;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT049
+AE006471.2	Genbank	CDS	40865	41281	.	+	0	ID=cds-AAL23463.1;Parent=gene-PSLT049;Dbxref=NCBI_GP:AAL23463.1;Name=AAL23463.1;gbkey=CDS;locus_tag=PSLT049;product=putative DNA polymerase III epsilon subunit (3'-5' exonuclease);protein_id=AAL23463.1;transl_table=11
+AE006471.2	Genbank	gene	40975	41301	.	-	.	ID=gene-PSLT050;Name=PSLT050;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT050
+AE006471.2	Genbank	CDS	40975	41301	.	-	0	ID=cds-AAL23538.1;Parent=gene-PSLT050;Dbxref=NCBI_GP:AAL23538.1;Name=AAL23538.1;gbkey=CDS;locus_tag=PSLT050;product=putative cytoplasmic protein;protein_id=AAL23538.1;transl_table=11
+AE006471.2	Genbank	gene	42455	43396	.	-	.	ID=gene-PSLT051;Name=samB;gbkey=Gene;gene=samB;gene_biotype=protein_coding;locus_tag=PSLT051
+AE006471.2	Genbank	CDS	42455	43396	.	-	0	ID=cds-AAL23539.1;Parent=gene-PSLT051;Dbxref=NCBI_GP:AAL23539.1;Name=AAL23539.1;gbkey=CDS;gene=samB;locus_tag=PSLT051;product=putative cytoplasmic protein;protein_id=AAL23539.1;transl_table=11
+AE006471.2	Genbank	gene	43811	45016	.	+	.	ID=gene-PSLT052;Name=parA;gbkey=Gene;gene=parA;gene_biotype=protein_coding;locus_tag=PSLT052
+AE006471.2	Genbank	CDS	43811	45016	.	+	0	ID=cds-AAL23464.1;Parent=gene-PSLT052;Dbxref=NCBI_GP:AAL23464.1;Name=AAL23464.1;gbkey=CDS;gene=parA;locus_tag=PSLT052;product=plasmid partition protein A;protein_id=AAL23464.1;transl_table=11
+AE006471.2	Genbank	gene	45013	45990	.	+	.	ID=gene-PSLT053;Name=parB;gbkey=Gene;gene=parB;gene_biotype=protein_coding;locus_tag=PSLT053
+AE006471.2	Genbank	CDS	45013	45990	.	+	0	ID=cds-AAL23465.1;Parent=gene-PSLT053;Dbxref=NCBI_GP:AAL23465.1;Name=AAL23465.1;gbkey=CDS;gene=parB;locus_tag=PSLT053;product=plasmid partition protein B;protein_id=AAL23465.1;transl_table=11
+AE006471.2	Genbank	gene	46072	47346	.	-	.	ID=gene-PSLT054;Name=samB;gbkey=Gene;gene=samB;gene_biotype=protein_coding;gene_synonym=samA;locus_tag=PSLT054
+AE006471.2	Genbank	CDS	46072	47346	.	-	0	ID=cds-AAL23540.1;Parent=gene-PSLT054;Dbxref=NCBI_GP:AAL23540.1;Name=AAL23540.1;gbkey=CDS;gene=samB;locus_tag=PSLT054;product=mutagenesis by UV and mutagens%3B related to umuDC operon;protein_id=AAL23540.1;transl_table=11
+AE006471.2	Genbank	gene	47346	47768	.	-	.	ID=gene-PSLT055;Name=samA;gbkey=Gene;gene=samA;gene_biotype=protein_coding;locus_tag=PSLT055
+AE006471.2	Genbank	CDS	47346	47768	.	-	0	ID=cds-AAL23541.1;Parent=gene-PSLT055;Dbxref=NCBI_GP:AAL23541.1;Name=AAL23541.1;gbkey=CDS;gene=samA;locus_tag=PSLT055;product=mutagenesis by UV and mutagens%3B related to umuDC operon;protein_id=AAL23541.1;transl_table=11
+AE006471.2	Genbank	gene	48279	48749	.	+	.	ID=gene-PSLT056;Name=PSLT056;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT056
+AE006471.2	Genbank	CDS	48279	48749	.	+	0	ID=cds-AAL23466.1;Parent=gene-PSLT056;Dbxref=NCBI_GP:AAL23466.1;Name=AAL23466.1;gbkey=CDS;locus_tag=PSLT056;product=putative cytoplasmic protein;protein_id=AAL23466.1;transl_table=11
+AE006471.2	Genbank	gene	48742	49098	.	+	.	ID=gene-PSLT057;Name=PSLT057;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT057
+AE006471.2	Genbank	CDS	48742	49098	.	+	0	ID=cds-AAL23467.1;Parent=gene-PSLT057;Dbxref=NCBI_GP:AAL23467.1;Name=AAL23467.1;gbkey=CDS;locus_tag=PSLT057;product=putative cytoplasmic protein;protein_id=AAL23467.1;transl_table=11
+AE006471.2	Genbank	gene	49448	49860	.	-	.	ID=gene-PSLT058;Name=PSLT058;gbkey=Gene;gene_biotype=other;locus_tag=PSLT058
+AE006471.2	Genbank	gene	49480	50160	.	+	.	ID=gene-PSLT059;Name=PSLT059;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT059
+AE006471.2	Genbank	CDS	49480	50160	.	+	0	ID=cds-AAL23468.1;Parent=gene-PSLT059;Dbxref=NCBI_GP:AAL23468.1;Name=AAL23468.1;gbkey=CDS;locus_tag=PSLT059;product=putative adenine-specific DNA methylase;protein_id=AAL23468.1;transl_table=11
+AE006471.2	Genbank	gene	50160	50381	.	+	.	ID=gene-PSLT060;Name=PSLT060;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT060
+AE006471.2	Genbank	CDS	50160	50381	.	+	0	ID=cds-AAL23469.1;Parent=gene-PSLT060;Dbxref=NCBI_GP:AAL23469.1;Name=AAL23469.1;gbkey=CDS;locus_tag=PSLT060;product=putative cytoplasmic protein;protein_id=AAL23469.1;transl_table=11
+AE006471.2	Genbank	gene	50922	51686	.	+	.	ID=gene-PSLT061;Name=PSLT061;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT061
+AE006471.2	Genbank	CDS	50922	51686	.	+	0	ID=cds-AAL23470.1;Parent=gene-PSLT061;Dbxref=NCBI_GP:AAL23470.1;Name=AAL23470.1;gbkey=CDS;locus_tag=PSLT061;product=putative inner membrane protein;protein_id=AAL23470.1;transl_table=11
+AE006471.2	Genbank	gene	52182	52616	.	+	.	ID=gene-PSLT062;Name=PSLT062;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT062
+AE006471.2	Genbank	CDS	52182	52616	.	+	0	ID=cds-AAL23471.1;Parent=gene-PSLT062;Dbxref=NCBI_GP:AAL23471.1;Name=AAL23471.1;gbkey=CDS;locus_tag=PSLT062;product=putative cytoplasmic protein;protein_id=AAL23471.1;transl_table=11
+AE006471.2	Genbank	gene	52683	53117	.	+	.	ID=gene-PSLT063;Name=PSLT063;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT063
+AE006471.2	Genbank	CDS	52683	53117	.	+	0	ID=cds-AAL23472.1;Parent=gene-PSLT063;Dbxref=NCBI_GP:AAL23472.1;Name=AAL23472.1;gbkey=CDS;locus_tag=PSLT063;product=putative cytoplasmic protein;protein_id=AAL23472.1;transl_table=11
+AE006471.2	Genbank	gene	53353	53676	.	+	.	ID=gene-PSLT064;Name=PSLT064;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT064
+AE006471.2	Genbank	CDS	53353	53676	.	+	0	ID=cds-AAL23473.1;Parent=gene-PSLT064;Dbxref=NCBI_GP:AAL23473.1;Name=AAL23473.1;gbkey=CDS;locus_tag=PSLT064;product=putative inner membrane protein;protein_id=AAL23473.1;transl_table=11
+AE006471.2	Genbank	gene	53906	54186	.	+	.	ID=gene-PSLT065;Name=PSLT065;gbkey=Gene;gene_biotype=other;locus_tag=PSLT065
+AE006471.2	Genbank	gene	54395	54913	.	+	.	ID=gene-PSLT066;Name=ssbB;gbkey=Gene;gene=ssbB;gene_biotype=protein_coding;locus_tag=PSLT066
+AE006471.2	Genbank	CDS	54395	54913	.	+	0	ID=cds-AAL23474.1;Parent=gene-PSLT066;Dbxref=NCBI_GP:AAL23474.1;Name=AAL23474.1;gbkey=CDS;gene=ssbB;locus_tag=PSLT066;product=single-strand binding protein;protein_id=AAL23474.1;transl_table=11
+AE006471.2	Genbank	gene	54968	55210	.	+	.	ID=gene-PSLT067;Name=PSLT067;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT067
+AE006471.2	Genbank	CDS	54968	55210	.	+	0	ID=cds-AAL23475.1;Parent=gene-PSLT067;Dbxref=NCBI_GP:AAL23475.1;Name=AAL23475.1;gbkey=CDS;locus_tag=PSLT067;product=putative cytoplasmic protein;protein_id=AAL23475.1;transl_table=11
+AE006471.2	Genbank	gene	55279	57276	.	+	.	ID=gene-PSLT068;Name=PSLT068;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT068
+AE006471.2	Genbank	CDS	55279	57276	.	+	0	ID=cds-AAL23476.1;Parent=gene-PSLT068;Dbxref=NCBI_GP:AAL23476.1;Name=AAL23476.1;gbkey=CDS;locus_tag=PSLT068;product=putative ParB-like nuclease domain;protein_id=AAL23476.1;transl_table=11
+AE006471.2	Genbank	gene	57316	57750	.	+	.	ID=gene-PSLT069;Name=psiB;gbkey=Gene;gene=psiB;gene_biotype=protein_coding;locus_tag=PSLT069
+AE006471.2	Genbank	CDS	57316	57750	.	+	0	ID=cds-AAL23477.1;Parent=gene-PSLT069;Dbxref=NCBI_GP:AAL23477.1;Name=AAL23477.1;gbkey=CDS;gene=psiB;locus_tag=PSLT069;product=Plasmid SOS inhibition;protein_id=AAL23477.1;transl_table=11
+AE006471.2	Genbank	gene	57747	58484	.	+	.	ID=gene-PSLT070;Name=psiA;gbkey=Gene;gene=psiA;gene_biotype=protein_coding;locus_tag=PSLT070
+AE006471.2	Genbank	CDS	57747	58484	.	+	0	ID=cds-AAL23478.1;Parent=gene-PSLT070;Dbxref=NCBI_GP:AAL23478.1;Name=AAL23478.1;gbkey=CDS;gene=psiA;locus_tag=PSLT070;product=Plasmid SOS inhibition;protein_id=AAL23478.1;transl_table=11
+AE006471.2	Genbank	gene	58994	59812	.	+	.	ID=gene-PSLT071;Name=PSLT071;gbkey=Gene;gene_biotype=other;locus_tag=PSLT071
+AE006471.2	Genbank	gene	60123	60593	.	-	.	ID=gene-PSLT072;Name=finP;gbkey=Gene;gene=finP;gene_biotype=protein_coding;locus_tag=PSLT072
+AE006471.2	Genbank	CDS	60123	60593	.	-	0	ID=cds-AAL23542.1;Parent=gene-PSLT072;Dbxref=NCBI_GP:AAL23542.1;Name=AAL23542.1;gbkey=CDS;gene=finP;locus_tag=PSLT072;product=putative transglycosylase;protein_id=AAL23542.1;transl_table=11
+AE006471.2	Genbank	gene	61008	61388	.	+	.	ID=gene-PSLT073;Name=traM;gbkey=Gene;gene=traM;gene_biotype=protein_coding;locus_tag=PSLT073
+AE006471.2	Genbank	CDS	61008	61388	.	+	0	ID=cds-AAL23479.1;Parent=gene-PSLT073;Dbxref=NCBI_GP:AAL23479.1;Name=AAL23479.1;gbkey=CDS;gene=traM;locus_tag=PSLT073;product=conjugative transfer: mating signal;protein_id=AAL23479.1;transl_table=11
+AE006471.2	Genbank	gene	61455	61622	.	-	.	ID=gene-PSLT074;Name=finP;gbkey=Gene;gene=finP;gene_biotype=misc_RNA;locus_tag=PSLT074
+AE006471.2	Genbank	transcript	61455	61622	.	-	.	ID=rna-PSLT074;Parent=gene-PSLT074;gbkey=misc_RNA;gene=finP;locus_tag=PSLT074;product=antisense RNA determining region
+AE006471.2	Genbank	exon	61455	61622	.	-	.	ID=exon-PSLT074-1;Parent=rna-PSLT074;gbkey=misc_RNA;gene=finP;locus_tag=PSLT074;product=antisense RNA determining region
+AE006471.2	Genbank	gene	61581	62267	.	+	.	ID=gene-PSLT075;Name=traJ;gbkey=Gene;gene=traJ;gene_biotype=protein_coding;locus_tag=PSLT075
+AE006471.2	Genbank	CDS	61581	62267	.	+	0	ID=cds-AAL23480.1;Parent=gene-PSLT075;Dbxref=NCBI_GP:AAL23480.1;Name=AAL23480.1;gbkey=CDS;gene=traJ;locus_tag=PSLT075;product=conjugative transfer: regulation;protein_id=AAL23480.1;transl_table=11
+AE006471.2	Genbank	gene	62268	62588	.	+	.	ID=gene-PSLT076;Name=traY;gbkey=Gene;gene=traY;gene_biotype=protein_coding;locus_tag=PSLT076
+AE006471.2	Genbank	CDS	62268	62588	.	+	0	ID=cds-AAL23481.1;Parent=gene-PSLT076;Dbxref=NCBI_GP:AAL23481.1;Name=AAL23481.1;gbkey=CDS;gene=traY;locus_tag=PSLT076;product=conjugative transfer: oriT nicking;protein_id=AAL23481.1;transl_table=11
+AE006471.2	Genbank	gene	62630	62992	.	+	.	ID=gene-PSLT077;Name=traA;gbkey=Gene;gene=traA;gene_biotype=protein_coding;locus_tag=PSLT077
+AE006471.2	Genbank	CDS	62630	62992	.	+	0	ID=cds-AAL23482.1;Parent=gene-PSLT077;Dbxref=NCBI_GP:AAL23482.1;Name=AAL23482.1;gbkey=CDS;gene=traA;locus_tag=PSLT077;product=conjugative transfer: fimbrial subunit;protein_id=AAL23482.1;transl_table=11
+AE006471.2	Genbank	gene	63007	63318	.	+	.	ID=gene-PSLT078;Name=traL;gbkey=Gene;gene=traL;gene_biotype=protein_coding;locus_tag=PSLT078
+AE006471.2	Genbank	CDS	63007	63318	.	+	0	ID=cds-AAL23483.1;Parent=gene-PSLT078;Dbxref=NCBI_GP:AAL23483.1;Name=AAL23483.1;gbkey=CDS;gene=traL;locus_tag=PSLT078;product=conjugative transfer: assembly;protein_id=AAL23483.1;transl_table=11
+AE006471.2	Genbank	gene	63340	63906	.	+	.	ID=gene-PSLT079;Name=traE;gbkey=Gene;gene=traE;gene_biotype=protein_coding;locus_tag=PSLT079
+AE006471.2	Genbank	CDS	63340	63906	.	+	0	ID=cds-AAL23484.1;Parent=gene-PSLT079;Dbxref=NCBI_GP:AAL23484.1;Name=AAL23484.1;gbkey=CDS;gene=traE;locus_tag=PSLT079;product=conjugative transfer: assembly;protein_id=AAL23484.1;transl_table=11
+AE006471.2	Genbank	gene	63893	64633	.	+	.	ID=gene-PSLT080;Name=traK;gbkey=Gene;gene=traK;gene_biotype=protein_coding;locus_tag=PSLT080
+AE006471.2	Genbank	CDS	63893	64633	.	+	0	ID=cds-AAL23485.1;Parent=gene-PSLT080;Dbxref=NCBI_GP:AAL23485.1;Name=AAL23485.1;gbkey=CDS;gene=traK;locus_tag=PSLT080;product=conjugative transfer: assembly;protein_id=AAL23485.1;transl_table=11
+AE006471.2	Genbank	gene	64633	66054	.	+	.	ID=gene-PSLT081;Name=traB;gbkey=Gene;gene=traB;gene_biotype=protein_coding;locus_tag=PSLT081
+AE006471.2	Genbank	CDS	64633	66054	.	+	0	ID=cds-AAL23486.1;Parent=gene-PSLT081;Dbxref=NCBI_GP:AAL23486.1;Name=AAL23486.1;gbkey=CDS;gene=traB;locus_tag=PSLT081;product=conjugative transfer: assembly;protein_id=AAL23486.1;transl_table=11
+AE006471.2	Genbank	gene	66044	66640	.	+	.	ID=gene-PSLT082;Name=traP;gbkey=Gene;gene=traP;gene_biotype=protein_coding;locus_tag=PSLT082
+AE006471.2	Genbank	CDS	66044	66640	.	+	0	ID=cds-AAL23487.1;Parent=gene-PSLT082;Dbxref=NCBI_GP:AAL23487.1;Name=AAL23487.1;gbkey=CDS;gene=traP;locus_tag=PSLT082;product=conjugative transfer;protein_id=AAL23487.1;transl_table=11
+AE006471.2	Genbank	gene	66618	66863	.	+	.	ID=gene-PSLT083;Name=trbD;gbkey=Gene;gene=trbD;gene_biotype=protein_coding;locus_tag=PSLT083
+AE006471.2	Genbank	CDS	66618	66863	.	+	0	ID=cds-AAL23488.1;Parent=gene-PSLT083;Dbxref=NCBI_GP:AAL23488.1;Name=AAL23488.1;gbkey=CDS;gene=trbD;locus_tag=PSLT083;product=conjugative transfer protein;protein_id=AAL23488.1;transl_table=11
+AE006471.2	Genbank	gene	66860	67375	.	+	.	ID=gene-PSLT084;Name=traV;gbkey=Gene;gene=traV;gene_biotype=protein_coding;locus_tag=PSLT084
+AE006471.2	Genbank	CDS	66860	67375	.	+	0	ID=cds-AAL23489.1;Parent=gene-PSLT084;Dbxref=NCBI_GP:AAL23489.1;Name=AAL23489.1;gbkey=CDS;gene=traV;locus_tag=PSLT084;product=conjugative transfer: assembly;protein_id=AAL23489.1;transl_table=11
+AE006471.2	Genbank	gene	67510	67731	.	+	.	ID=gene-PSLT085;Name=traR;gbkey=Gene;gene=traR;gene_biotype=protein_coding;locus_tag=PSLT085
+AE006471.2	Genbank	CDS	67510	67731	.	+	0	ID=cds-AAL23490.1;Parent=gene-PSLT085;Dbxref=NCBI_GP:AAL23490.1;Name=AAL23490.1;gbkey=CDS;gene=traR;locus_tag=PSLT085;product=conjugative transfer;protein_id=AAL23490.1;transl_table=11
+AE006471.2	Genbank	gene	67724	68191	.	+	.	ID=gene-PSLT087;Name=PSLT087;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT087
+AE006471.2	Genbank	CDS	67724	68191	.	+	0	ID=cds-AAL23491.1;Parent=gene-PSLT087;Dbxref=NCBI_GP:AAL23491.1;Name=AAL23491.1;gbkey=CDS;locus_tag=PSLT087;product=conjugative transfer protein;protein_id=AAL23491.1;transl_table=11
+AE006471.2	Genbank	gene	68587	71235	.	+	.	ID=gene-PSLT088;Name=traC;gbkey=Gene;gene=traC;gene_biotype=protein_coding;locus_tag=PSLT088
+AE006471.2	Genbank	CDS	68587	71235	.	+	0	ID=cds-AAL23492.1;Parent=gene-PSLT088;Dbxref=NCBI_GP:AAL23492.1;Name=AAL23492.1;gbkey=CDS;gene=traC;locus_tag=PSLT088;product=conjugative transfer: assembly;protein_id=AAL23492.1;transl_table=11
+AE006471.2	Genbank	gene	71210	71596	.	+	.	ID=gene-PSLT089;Name=trbI;gbkey=Gene;gene=trbI;gene_biotype=protein_coding;locus_tag=PSLT089
+AE006471.2	Genbank	CDS	71210	71596	.	+	0	ID=cds-AAL23493.1;Parent=gene-PSLT089;Dbxref=NCBI_GP:AAL23493.1;Name=AAL23493.1;gbkey=CDS;gene=trbI;locus_tag=PSLT089;product=conjugative transfer;protein_id=AAL23493.1;transl_table=11
+AE006471.2	Genbank	gene	71593	72225	.	+	.	ID=gene-PSLT091;Name=traW;gbkey=Gene;gene=traW;gene_biotype=protein_coding;locus_tag=PSLT091
+AE006471.2	Genbank	CDS	71593	72225	.	+	0	ID=cds-AAL23494.1;Parent=gene-PSLT091;Dbxref=NCBI_GP:AAL23494.1;Name=AAL23494.1;gbkey=CDS;gene=traW;locus_tag=PSLT091;product=conjugative transfer: assembly;protein_id=AAL23494.1;transl_table=11
+AE006471.2	Genbank	gene	72222	73214	.	+	.	ID=gene-PSLT092;Name=traU;gbkey=Gene;gene=traU;gene_biotype=protein_coding;locus_tag=PSLT092
+AE006471.2	Genbank	CDS	72222	73214	.	+	0	ID=cds-AAL23495.1;Parent=gene-PSLT092;Dbxref=NCBI_GP:AAL23495.1;Name=AAL23495.1;gbkey=CDS;gene=traU;locus_tag=PSLT092;product=conjugative transfer: assembly;protein_id=AAL23495.1;transl_table=11
+AE006471.2	Genbank	gene	73233	73541	.	+	.	ID=gene-PSLT093;Name=PSLT093;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT093
+AE006471.2	Genbank	CDS	73233	73541	.	+	0	ID=cds-AAL23496.1;Parent=gene-PSLT093;Dbxref=NCBI_GP:AAL23496.1;Name=AAL23496.1;gbkey=CDS;locus_tag=PSLT093;product=conjugative transfer protein;protein_id=AAL23496.1;transl_table=11
+AE006471.2	Genbank	gene	73526	74164	.	+	.	ID=gene-PSLT094;Name=trbC;gbkey=Gene;gene=trbC;gene_biotype=protein_coding;locus_tag=PSLT094
+AE006471.2	Genbank	CDS	73526	74164	.	+	0	ID=cds-AAL23497.1;Parent=gene-PSLT094;Dbxref=NCBI_GP:AAL23497.1;Name=AAL23497.1;gbkey=CDS;gene=trbC;locus_tag=PSLT094;product=conjugative transfer: assembly;protein_id=AAL23497.1;transl_table=11
+AE006471.2	Genbank	gene	74617	76443	.	+	.	ID=gene-PSLT095;Name=traN;gbkey=Gene;gene=traN;gene_biotype=protein_coding;locus_tag=PSLT095
+AE006471.2	Genbank	CDS	74617	76443	.	+	0	ID=cds-AAL23498.1;Parent=gene-PSLT095;Dbxref=NCBI_GP:AAL23498.1;Name=AAL23498.1;gbkey=CDS;gene=traN;locus_tag=PSLT095;product=conjugative transfer: aggregate stability;protein_id=AAL23498.1;transl_table=11
+AE006471.2	Genbank	gene	76454	76669	.	+	.	ID=gene-PSLT096;Name=trbE;gbkey=Gene;gene=trbE;gene_biotype=protein_coding;locus_tag=PSLT096
+AE006471.2	Genbank	CDS	76454	76669	.	+	0	ID=cds-AAL23499.1;Parent=gene-PSLT096;Dbxref=NCBI_GP:AAL23499.1;Name=AAL23499.1;gbkey=CDS;gene=trbE;locus_tag=PSLT096;product=conjugative transfer;protein_id=AAL23499.1;transl_table=11
+AE006471.2	Genbank	gene	76681	77430	.	+	.	ID=gene-PSLT097;Name=traF;gbkey=Gene;gene=traF;gene_biotype=protein_coding;locus_tag=PSLT097
+AE006471.2	Genbank	CDS	76681	77430	.	+	0	ID=cds-AAL23500.1;Parent=gene-PSLT097;Dbxref=NCBI_GP:AAL23500.1;Name=AAL23500.1;gbkey=CDS;gene=traF;locus_tag=PSLT097;product=conjugative transfer: assembly;protein_id=AAL23500.1;transl_table=11
+AE006471.2	Genbank	gene	77644	77937	.	+	.	ID=gene-PSLT098;Name=traQ;gbkey=Gene;gene=traQ;gene_biotype=protein_coding;locus_tag=PSLT098
+AE006471.2	Genbank	CDS	77644	77937	.	+	0	ID=cds-AAL23501.1;Parent=gene-PSLT098;Dbxref=NCBI_GP:AAL23501.1;Name=AAL23501.1;gbkey=CDS;gene=traQ;locus_tag=PSLT098;product=conjugative transfer: fimbrial synthesis;protein_id=AAL23501.1;transl_table=11
+AE006471.2	Genbank	gene	77924	78472	.	+	.	ID=gene-PSLT099;Name=trbB;gbkey=Gene;gene=trbB;gene_biotype=protein_coding;locus_tag=PSLT099
+AE006471.2	Genbank	CDS	77924	78472	.	+	0	ID=cds-AAL23502.1;Parent=gene-PSLT099;Dbxref=NCBI_GP:AAL23502.1;Name=AAL23502.1;gbkey=CDS;gene=trbB;locus_tag=PSLT099;product=conjugative transfer;protein_id=AAL23502.1;transl_table=11
+AE006471.2	Genbank	gene	78462	79844	.	+	.	ID=gene-PSLT100;Name=traH;gbkey=Gene;gene=traH;gene_biotype=protein_coding;locus_tag=PSLT100
+AE006471.2	Genbank	CDS	78462	79844	.	+	0	ID=cds-AAL23503.1;Parent=gene-PSLT100;Dbxref=NCBI_GP:AAL23503.1;Name=AAL23503.1;gbkey=CDS;gene=traH;locus_tag=PSLT100;product=conjugative transfer: assembly;protein_id=AAL23503.1;transl_table=11
+AE006471.2	Genbank	gene	79841	82663	.	+	.	ID=gene-PSLT101;Name=traG;gbkey=Gene;gene=traG;gene_biotype=protein_coding;locus_tag=PSLT101
+AE006471.2	Genbank	CDS	79841	82663	.	+	0	ID=cds-AAL23504.1;Parent=gene-PSLT101;Dbxref=NCBI_GP:AAL23504.1;Name=AAL23504.1;gbkey=CDS;gene=traG;locus_tag=PSLT101;product=conjugative transfer: assembly abd aggregate stability;protein_id=AAL23504.1;transl_table=11
+AE006471.2	Genbank	gene	82679	83173	.	+	.	ID=gene-PSLT102;Name=traS;gbkey=Gene;gene=traS;gene_biotype=protein_coding;locus_tag=PSLT102
+AE006471.2	Genbank	CDS	82679	83173	.	+	0	ID=cds-AAL23505.1;Parent=gene-PSLT102;Dbxref=NCBI_GP:AAL23505.1;Name=AAL23505.1;gbkey=CDS;gene=traS;locus_tag=PSLT102;product=conjugative transfer: surface exclusion;protein_id=AAL23505.1;transl_table=11
+AE006471.2	Genbank	gene	83209	83940	.	+	.	ID=gene-PSLT103;Name=traT;gbkey=Gene;gene=traT;gene_biotype=protein_coding;locus_tag=PSLT103
+AE006471.2	Genbank	CDS	83209	83940	.	+	0	ID=cds-AAL23506.1;Parent=gene-PSLT103;Dbxref=NCBI_GP:AAL23506.1;Name=AAL23506.1;gbkey=CDS;gene=traT;locus_tag=PSLT103;product=conjugative transfer: surface exclusion;protein_id=AAL23506.1;transl_table=11
+AE006471.2	Genbank	gene	84317	86560	.	+	.	ID=gene-PSLT104;Name=traD;gbkey=Gene;gene=traD;gene_biotype=protein_coding;locus_tag=PSLT104
+AE006471.2	Genbank	CDS	84317	86560	.	+	0	ID=cds-AAL23507.1;Parent=gene-PSLT104;Dbxref=NCBI_GP:AAL23507.1;Name=AAL23507.1;gbkey=CDS;gene=traD;locus_tag=PSLT104;product=conjugative transfer: DNA transport;protein_id=AAL23507.1;transl_table=11
+AE006471.2	Genbank	gene	86560	87279	.	+	.	ID=gene-PSLT105;Name=trbH;gbkey=Gene;gene=trbH;gene_biotype=protein_coding;locus_tag=PSLT105
+AE006471.2	Genbank	CDS	86560	87279	.	+	0	ID=cds-AAL23508.1;Parent=gene-PSLT105;Dbxref=NCBI_GP:AAL23508.1;Name=AAL23508.1;gbkey=CDS;gene=trbH;locus_tag=PSLT105;product=conjugative transfer;protein_id=AAL23508.1;transl_table=11
+AE006471.2	Genbank	gene	86569	86967	.	-	.	ID=gene-PSLT106;Name=PSLT106;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT106
+AE006471.2	Genbank	CDS	86569	86967	.	-	0	ID=cds-AAL23543.1;Parent=gene-PSLT106;Dbxref=NCBI_GP:AAL23543.1;Name=AAL23543.1;gbkey=CDS;locus_tag=PSLT106;product=homologue of mvpA%2C Shigella flexneri;protein_id=AAL23543.1;transl_table=11
+AE006471.2	Genbank	gene	86967	87197	.	-	.	ID=gene-PSLT107;Name=PSLT107;gbkey=Gene;gene_biotype=protein_coding;locus_tag=PSLT107
+AE006471.2	Genbank	CDS	86967	87197	.	-	0	ID=cds-AAL23544.1;Parent=gene-PSLT107;Dbxref=NCBI_GP:AAL23544.1;Name=AAL23544.1;gbkey=CDS;locus_tag=PSLT107;product=putative cytoplasmic protein;protein_id=AAL23544.1;transl_table=11
+AE006471.2	Genbank	gene	87276	92534	.	+	.	ID=gene-PSLT108;Name=traI;gbkey=Gene;gene=traI;gene_biotype=protein_coding;locus_tag=PSLT108
+AE006471.2	Genbank	CDS	87276	92534	.	+	0	ID=cds-AAL23509.1;Parent=gene-PSLT108;Dbxref=NCBI_GP:AAL23509.1;Name=AAL23509.1;gbkey=CDS;gene=traI;locus_tag=PSLT108;product=conjugative transfer: oriT nicking-unwinding;protein_id=AAL23509.1;transl_table=11
+AE006471.2	Genbank	gene	89306	89875	.	-	.	ID=gene-PSLT109;Name=PSLT109;gbkey=Gene;gene_biotype=other;locus_tag=PSLT109
+AE006471.2	Genbank	gene	92554	93294	.	+	.	ID=gene-PSLT110;Name=traX;gbkey=Gene;gene=traX;gene_biotype=protein_coding;locus_tag=PSLT110
+AE006471.2	Genbank	CDS	92554	93294	.	+	0	ID=cds-AAL23510.1;Parent=gene-PSLT110;Dbxref=NCBI_GP:AAL23510.1;Name=AAL23510.1;gbkey=CDS;gene=traX;locus_tag=PSLT110;product=conjugative transfer: fimbrial acetylation;protein_id=AAL23510.1;transl_table=11
+AE006471.2	Genbank	gene	93349	93912	.	+	.	ID=gene-PSLT111;Name=finO;gbkey=Gene;gene=finO;gene_biotype=protein_coding;gene_synonym=srgC;locus_tag=PSLT111
+AE006471.2	Genbank	CDS	93349	93912	.	+	0	ID=cds-AAL23511.1;Parent=gene-PSLT111;Dbxref=NCBI_GP:AAL23511.1;Name=AAL23511.1;gbkey=CDS;gene=finO;locus_tag=PSLT111;product=conjugative transfer: regulation;protein_id=AAL23511.1;transl_table=11
+

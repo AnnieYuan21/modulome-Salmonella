@@ -1,0 +1,116 @@
+,imod_name,gene_count,imod_type
+0,argR-1,15,Metabolism
+1,fur-1,18,Metal Homeostasis
+2,rstA,5,Energy Production
+3,fur-2,15,Metal Homeostasis
+4,unchar-1,5,Unknown
+5,narP,24,Energy Production
+6,rpoH,32,Stress Response
+7,gutM,4,Metabolism
+8,glpR,9,Metabolism
+9,SPI1-2,15,Virulence
+10,purR-1,23,Metabolism
+11,fliA,35,Motility
+12,unchar-2,39,Unknown
+13,ppGpp,23,Stress Response
+14,SG1_STM4302,3,Unknown
+15,fim cluster,7,Motility
+16,cra,8,Energy Production
+17,ula-Ascorbate,5,Metabolism
+18,unchar-3,113,Unknown
+19,csp-1,2,Transcription
+20,pmrAB,14,Virulence
+21,tartrate utilization,7,Energy Production
+22,cytR,8,Metabolism
+23,ygbLM,7,Metabolism
+24,flhD;flhC,38,Motility
+25,phoB,15,Metabolism
+26,fhlA,11,Energy Production
+27,ribosome,20,Translation
+28,appY,11,Energy Production
+29,SG2_STM2329,1,Unknown
+30,SPI9,4,Virulence
+31,ppdABC,5,Metabolism
+32,dpiA,18,Metabolism
+33,pdu,19,Energy Production
+34,arcA-1,34,Stress Response
+35,glycosyltransferase,9,Virulence
+36,nanR,11,Metabolism
+37,torR,3,Energy Production
+38,cysB,13,Metabolism
+39,zur,5,Metal Homeostasis
+40,unchar-4,28,Unknown
+41,leu-tRNA,16,Metabolism
+42,SPI16,3,Virulence
+43,rtcR,5,Stress Response
+44,molybdate,7,Metabolism
+45,purR-2,7,Metabolism
+46,dsdC,6,Metabolism
+47,SG3_cpxR,13,Stress Response
+48,crp-1,9,Transcription
+49,tricarboxylic transport,3,Transport
+50,yciGFEkatN,5,Stress Response
+51,fra,4,Metabolism
+52,unchar-5,2,Unknown
+53,csrA,48,Virulence
+54,kdpE,3,Metabolism
+55,lrp,11,Metabolism
+56,rcsc related,21,Metabolism
+57,metJ,11,Metabolism
+58,ABC transporters,5,Transport
+59,rpoS,97,Stress Response
+60,SG4_hilC,8,Transcription
+61,csgD,9,Virulence
+62,SPI2,42,Virulence
+63,prpR,4,Metabolism
+64,unchar-6,41,Unknown
+65,rcsA;rcsB,24,Structure
+66,rbsR,8,Metabolism
+67,hilD-related,14,Virulence
+68,malT,9,Metabolism
+69,proU,3,Transport
+70,arcA-2,29,Stress Response
+71,birA,5,Metabolism
+72,his-tRNA,8,Metabolism
+73,crp-2,43,Transcription
+74,PTS,6,Metabolism
+75,unchar-7,4,Unknown
+76,cdaR,10,Metabolism
+77,arcA-3,19,Stress Response
+78,SPI1-1,34,Virulence
+79,lsrR,9,Stress Response
+80,cydABTE,5,Energy Production
+81,unchar-8,11,Unknown
+82,cob,15,Metabolism
+83,yjiAXY,3,Unknown
+84,fnr-1,48,Translation
+85,argR-2,10,Metabolism
+86,ADI,5,Metabolism
+87,rpoE,30,Stress Response
+88,cadC,3,Metabolism
+89,fur-3,27,Metal Homeostasis
+90,hfq-related,9,Translation
+91,lldR,3,Metabolism
+92,hyd5,13,Energy Production
+93,mraZ,22,Transcription
+94,TPP,11,Metabolism
+95,rpoN,12,Stress Response
+96,marR,11,Resistance
+97,lexA,24,Stress Response
+98,unchar-9,4,Unknown
+99,unchar-10,16,Unknown
+100,tdcA,6,Metabolism
+101,fnr-2,52,Translation
+102,CAMP resistance,36,Resistance
+103,rpoN-associated,3,Metabolism
+104,SG5_sprB,1,Transcription
+105,csp-2,2,Transcription
+106,unchar-11,54,Unknown
+107,mutS-proximal,11,Virulence
+108,narL,21,Energy Production
+109,yji-operon,4,Unknown
+110,unchar-12,49,Unknown
+111,O-antigen,6,Biosynthesis
+112,psp,5,Metabolism
+113,nsrR,6,Stress Response
+114,Macrophage,6,Virulence

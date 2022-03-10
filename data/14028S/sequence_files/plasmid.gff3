@@ -1,0 +1,211 @@
+##sequence-region CP001362.1 1 93832
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=588858
+CP001362.1	Genbank	region	1	93832	.	+	.	ID=CP001362.1:1..93832;Dbxref=taxon:588858;Is_circular=true;Name=unnamed;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=unnamed;serovar=Typhimurium;strain=14028S;sub-species=enterica
+CP001362.1	Genbank	gene	94	378	.	+	.	ID=gene-STM14_5526;Name=STM14_5526;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5526
+CP001362.1	Genbank	CDS	94	378	.	+	0	ID=cds-ACY86437.1;Parent=gene-STM14_5526;Dbxref=NCBI_GP:ACY86437.1;Name=ACY86437.1;gbkey=CDS;locus_tag=STM14_5526;product=putative cytoplasmic protein;protein_id=ACY86437.1;transl_table=11
+CP001362.1	Genbank	pseudogene	712	1154	.	+	.	ID=gene-STM14_5527;Name=STM14_5527;gbkey=Gene;gene_biotype=pseudogene;locus_tag=STM14_5527;pseudo=true
+CP001362.1	Genbank	CDS	712	1154	.	+	0	ID=cds-STM14_5527;Parent=gene-STM14_5527;Note=putative phospholipase D~disrupted by frameshift;gbkey=CDS;locus_tag=STM14_5527;pseudo=true;transl_table=11
+CP001362.1	Genbank	gene	1333	1599	.	+	.	ID=gene-STM14_5528;Name=repC;gbkey=Gene;gene=repC;gene_biotype=protein_coding;locus_tag=STM14_5528
+CP001362.1	Genbank	CDS	1333	1599	.	+	0	ID=cds-ACY86438.1;Parent=gene-STM14_5528;Dbxref=NCBI_GP:ACY86438.1;Name=ACY86438.1;gbkey=CDS;gene=repC;locus_tag=STM14_5528;product=DNA replication;protein_id=ACY86438.1;transl_table=11
+CP001362.1	Genbank	gene	1722	1844	.	+	.	ID=gene-STM14_5529;Name=repA3;gbkey=Gene;gene=repA3;gene_biotype=protein_coding;locus_tag=STM14_5529
+CP001362.1	Genbank	CDS	1722	1844	.	+	0	ID=cds-ACY86439.1;Parent=gene-STM14_5529;Dbxref=NCBI_GP:ACY86439.1;Name=ACY86439.1;gbkey=CDS;gene=repA3;locus_tag=STM14_5529;product=DNA replication;protein_id=ACY86439.1;transl_table=11
+CP001362.1	Genbank	gene	1849	1926	.	+	.	ID=gene-STM14_5530;Name=tap;gbkey=Gene;gene=tap;gene_biotype=protein_coding;locus_tag=STM14_5530
+CP001362.1	Genbank	CDS	1849	1926	.	+	0	ID=cds-ACY86440.1;Parent=gene-STM14_5530;Dbxref=NCBI_GP:ACY86440.1;Name=ACY86440.1;gbkey=CDS;gene=tap;locus_tag=STM14_5530;product=replication of plasmid;protein_id=ACY86440.1;transl_table=11
+CP001362.1	Genbank	gene	1907	2788	.	+	.	ID=gene-STM14_5531;Name=repA;gbkey=Gene;gene=repA;gene_biotype=protein_coding;locus_tag=STM14_5531
+CP001362.1	Genbank	CDS	1907	2788	.	+	0	ID=cds-ACY86441.1;Parent=gene-STM14_5531;Dbxref=NCBI_GP:ACY86441.1;Name=ACY86441.1;gbkey=CDS;gene=repA;locus_tag=STM14_5531;product=DNA replication;protein_id=ACY86441.1;transl_table=11
+CP001362.1	Genbank	gene	3729	3869	.	+	.	ID=gene-STM14_5532;Name=STM14_5532;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5532
+CP001362.1	Genbank	CDS	3729	3869	.	+	0	ID=cds-ACY86442.1;Parent=gene-STM14_5532;Dbxref=NCBI_GP:ACY86442.1;Name=ACY86442.1;gbkey=CDS;locus_tag=STM14_5532;product=putative outer membrane protein;protein_id=ACY86442.1;transl_table=11
+CP001362.1	Genbank	gene	3966	4724	.	-	.	ID=gene-STM14_5533;Name=srgC;gbkey=Gene;gene=srgC;gene_biotype=protein_coding;locus_tag=STM14_5533
+CP001362.1	Genbank	CDS	3966	4724	.	-	0	ID=cds-ACY86443.1;Parent=gene-STM14_5533;Dbxref=NCBI_GP:ACY86443.1;Name=ACY86443.1;gbkey=CDS;gene=srgC;locus_tag=STM14_5533;product=putative bacterial regulatory helix-turn-helix protein%2C araC family;protein_id=ACY86443.1;transl_table=11
+CP001362.1	Genbank	gene	4991	5548	.	-	.	ID=gene-STM14_5534;Name=rcK;gbkey=Gene;gene=rcK;gene_biotype=protein_coding;locus_tag=STM14_5534
+CP001362.1	Genbank	CDS	4991	5548	.	-	0	ID=cds-ACY86444.1;Parent=gene-STM14_5534;Dbxref=NCBI_GP:ACY86444.1;Name=ACY86444.1;gbkey=CDS;gene=rcK;locus_tag=STM14_5534;product=resistance to complement killing;protein_id=ACY86444.1;transl_table=11
+CP001362.1	Genbank	gene	5638	6537	.	-	.	ID=gene-STM14_5535;Name=srgB;gbkey=Gene;gene=srgB;gene_biotype=protein_coding;locus_tag=STM14_5535
+CP001362.1	Genbank	CDS	5638	6537	.	-	0	ID=cds-ACY86445.1;Parent=gene-STM14_5535;Dbxref=NCBI_GP:ACY86445.1;Name=ACY86445.1;gbkey=CDS;gene=srgB;locus_tag=STM14_5535;product=putative outer membrane protein;protein_id=ACY86445.1;transl_table=11
+CP001362.1	Genbank	gene	6670	7323	.	-	.	ID=gene-STM14_5536;Name=srgA;gbkey=Gene;gene=srgA;gene_biotype=protein_coding;locus_tag=STM14_5536
+CP001362.1	Genbank	CDS	6670	7323	.	-	0	ID=cds-ACY86446.1;Parent=gene-STM14_5536;Dbxref=NCBI_GP:ACY86446.1;Name=ACY86446.1;gbkey=CDS;gene=srgA;locus_tag=STM14_5536;product=putative thiol-disulfide isomerase or thioredoxin;protein_id=ACY86446.1;transl_table=11
+CP001362.1	Genbank	gene	7568	7918	.	-	.	ID=gene-STM14_5537;Name=orf7;gbkey=Gene;gene=orf7;gene_biotype=protein_coding;locus_tag=STM14_5537
+CP001362.1	Genbank	CDS	7568	7918	.	-	0	ID=cds-ACY86447.1;Parent=gene-STM14_5537;Dbxref=NCBI_GP:ACY86447.1;Name=ACY86447.1;gbkey=CDS;gene=orf7;locus_tag=STM14_5537;product=putative bacterial regulatory protein%2C luxR family;protein_id=ACY86447.1;transl_table=11
+CP001362.1	Genbank	gene	7903	8115	.	-	.	ID=gene-STM14_5538;Name=pefI;gbkey=Gene;gene=pefI;gene_biotype=protein_coding;locus_tag=STM14_5538
+CP001362.1	Genbank	CDS	7903	8115	.	-	0	ID=cds-ACY86448.1;Parent=gene-STM14_5538;Dbxref=NCBI_GP:ACY86448.1;Name=ACY86448.1;gbkey=CDS;gene=pefI;locus_tag=STM14_5538;product=plasmid-encoded fimbriae%3B regulatory;protein_id=ACY86448.1;transl_table=11
+CP001362.1	Genbank	gene	8547	9422	.	-	.	ID=gene-STM14_5539;Name=orf6;gbkey=Gene;gene=orf6;gene_biotype=protein_coding;locus_tag=STM14_5539
+CP001362.1	Genbank	CDS	8547	9422	.	-	0	ID=cds-ACY86449.1;Parent=gene-STM14_5539;Dbxref=NCBI_GP:ACY86449.1;Name=ACY86449.1;gbkey=CDS;gene=orf6;locus_tag=STM14_5539;product=putative outer membrane protein;protein_id=ACY86449.1;transl_table=11
+CP001362.1	Genbank	gene	9675	10232	.	-	.	ID=gene-STM14_5540;Name=orf5;gbkey=Gene;gene=orf5;gene_biotype=protein_coding;locus_tag=STM14_5540
+CP001362.1	Genbank	CDS	9675	10232	.	-	0	ID=cds-ACY86450.1;Parent=gene-STM14_5540;Dbxref=NCBI_GP:ACY86450.1;Name=ACY86450.1;gbkey=CDS;gene=orf5;locus_tag=STM14_5540;product=putative outer membrane protein;protein_id=ACY86450.1;transl_table=11
+CP001362.1	Genbank	gene	10247	10939	.	-	.	ID=gene-STM14_5541;Name=pefD;gbkey=Gene;gene=pefD;gene_biotype=protein_coding;locus_tag=STM14_5541
+CP001362.1	Genbank	CDS	10247	10939	.	-	0	ID=cds-ACY86451.1;Parent=gene-STM14_5541;Dbxref=NCBI_GP:ACY86451.1;Name=ACY86451.1;gbkey=CDS;gene=pefD;locus_tag=STM14_5541;product=plasmid-encoded fimbriae%3Bchaperone;protein_id=ACY86451.1;transl_table=11
+CP001362.1	Genbank	gene	10932	13340	.	-	.	ID=gene-STM14_5542;Name=pefC;gbkey=Gene;gene=pefC;gene_biotype=protein_coding;locus_tag=STM14_5542
+CP001362.1	Genbank	CDS	10932	13340	.	-	0	ID=cds-ACY86452.1;Parent=gene-STM14_5542;Dbxref=NCBI_GP:ACY86452.1;Name=ACY86452.1;gbkey=CDS;gene=pefC;locus_tag=STM14_5542;product=plasmid-encoded fimbriae%3B usher protein;protein_id=ACY86452.1;transl_table=11
+CP001362.1	Genbank	gene	13568	14086	.	-	.	ID=gene-STM14_5543;Name=pefA;gbkey=Gene;gene=pefA;gene_biotype=protein_coding;locus_tag=STM14_5543
+CP001362.1	Genbank	CDS	13568	14086	.	-	0	ID=cds-ACY86453.1;Parent=gene-STM14_5543;Dbxref=NCBI_GP:ACY86453.1;Name=ACY86453.1;gbkey=CDS;gene=pefA;locus_tag=STM14_5543;product=plasmid-encoded fimbriae%3B major fimbrial subunit;protein_id=ACY86453.1;transl_table=11
+CP001362.1	Genbank	gene	14361	14663	.	-	.	ID=gene-STM14_5544;Name=pefB;gbkey=Gene;gene=pefB;gene_biotype=protein_coding;locus_tag=STM14_5544
+CP001362.1	Genbank	CDS	14361	14663	.	-	0	ID=cds-ACY86454.1;Parent=gene-STM14_5544;Dbxref=NCBI_GP:ACY86454.1;Name=ACY86454.1;gbkey=CDS;gene=pefB;locus_tag=STM14_5544;product=plasmid-encoded fimbriae%3Bregulation;protein_id=ACY86454.1;transl_table=11
+CP001362.1	Genbank	gene	15560	15763	.	+	.	ID=gene-STM14_5545;Name=STM14_5545;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5545
+CP001362.1	Genbank	CDS	15560	15763	.	+	0	ID=cds-ACY86455.1;Parent=gene-STM14_5545;Dbxref=NCBI_GP:ACY86455.1;Name=ACY86455.1;gbkey=CDS;locus_tag=STM14_5545;product=hypothetical protein;protein_id=ACY86455.1;transl_table=11
+CP001362.1	Genbank	gene	16635	17624	.	-	.	ID=gene-STM14_5546;Name=repA2;gbkey=Gene;gene=repA2;gene_biotype=protein_coding;locus_tag=STM14_5546
+CP001362.1	Genbank	CDS	16635	17624	.	-	0	ID=cds-ACY86456.1;Parent=gene-STM14_5546;Dbxref=NCBI_GP:ACY86456.1;Name=ACY86456.1;gbkey=CDS;gene=repA2;locus_tag=STM14_5546;product=DNA replication;protein_id=ACY86456.1;transl_table=11
+CP001362.1	Genbank	gene	17368	17676	.	+	.	ID=gene-STM14_5547;Name=STM14_5547;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5547
+CP001362.1	Genbank	CDS	17368	17676	.	+	0	ID=cds-ACY86457.1;Parent=gene-STM14_5547;Dbxref=NCBI_GP:ACY86457.1;Name=ACY86457.1;gbkey=CDS;locus_tag=STM14_5547;product=hypothetical protein;protein_id=ACY86457.1;transl_table=11
+CP001362.1	Genbank	gene	18118	18414	.	-	.	ID=gene-STM14_5548;Name=STM14_5548;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5548
+CP001362.1	Genbank	CDS	18118	18414	.	-	0	ID=cds-ACY86458.1;Parent=gene-STM14_5548;Dbxref=NCBI_GP:ACY86458.1;Name=ACY86458.1;gbkey=CDS;locus_tag=STM14_5548;product=putative cytoplasmic protein;protein_id=ACY86458.1;transl_table=11
+CP001362.1	Genbank	gene	18898	19419	.	-	.	ID=gene-STM14_5549;Name=STM14_5549;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5549
+CP001362.1	Genbank	CDS	18898	19419	.	-	0	ID=cds-ACY86459.1;Parent=gene-STM14_5549;Dbxref=NCBI_GP:ACY86459.1;Name=ACY86459.1;gbkey=CDS;locus_tag=STM14_5549;product=putative periplasmic protein;protein_id=ACY86459.1;transl_table=11
+CP001362.1	Genbank	gene	20095	20313	.	+	.	ID=gene-STM14_5550;Name=ccdA;gbkey=Gene;gene=ccdA;gene_biotype=protein_coding;locus_tag=STM14_5550
+CP001362.1	Genbank	CDS	20095	20313	.	+	0	ID=cds-ACY86460.1;Parent=gene-STM14_5550;Dbxref=NCBI_GP:ACY86460.1;Name=ACY86460.1;gbkey=CDS;gene=ccdA;locus_tag=STM14_5550;product=toxin addiction system: antidote;protein_id=ACY86460.1;transl_table=11
+CP001362.1	Genbank	gene	20315	20620	.	+	.	ID=gene-STM14_5551;Name=ccdB;gbkey=Gene;gene=ccdB;gene_biotype=protein_coding;locus_tag=STM14_5551
+CP001362.1	Genbank	CDS	20315	20620	.	+	0	ID=cds-ACY86461.1;Parent=gene-STM14_5551;Dbxref=NCBI_GP:ACY86461.1;Name=ACY86461.1;gbkey=CDS;gene=ccdB;locus_tag=STM14_5551;product=toxin addiction system: toxin;protein_id=ACY86461.1;transl_table=11
+CP001362.1	Genbank	gene	20622	20912	.	+	.	ID=gene-STM14_5552;Name=STM14_5552;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5552
+CP001362.1	Genbank	CDS	20622	20912	.	+	0	ID=cds-ACY86462.1;Parent=gene-STM14_5552;Dbxref=NCBI_GP:ACY86462.1;Name=ACY86462.1;gbkey=CDS;locus_tag=STM14_5552;product=putative cytoplasmic protein;protein_id=ACY86462.1;transl_table=11
+CP001362.1	Genbank	gene	20909	21430	.	+	.	ID=gene-STM14_5553;Name=STM14_5553;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5553
+CP001362.1	Genbank	CDS	20909	21430	.	+	0	ID=cds-ACY86463.1;Parent=gene-STM14_5553;Dbxref=NCBI_GP:ACY86463.1;Name=ACY86463.1;gbkey=CDS;locus_tag=STM14_5553;product=putative cytoplasmic protein;protein_id=ACY86463.1;transl_table=11
+CP001362.1	Genbank	gene	21465	22247	.	+	.	ID=gene-STM14_5554;Name=rsdB;gbkey=Gene;gene=rsdB;gene_biotype=protein_coding;locus_tag=STM14_5554
+CP001362.1	Genbank	CDS	21465	22247	.	+	0	ID=cds-ACY86464.1;Parent=gene-STM14_5554;Dbxref=NCBI_GP:ACY86464.1;Name=ACY86464.1;gbkey=CDS;gene=rsdB;locus_tag=STM14_5554;product=resolvase;protein_id=ACY86464.1;transl_table=11
+CP001362.1	Genbank	gene	22256	22807	.	+	.	ID=gene-STM14_5555;Name=STM14_5555;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5555
+CP001362.1	Genbank	CDS	22256	22807	.	+	0	ID=cds-ACY86465.1;Parent=gene-STM14_5555;Dbxref=NCBI_GP:ACY86465.1;Name=ACY86465.1;gbkey=CDS;locus_tag=STM14_5555;product=putative diguanylate cyclase/phosphodiesterase;protein_id=ACY86465.1;transl_table=11
+CP001362.1	Genbank	gene	23476	23961	.	+	.	ID=gene-STM14_5556;Name=STM14_5556;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5556
+CP001362.1	Genbank	CDS	23476	23961	.	+	0	ID=cds-ACY86466.1;Parent=gene-STM14_5556;Dbxref=NCBI_GP:ACY86466.1;Name=ACY86466.1;gbkey=CDS;locus_tag=STM14_5556;product=putative inner membrane protein;protein_id=ACY86466.1;transl_table=11
+CP001362.1	Genbank	gene	24681	25241	.	+	.	ID=gene-STM14_5557;Name=STM14_5557;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5557
+CP001362.1	Genbank	CDS	24681	25241	.	+	0	ID=cds-ACY86467.1;Parent=gene-STM14_5557;Dbxref=NCBI_GP:ACY86467.1;Name=ACY86467.1;gbkey=CDS;locus_tag=STM14_5557;product=putative adhesin;protein_id=ACY86467.1;transl_table=11
+CP001362.1	Genbank	gene	25308	25658	.	-	.	ID=gene-STM14_5558;Name=STM14_5558;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5558
+CP001362.1	Genbank	CDS	25308	25658	.	-	0	ID=cds-ACY86468.1;Parent=gene-STM14_5558;Dbxref=NCBI_GP:ACY86468.1;Name=ACY86468.1;gbkey=CDS;locus_tag=STM14_5558;product=putative transposase;protein_id=ACY86468.1;transl_table=11
+CP001362.1	Genbank	gene	25876	26139	.	+	.	ID=gene-STM14_5559;Name=STM14_5559;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5559
+CP001362.1	Genbank	CDS	25876	26139	.	+	0	ID=cds-ACY86469.1;Parent=gene-STM14_5559;Dbxref=NCBI_GP:ACY86469.1;Name=ACY86469.1;gbkey=CDS;locus_tag=STM14_5559;product=putative transposase%2C IS200-like protein;protein_id=ACY86469.1;transl_table=11
+CP001362.1	Genbank	gene	26266	26916	.	-	.	ID=gene-STM14_5560;Name=spvD;gbkey=Gene;gene=spvD;gene_biotype=protein_coding;locus_tag=STM14_5560
+CP001362.1	Genbank	CDS	26266	26916	.	-	0	ID=cds-ACY86470.1;Parent=gene-STM14_5560;Dbxref=NCBI_GP:ACY86470.1;Name=ACY86470.1;Note=involved in Salmonella plasmid virulence;gbkey=CDS;gene=spvD;locus_tag=STM14_5560;product=hydrophilic protein;protein_id=ACY86470.1;transl_table=11
+CP001362.1	Genbank	gene	27177	27902	.	-	.	ID=gene-STM14_5561;Name=spvC;gbkey=Gene;gene=spvC;gene_biotype=protein_coding;locus_tag=STM14_5561
+CP001362.1	Genbank	CDS	27177	27902	.	-	0	ID=cds-ACY86471.1;Parent=gene-STM14_5561;Dbxref=NCBI_GP:ACY86471.1;Name=ACY86471.1;Note=involved in Salmonella plasmid virulence;gbkey=CDS;gene=spvC;locus_tag=STM14_5561;product=hydrophilic protein;protein_id=ACY86471.1;transl_table=11
+CP001362.1	Genbank	gene	28183	29958	.	-	.	ID=gene-STM14_5562;Name=spvB;gbkey=Gene;gene=spvB;gene_biotype=protein_coding;locus_tag=STM14_5562
+CP001362.1	Genbank	CDS	28183	29958	.	-	0	ID=cds-ACY86472.1;Parent=gene-STM14_5562;Dbxref=NCBI_GP:ACY86472.1;Name=ACY86472.1;Note=involved in Salmonella plasmid virulence;gbkey=CDS;gene=spvB;locus_tag=STM14_5562;product=hydrophilic protein;protein_id=ACY86472.1;transl_table=11
+CP001362.1	Genbank	gene	30140	30907	.	-	.	ID=gene-STM14_5563;Name=spvA;gbkey=Gene;gene=spvA;gene_biotype=protein_coding;locus_tag=STM14_5563
+CP001362.1	Genbank	CDS	30140	30907	.	-	0	ID=cds-ACY86473.1;Parent=gene-STM14_5563;Dbxref=NCBI_GP:ACY86473.1;Name=ACY86473.1;Note=involved in Salmonella plasmid virulence;gbkey=CDS;gene=spvA;locus_tag=STM14_5563;product=outer membrane protein;protein_id=ACY86473.1;transl_table=11
+CP001362.1	Genbank	gene	31419	32312	.	-	.	ID=gene-STM14_5564;Name=spvR;gbkey=Gene;gene=spvR;gene_biotype=protein_coding;locus_tag=STM14_5564
+CP001362.1	Genbank	CDS	31419	32312	.	-	0	ID=cds-ACY86474.1;Parent=gene-STM14_5564;Dbxref=NCBI_GP:ACY86474.1;Name=ACY86474.1;Note=involved in Salmonella plasmid virulence;gbkey=CDS;gene=spvR;locus_tag=STM14_5564;product=regulation of spv operon%2C lysR family;protein_id=ACY86474.1;transl_table=11
+CP001362.1	Genbank	gene	32921	33958	.	+	.	ID=gene-STM14_5565;Name=STM14_5565;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5565
+CP001362.1	Genbank	CDS	32921	33958	.	+	0	ID=cds-ACY86475.1;Parent=gene-STM14_5565;Dbxref=NCBI_GP:ACY86475.1;Name=ACY86475.1;gbkey=CDS;locus_tag=STM14_5565;product=putative integrase protein;protein_id=ACY86475.1;transl_table=11
+CP001362.1	Genbank	gene	34147	35172	.	-	.	ID=gene-STM14_5566;Name=STM14_5566;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5566
+CP001362.1	Genbank	CDS	34147	35172	.	-	0	ID=cds-ACY86476.1;Parent=gene-STM14_5566;Dbxref=NCBI_GP:ACY86476.1;Name=ACY86476.1;gbkey=CDS;locus_tag=STM14_5566;product=putative phosphoribulokinase / uridine kinase family;protein_id=ACY86476.1;transl_table=11
+CP001362.1	Genbank	gene	35105	36769	.	-	.	ID=gene-STM14_5567;Name=STM14_5567;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5567
+CP001362.1	Genbank	CDS	35105	36769	.	-	0	ID=cds-ACY86477.1;Parent=gene-STM14_5567;Dbxref=NCBI_GP:ACY86477.1;Name=ACY86477.1;gbkey=CDS;locus_tag=STM14_5567;product=putative integrase protein;protein_id=ACY86477.1;transl_table=11
+CP001362.1	Genbank	gene	36753	37313	.	-	.	ID=gene-STM14_5568;Name=rlgA;gbkey=Gene;gene=rlgA;gene_biotype=protein_coding;locus_tag=STM14_5568
+CP001362.1	Genbank	CDS	36753	37313	.	-	0	ID=cds-ACY86478.1;Parent=gene-STM14_5568;Dbxref=NCBI_GP:ACY86478.1;Name=ACY86478.1;gbkey=CDS;gene=rlgA;locus_tag=STM14_5568;product=putative resolvase;protein_id=ACY86478.1;transl_table=11
+CP001362.1	Genbank	gene	37520	38260	.	-	.	ID=gene-STM14_5569;Name=STM14_5569;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5569
+CP001362.1	Genbank	CDS	37520	38260	.	-	0	ID=cds-ACY86479.1;Parent=gene-STM14_5569;Dbxref=NCBI_GP:ACY86479.1;Name=ACY86479.1;gbkey=CDS;locus_tag=STM14_5569;product=putative carbonic anhydrase;protein_id=ACY86479.1;transl_table=11
+CP001362.1	Genbank	gene	38915	39403	.	-	.	ID=gene-STM14_5570;Name=STM14_5570;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5570
+CP001362.1	Genbank	CDS	38915	39403	.	-	0	ID=cds-ACY86480.1;Parent=gene-STM14_5570;Dbxref=NCBI_GP:ACY86480.1;Name=ACY86480.1;gbkey=CDS;locus_tag=STM14_5570;product=putative cytoplasmic protein;protein_id=ACY86480.1;transl_table=11
+CP001362.1	Genbank	gene	39662	40777	.	+	.	ID=gene-STM14_5571;Name=tlpA;gbkey=Gene;gene=tlpA;gene_biotype=protein_coding;locus_tag=STM14_5571
+CP001362.1	Genbank	CDS	39662	40777	.	+	0	ID=cds-ACY86481.1;Parent=gene-STM14_5571;Dbxref=NCBI_GP:ACY86481.1;Name=ACY86481.1;gbkey=CDS;gene=tlpA;locus_tag=STM14_5571;product=alpha-helical coiled coil protein;protein_id=ACY86481.1;transl_table=11
+CP001362.1	Genbank	gene	40863	41279	.	+	.	ID=gene-STM14_5572;Name=STM14_5572;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5572
+CP001362.1	Genbank	CDS	40863	41279	.	+	0	ID=cds-ACY86482.1;Parent=gene-STM14_5572;Dbxref=NCBI_GP:ACY86482.1;Name=ACY86482.1;gbkey=CDS;locus_tag=STM14_5572;product=putative DNA polymerase III epsilon subunit (3'-5' exonuclease);protein_id=ACY86482.1;transl_table=11
+CP001362.1	Genbank	gene	40973	41299	.	-	.	ID=gene-STM14_5573;Name=STM14_5573;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5573
+CP001362.1	Genbank	CDS	40973	41299	.	-	0	ID=cds-ACY86483.1;Parent=gene-STM14_5573;Dbxref=NCBI_GP:ACY86483.1;Name=ACY86483.1;gbkey=CDS;locus_tag=STM14_5573;product=putative cytoplasmic protein;protein_id=ACY86483.1;transl_table=11
+CP001362.1	Genbank	gene	42453	43394	.	-	.	ID=gene-STM14_5574;Name=STM14_5574;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5574
+CP001362.1	Genbank	CDS	42453	43394	.	-	0	ID=cds-ACY86484.1;Parent=gene-STM14_5574;Dbxref=NCBI_GP:ACY86484.1;Name=ACY86484.1;gbkey=CDS;locus_tag=STM14_5574;product=putative cytoplasmic protein;protein_id=ACY86484.1;transl_table=11
+CP001362.1	Genbank	gene	43809	45014	.	+	.	ID=gene-STM14_5575;Name=parA;gbkey=Gene;gene=parA;gene_biotype=protein_coding;locus_tag=STM14_5575
+CP001362.1	Genbank	CDS	43809	45014	.	+	0	ID=cds-ACY86485.1;Parent=gene-STM14_5575;Dbxref=NCBI_GP:ACY86485.1;Name=ACY86485.1;gbkey=CDS;gene=parA;locus_tag=STM14_5575;product=plasmid partition protein A;protein_id=ACY86485.1;transl_table=11
+CP001362.1	Genbank	gene	45011	45988	.	+	.	ID=gene-STM14_5576;Name=parB;gbkey=Gene;gene=parB;gene_biotype=protein_coding;locus_tag=STM14_5576
+CP001362.1	Genbank	CDS	45011	45988	.	+	0	ID=cds-ACY86486.1;Parent=gene-STM14_5576;Dbxref=NCBI_GP:ACY86486.1;Name=ACY86486.1;gbkey=CDS;gene=parB;locus_tag=STM14_5576;product=plasmid partition protein B;protein_id=ACY86486.1;transl_table=11
+CP001362.1	Genbank	gene	46070	47344	.	-	.	ID=gene-STM14_5577;Name=samB;gbkey=Gene;gene=samB;gene_biotype=protein_coding;locus_tag=STM14_5577
+CP001362.1	Genbank	CDS	46070	47344	.	-	0	ID=cds-ACY86487.1;Parent=gene-STM14_5577;Dbxref=NCBI_GP:ACY86487.1;Name=ACY86487.1;Note=mutagenesis by UV and mutagens%3B related to umuDC operon;gbkey=CDS;gene=samB;locus_tag=STM14_5577;product=SamB;protein_id=ACY86487.1;transl_table=11
+CP001362.1	Genbank	gene	47344	47766	.	-	.	ID=gene-STM14_5578;Name=samA;gbkey=Gene;gene=samA;gene_biotype=protein_coding;locus_tag=STM14_5578
+CP001362.1	Genbank	CDS	47344	47766	.	-	0	ID=cds-ACY86488.1;Parent=gene-STM14_5578;Dbxref=NCBI_GP:ACY86488.1;Name=ACY86488.1;Note=mutagenesis by UV and mutagens%3B related to umuDC operon;gbkey=CDS;gene=samA;locus_tag=STM14_5578;product=SamA;protein_id=ACY86488.1;transl_table=11
+CP001362.1	Genbank	gene	48277	48747	.	+	.	ID=gene-STM14_5579;Name=STM14_5579;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5579
+CP001362.1	Genbank	CDS	48277	48747	.	+	0	ID=cds-ACY86489.1;Parent=gene-STM14_5579;Dbxref=NCBI_GP:ACY86489.1;Name=ACY86489.1;gbkey=CDS;locus_tag=STM14_5579;product=putative cytoplasmic protein;protein_id=ACY86489.1;transl_table=11
+CP001362.1	Genbank	gene	48740	49096	.	+	.	ID=gene-STM14_5580;Name=STM14_5580;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5580
+CP001362.1	Genbank	CDS	48740	49096	.	+	0	ID=cds-ACY86490.1;Parent=gene-STM14_5580;Dbxref=NCBI_GP:ACY86490.1;Name=ACY86490.1;gbkey=CDS;locus_tag=STM14_5580;product=putative cytoplasmic protein;protein_id=ACY86490.1;transl_table=11
+CP001362.1	Genbank	gene	49478	50158	.	+	.	ID=gene-STM14_5581;Name=STM14_5581;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5581
+CP001362.1	Genbank	CDS	49478	50158	.	+	0	ID=cds-ACY86491.1;Parent=gene-STM14_5581;Dbxref=NCBI_GP:ACY86491.1;Name=ACY86491.1;gbkey=CDS;locus_tag=STM14_5581;product=putative adenine-specific DNA methylase;protein_id=ACY86491.1;transl_table=11
+CP001362.1	Genbank	gene	50158	50379	.	+	.	ID=gene-STM14_5582;Name=STM14_5582;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5582
+CP001362.1	Genbank	CDS	50158	50379	.	+	0	ID=cds-ACY86492.1;Parent=gene-STM14_5582;Dbxref=NCBI_GP:ACY86492.1;Name=ACY86492.1;gbkey=CDS;locus_tag=STM14_5582;product=putative cytoplasmic protein;protein_id=ACY86492.1;transl_table=11
+CP001362.1	Genbank	gene	50920	51684	.	+	.	ID=gene-STM14_5583;Name=STM14_5583;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5583
+CP001362.1	Genbank	CDS	50920	51684	.	+	0	ID=cds-ACY86493.1;Parent=gene-STM14_5583;Dbxref=NCBI_GP:ACY86493.1;Name=ACY86493.1;gbkey=CDS;locus_tag=STM14_5583;product=putative inner membrane protein;protein_id=ACY86493.1;transl_table=11
+CP001362.1	Genbank	gene	52180	52614	.	+	.	ID=gene-STM14_5584;Name=STM14_5584;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5584
+CP001362.1	Genbank	CDS	52180	52614	.	+	0	ID=cds-ACY86494.1;Parent=gene-STM14_5584;Dbxref=NCBI_GP:ACY86494.1;Name=ACY86494.1;gbkey=CDS;locus_tag=STM14_5584;product=putative cytoplasmic protein;protein_id=ACY86494.1;transl_table=11
+CP001362.1	Genbank	gene	52681	53115	.	+	.	ID=gene-STM14_5585;Name=STM14_5585;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5585
+CP001362.1	Genbank	CDS	52681	53115	.	+	0	ID=cds-ACY86495.1;Parent=gene-STM14_5585;Dbxref=NCBI_GP:ACY86495.1;Name=ACY86495.1;gbkey=CDS;locus_tag=STM14_5585;product=putative cytoplasmic protein;protein_id=ACY86495.1;transl_table=11
+CP001362.1	Genbank	gene	53351	53674	.	+	.	ID=gene-STM14_5586;Name=STM14_5586;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5586
+CP001362.1	Genbank	CDS	53351	53674	.	+	0	ID=cds-ACY86496.1;Parent=gene-STM14_5586;Dbxref=NCBI_GP:ACY86496.1;Name=ACY86496.1;gbkey=CDS;locus_tag=STM14_5586;product=putative inner membrane protein;protein_id=ACY86496.1;transl_table=11
+CP001362.1	Genbank	gene	54375	54893	.	+	.	ID=gene-STM14_5587;Name=ssbB;gbkey=Gene;gene=ssbB;gene_biotype=protein_coding;locus_tag=STM14_5587
+CP001362.1	Genbank	CDS	54375	54893	.	+	0	ID=cds-ACY86497.1;Parent=gene-STM14_5587;Dbxref=NCBI_GP:ACY86497.1;Name=ACY86497.1;gbkey=CDS;gene=ssbB;locus_tag=STM14_5587;product=single-strand binding protein;protein_id=ACY86497.1;transl_table=11
+CP001362.1	Genbank	gene	54948	55190	.	+	.	ID=gene-STM14_5588;Name=STM14_5588;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5588
+CP001362.1	Genbank	CDS	54948	55190	.	+	0	ID=cds-ACY86498.1;Parent=gene-STM14_5588;Dbxref=NCBI_GP:ACY86498.1;Name=ACY86498.1;gbkey=CDS;locus_tag=STM14_5588;product=putative cytoplasmic protein;protein_id=ACY86498.1;transl_table=11
+CP001362.1	Genbank	gene	55259	57256	.	+	.	ID=gene-STM14_5589;Name=STM14_5589;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5589
+CP001362.1	Genbank	CDS	55259	57256	.	+	0	ID=cds-ACY86499.1;Parent=gene-STM14_5589;Dbxref=NCBI_GP:ACY86499.1;Name=ACY86499.1;gbkey=CDS;locus_tag=STM14_5589;product=putative ParB-like nuclease domain protein;protein_id=ACY86499.1;transl_table=11
+CP001362.1	Genbank	gene	57296	57730	.	+	.	ID=gene-STM14_5590;Name=psiB;gbkey=Gene;gene=psiB;gene_biotype=protein_coding;locus_tag=STM14_5590
+CP001362.1	Genbank	CDS	57296	57730	.	+	0	ID=cds-ACY86500.1;Parent=gene-STM14_5590;Dbxref=NCBI_GP:ACY86500.1;Name=ACY86500.1;gbkey=CDS;gene=psiB;locus_tag=STM14_5590;product=Plasmid SOS inhibition;protein_id=ACY86500.1;transl_table=11
+CP001362.1	Genbank	gene	57727	58464	.	+	.	ID=gene-STM14_5591;Name=psiA;gbkey=Gene;gene=psiA;gene_biotype=protein_coding;locus_tag=STM14_5591
+CP001362.1	Genbank	CDS	57727	58464	.	+	0	ID=cds-ACY86501.1;Parent=gene-STM14_5591;Dbxref=NCBI_GP:ACY86501.1;Name=ACY86501.1;gbkey=CDS;gene=psiA;locus_tag=STM14_5591;product=Plasmid SOS inhibition;protein_id=ACY86501.1;transl_table=11
+CP001362.1	Genbank	gene	60103	60573	.	-	.	ID=gene-STM14_5592;Name=finP;gbkey=Gene;gene=finP;gene_biotype=protein_coding;locus_tag=STM14_5592
+CP001362.1	Genbank	CDS	60103	60573	.	-	0	ID=cds-ACY86502.1;Parent=gene-STM14_5592;Dbxref=NCBI_GP:ACY86502.1;Name=ACY86502.1;gbkey=CDS;gene=finP;locus_tag=STM14_5592;product=putative transglycosylase;protein_id=ACY86502.1;transl_table=11
+CP001362.1	Genbank	gene	60988	61368	.	+	.	ID=gene-STM14_5593;Name=traM;gbkey=Gene;gene=traM;gene_biotype=protein_coding;locus_tag=STM14_5593
+CP001362.1	Genbank	CDS	60988	61368	.	+	0	ID=cds-ACY86503.1;Parent=gene-STM14_5593;Dbxref=NCBI_GP:ACY86503.1;Name=ACY86503.1;gbkey=CDS;gene=traM;locus_tag=STM14_5593;product=conjugative transfer: mating signal;protein_id=ACY86503.1;transl_table=11
+CP001362.1	Genbank	gene	61461	61628	.	-	.	ID=gene-STM14_5594;Name=STM14_5594;gbkey=Gene;gene_biotype=antisense_RNA;locus_tag=STM14_5594
+CP001362.1	Genbank	antisense_RNA	61461	61628	.	-	.	ID=rna-STM14_5594;Parent=gene-STM14_5594;gbkey=ncRNA;locus_tag=STM14_5594
+CP001362.1	Genbank	exon	61461	61628	.	-	.	ID=exon-STM14_5594-1;Parent=rna-STM14_5594;gbkey=ncRNA;locus_tag=STM14_5594
+CP001362.1	Genbank	gene	61561	62247	.	+	.	ID=gene-STM14_5595;Name=traJ;gbkey=Gene;gene=traJ;gene_biotype=protein_coding;locus_tag=STM14_5595
+CP001362.1	Genbank	CDS	61561	62247	.	+	0	ID=cds-ACY86504.1;Parent=gene-STM14_5595;Dbxref=NCBI_GP:ACY86504.1;Name=ACY86504.1;gbkey=CDS;gene=traJ;locus_tag=STM14_5595;product=conjugative transfer: regulation;protein_id=ACY86504.1;transl_table=11
+CP001362.1	Genbank	gene	62248	62568	.	+	.	ID=gene-STM14_5596;Name=traY;gbkey=Gene;gene=traY;gene_biotype=protein_coding;locus_tag=STM14_5596
+CP001362.1	Genbank	CDS	62248	62568	.	+	0	ID=cds-ACY86505.1;Parent=gene-STM14_5596;Dbxref=NCBI_GP:ACY86505.1;Name=ACY86505.1;gbkey=CDS;gene=traY;locus_tag=STM14_5596;product=conjugative transfer: oriT nicking;protein_id=ACY86505.1;transl_table=11
+CP001362.1	Genbank	gene	62610	62972	.	+	.	ID=gene-STM14_5597;Name=traA;gbkey=Gene;gene=traA;gene_biotype=protein_coding;locus_tag=STM14_5597
+CP001362.1	Genbank	CDS	62610	62972	.	+	0	ID=cds-ACY86506.1;Parent=gene-STM14_5597;Dbxref=NCBI_GP:ACY86506.1;Name=ACY86506.1;gbkey=CDS;gene=traA;locus_tag=STM14_5597;product=conjugative transfer: fimbrial subunit;protein_id=ACY86506.1;transl_table=11
+CP001362.1	Genbank	gene	62987	63298	.	+	.	ID=gene-STM14_5598;Name=traL;gbkey=Gene;gene=traL;gene_biotype=protein_coding;locus_tag=STM14_5598
+CP001362.1	Genbank	CDS	62987	63298	.	+	0	ID=cds-ACY86507.1;Parent=gene-STM14_5598;Dbxref=NCBI_GP:ACY86507.1;Name=ACY86507.1;gbkey=CDS;gene=traL;locus_tag=STM14_5598;product=conjugative transfer: assembly;protein_id=ACY86507.1;transl_table=11
+CP001362.1	Genbank	gene	63320	63886	.	+	.	ID=gene-STM14_5599;Name=traE;gbkey=Gene;gene=traE;gene_biotype=protein_coding;locus_tag=STM14_5599
+CP001362.1	Genbank	CDS	63320	63886	.	+	0	ID=cds-ACY86508.1;Parent=gene-STM14_5599;Dbxref=NCBI_GP:ACY86508.1;Name=ACY86508.1;gbkey=CDS;gene=traE;locus_tag=STM14_5599;product=conjugative transfer: assembly;protein_id=ACY86508.1;transl_table=11
+CP001362.1	Genbank	gene	63873	64613	.	+	.	ID=gene-STM14_5600;Name=traK;gbkey=Gene;gene=traK;gene_biotype=protein_coding;locus_tag=STM14_5600
+CP001362.1	Genbank	CDS	63873	64613	.	+	0	ID=cds-ACY86509.1;Parent=gene-STM14_5600;Dbxref=NCBI_GP:ACY86509.1;Name=ACY86509.1;gbkey=CDS;gene=traK;locus_tag=STM14_5600;product=conjugative transfer: assembly;protein_id=ACY86509.1;transl_table=11
+CP001362.1	Genbank	gene	64613	66034	.	+	.	ID=gene-STM14_5601;Name=traB;gbkey=Gene;gene=traB;gene_biotype=protein_coding;locus_tag=STM14_5601
+CP001362.1	Genbank	CDS	64613	66034	.	+	0	ID=cds-ACY86510.1;Parent=gene-STM14_5601;Dbxref=NCBI_GP:ACY86510.1;Name=ACY86510.1;gbkey=CDS;gene=traB;locus_tag=STM14_5601;product=conjugative transfer: assembly;protein_id=ACY86510.1;transl_table=11
+CP001362.1	Genbank	gene	66024	66620	.	+	.	ID=gene-STM14_5602;Name=traP;gbkey=Gene;gene=traP;gene_biotype=protein_coding;locus_tag=STM14_5602
+CP001362.1	Genbank	CDS	66024	66620	.	+	0	ID=cds-ACY86511.1;Parent=gene-STM14_5602;Dbxref=NCBI_GP:ACY86511.1;Name=ACY86511.1;gbkey=CDS;gene=traP;locus_tag=STM14_5602;product=conjugative transfer protein;protein_id=ACY86511.1;transl_table=11
+CP001362.1	Genbank	gene	66598	66843	.	+	.	ID=gene-STM14_5603;Name=trbD;gbkey=Gene;gene=trbD;gene_biotype=protein_coding;locus_tag=STM14_5603
+CP001362.1	Genbank	CDS	66598	66843	.	+	0	ID=cds-ACY86512.1;Parent=gene-STM14_5603;Dbxref=NCBI_GP:ACY86512.1;Name=ACY86512.1;gbkey=CDS;gene=trbD;locus_tag=STM14_5603;product=conjugative transfer protein;protein_id=ACY86512.1;transl_table=11
+CP001362.1	Genbank	gene	66840	67355	.	+	.	ID=gene-STM14_5604;Name=traV;gbkey=Gene;gene=traV;gene_biotype=protein_coding;locus_tag=STM14_5604
+CP001362.1	Genbank	CDS	66840	67355	.	+	0	ID=cds-ACY86513.1;Parent=gene-STM14_5604;Dbxref=NCBI_GP:ACY86513.1;Name=ACY86513.1;gbkey=CDS;gene=traV;locus_tag=STM14_5604;product=conjugative transfer: assembly;protein_id=ACY86513.1;transl_table=11
+CP001362.1	Genbank	gene	67490	67711	.	+	.	ID=gene-STM14_5605;Name=traR;gbkey=Gene;gene=traR;gene_biotype=protein_coding;locus_tag=STM14_5605
+CP001362.1	Genbank	CDS	67490	67711	.	+	0	ID=cds-ACY86514.1;Parent=gene-STM14_5605;Dbxref=NCBI_GP:ACY86514.1;Name=ACY86514.1;gbkey=CDS;gene=traR;locus_tag=STM14_5605;product=conjugative transfer protein;protein_id=ACY86514.1;transl_table=11
+CP001362.1	Genbank	gene	67704	68171	.	+	.	ID=gene-STM14_5606;Name=STM14_5606;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5606
+CP001362.1	Genbank	CDS	67704	68171	.	+	0	ID=cds-ACY86515.1;Parent=gene-STM14_5606;Dbxref=NCBI_GP:ACY86515.1;Name=ACY86515.1;gbkey=CDS;locus_tag=STM14_5606;product=conjugative transfer protein;protein_id=ACY86515.1;transl_table=11
+CP001362.1	Genbank	gene	68567	71215	.	+	.	ID=gene-STM14_5607;Name=traC;gbkey=Gene;gene=traC;gene_biotype=protein_coding;locus_tag=STM14_5607
+CP001362.1	Genbank	CDS	68567	71215	.	+	0	ID=cds-ACY86516.1;Parent=gene-STM14_5607;Dbxref=NCBI_GP:ACY86516.1;Name=ACY86516.1;gbkey=CDS;gene=traC;locus_tag=STM14_5607;product=conjugative transfer: assembly;protein_id=ACY86516.1;transl_table=11
+CP001362.1	Genbank	gene	71190	71576	.	+	.	ID=gene-STM14_5608;Name=trbI;gbkey=Gene;gene=trbI;gene_biotype=protein_coding;locus_tag=STM14_5608
+CP001362.1	Genbank	CDS	71190	71576	.	+	0	ID=cds-ACY86517.1;Parent=gene-STM14_5608;Dbxref=NCBI_GP:ACY86517.1;Name=ACY86517.1;gbkey=CDS;gene=trbI;locus_tag=STM14_5608;product=conjugative transfer protein;protein_id=ACY86517.1;transl_table=11
+CP001362.1	Genbank	gene	71573	72205	.	+	.	ID=gene-STM14_5609;Name=traW;gbkey=Gene;gene=traW;gene_biotype=protein_coding;locus_tag=STM14_5609
+CP001362.1	Genbank	CDS	71573	72205	.	+	0	ID=cds-ACY86518.1;Parent=gene-STM14_5609;Dbxref=NCBI_GP:ACY86518.1;Name=ACY86518.1;gbkey=CDS;gene=traW;locus_tag=STM14_5609;product=conjugative transfer: assembly;protein_id=ACY86518.1;transl_table=11
+CP001362.1	Genbank	gene	72202	73194	.	+	.	ID=gene-STM14_5610;Name=traU;gbkey=Gene;gene=traU;gene_biotype=protein_coding;locus_tag=STM14_5610
+CP001362.1	Genbank	CDS	72202	73194	.	+	0	ID=cds-ACY86519.1;Parent=gene-STM14_5610;Dbxref=NCBI_GP:ACY86519.1;Name=ACY86519.1;gbkey=CDS;gene=traU;locus_tag=STM14_5610;product=conjugative transfer: assembly;protein_id=ACY86519.1;transl_table=11
+CP001362.1	Genbank	gene	73213	73521	.	+	.	ID=gene-STM14_5611;Name=STM14_5611;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5611
+CP001362.1	Genbank	CDS	73213	73521	.	+	0	ID=cds-ACY86520.1;Parent=gene-STM14_5611;Dbxref=NCBI_GP:ACY86520.1;Name=ACY86520.1;gbkey=CDS;locus_tag=STM14_5611;product=conjugative transfer protein;protein_id=ACY86520.1;transl_table=11
+CP001362.1	Genbank	gene	73506	74144	.	+	.	ID=gene-STM14_5612;Name=trbC;gbkey=Gene;gene=trbC;gene_biotype=protein_coding;locus_tag=STM14_5612
+CP001362.1	Genbank	CDS	73506	74144	.	+	0	ID=cds-ACY86521.1;Parent=gene-STM14_5612;Dbxref=NCBI_GP:ACY86521.1;Name=ACY86521.1;gbkey=CDS;gene=trbC;locus_tag=STM14_5612;product=conjugative transfer: assembly;protein_id=ACY86521.1;transl_table=11
+CP001362.1	Genbank	gene	74597	76423	.	+	.	ID=gene-STM14_5613;Name=traN;gbkey=Gene;gene=traN;gene_biotype=protein_coding;locus_tag=STM14_5613
+CP001362.1	Genbank	CDS	74597	76423	.	+	0	ID=cds-ACY86522.1;Parent=gene-STM14_5613;Dbxref=NCBI_GP:ACY86522.1;Name=ACY86522.1;gbkey=CDS;gene=traN;locus_tag=STM14_5613;product=conjugative transfer: aggregate stability;protein_id=ACY86522.1;transl_table=11
+CP001362.1	Genbank	gene	76434	76649	.	+	.	ID=gene-STM14_5614;Name=trbE;gbkey=Gene;gene=trbE;gene_biotype=protein_coding;locus_tag=STM14_5614
+CP001362.1	Genbank	CDS	76434	76649	.	+	0	ID=cds-ACY86523.1;Parent=gene-STM14_5614;Dbxref=NCBI_GP:ACY86523.1;Name=ACY86523.1;gbkey=CDS;gene=trbE;locus_tag=STM14_5614;product=conjugative transfer protein;protein_id=ACY86523.1;transl_table=11
+CP001362.1	Genbank	gene	76661	77410	.	+	.	ID=gene-STM14_5615;Name=traF;gbkey=Gene;gene=traF;gene_biotype=protein_coding;locus_tag=STM14_5615
+CP001362.1	Genbank	CDS	76661	77410	.	+	0	ID=cds-ACY86524.1;Parent=gene-STM14_5615;Dbxref=NCBI_GP:ACY86524.1;Name=ACY86524.1;gbkey=CDS;gene=traF;locus_tag=STM14_5615;product=conjugative transfer: assembly;protein_id=ACY86524.1;transl_table=11
+CP001362.1	Genbank	gene	77624	77917	.	+	.	ID=gene-STM14_5616;Name=traQ;gbkey=Gene;gene=traQ;gene_biotype=protein_coding;locus_tag=STM14_5616
+CP001362.1	Genbank	CDS	77624	77917	.	+	0	ID=cds-ACY86525.1;Parent=gene-STM14_5616;Dbxref=NCBI_GP:ACY86525.1;Name=ACY86525.1;gbkey=CDS;gene=traQ;locus_tag=STM14_5616;product=conjugative transfer: fimbrial synthesis;protein_id=ACY86525.1;transl_table=11
+CP001362.1	Genbank	gene	77904	78452	.	+	.	ID=gene-STM14_5617;Name=trbB;gbkey=Gene;gene=trbB;gene_biotype=protein_coding;locus_tag=STM14_5617
+CP001362.1	Genbank	CDS	77904	78452	.	+	0	ID=cds-ACY86526.1;Parent=gene-STM14_5617;Dbxref=NCBI_GP:ACY86526.1;Name=ACY86526.1;gbkey=CDS;gene=trbB;locus_tag=STM14_5617;product=conjugative transfer protein;protein_id=ACY86526.1;transl_table=11
+CP001362.1	Genbank	gene	78442	79824	.	+	.	ID=gene-STM14_5618;Name=traH;gbkey=Gene;gene=traH;gene_biotype=protein_coding;locus_tag=STM14_5618
+CP001362.1	Genbank	CDS	78442	79824	.	+	0	ID=cds-ACY86527.1;Parent=gene-STM14_5618;Dbxref=NCBI_GP:ACY86527.1;Name=ACY86527.1;gbkey=CDS;gene=traH;locus_tag=STM14_5618;product=conjugative transfer: assembly;protein_id=ACY86527.1;transl_table=11
+CP001362.1	Genbank	gene	79821	82643	.	+	.	ID=gene-STM14_5619;Name=traG;gbkey=Gene;gene=traG;gene_biotype=protein_coding;locus_tag=STM14_5619
+CP001362.1	Genbank	CDS	79821	82643	.	+	0	ID=cds-ACY86528.1;Parent=gene-STM14_5619;Dbxref=NCBI_GP:ACY86528.1;Name=ACY86528.1;gbkey=CDS;gene=traG;locus_tag=STM14_5619;product=conjugative transfer: assembly abd aggregate stability;protein_id=ACY86528.1;transl_table=11
+CP001362.1	Genbank	gene	82659	83153	.	+	.	ID=gene-STM14_5620;Name=traS;gbkey=Gene;gene=traS;gene_biotype=protein_coding;locus_tag=STM14_5620
+CP001362.1	Genbank	CDS	82659	83153	.	+	0	ID=cds-ACY86529.1;Parent=gene-STM14_5620;Dbxref=NCBI_GP:ACY86529.1;Name=ACY86529.1;gbkey=CDS;gene=traS;locus_tag=STM14_5620;product=conjugative transfer: surface exclusion;protein_id=ACY86529.1;transl_table=11
+CP001362.1	Genbank	gene	83189	83920	.	+	.	ID=gene-STM14_5621;Name=traT;gbkey=Gene;gene=traT;gene_biotype=protein_coding;locus_tag=STM14_5621
+CP001362.1	Genbank	CDS	83189	83920	.	+	0	ID=cds-ACY86530.1;Parent=gene-STM14_5621;Dbxref=NCBI_GP:ACY86530.1;Name=ACY86530.1;gbkey=CDS;gene=traT;locus_tag=STM14_5621;product=conjugative transfer: surface exclusion;protein_id=ACY86530.1;transl_table=11
+CP001362.1	Genbank	gene	84297	86459	.	+	.	ID=gene-STM14_5622;Name=traD;gbkey=Gene;gene=traD;gene_biotype=protein_coding;locus_tag=STM14_5622
+CP001362.1	Genbank	CDS	84297	86459	.	+	0	ID=cds-ACY86531.1;Parent=gene-STM14_5622;Dbxref=NCBI_GP:ACY86531.1;Name=ACY86531.1;gbkey=CDS;gene=traD;locus_tag=STM14_5622;product=conjugative transfer: DNA transport;protein_id=ACY86531.1;transl_table=11
+CP001362.1	Genbank	gene	86459	87178	.	+	.	ID=gene-STM14_5623;Name=trbH;gbkey=Gene;gene=trbH;gene_biotype=protein_coding;locus_tag=STM14_5623
+CP001362.1	Genbank	CDS	86459	87178	.	+	0	ID=cds-ACY86532.1;Parent=gene-STM14_5623;Dbxref=NCBI_GP:ACY86532.1;Name=ACY86532.1;gbkey=CDS;gene=trbH;locus_tag=STM14_5623;product=conjugative transfer protein;protein_id=ACY86532.1;transl_table=11
+CP001362.1	Genbank	gene	86468	86866	.	-	.	ID=gene-STM14_5624;Name=STM14_5624;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5624
+CP001362.1	Genbank	CDS	86468	86866	.	-	0	ID=cds-ACY86533.1;Parent=gene-STM14_5624;Dbxref=NCBI_GP:ACY86533.1;Name=ACY86533.1;Note=similar to Shigella flexneri mvpA;gbkey=CDS;locus_tag=STM14_5624;product=MvpA-like protein;protein_id=ACY86533.1;transl_table=11
+CP001362.1	Genbank	gene	86866	87096	.	-	.	ID=gene-STM14_5625;Name=STM14_5625;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM14_5625
+CP001362.1	Genbank	CDS	86866	87096	.	-	0	ID=cds-ACY86534.1;Parent=gene-STM14_5625;Dbxref=NCBI_GP:ACY86534.1;Name=ACY86534.1;gbkey=CDS;locus_tag=STM14_5625;product=putative cytoplasmic protein;protein_id=ACY86534.1;transl_table=11
+CP001362.1	Genbank	gene	87175	92433	.	+	.	ID=gene-STM14_5626;Name=traI;gbkey=Gene;gene=traI;gene_biotype=protein_coding;locus_tag=STM14_5626
+CP001362.1	Genbank	CDS	87175	92433	.	+	0	ID=cds-ACY86535.1;Parent=gene-STM14_5626;Dbxref=NCBI_GP:ACY86535.1;Name=ACY86535.1;gbkey=CDS;gene=traI;locus_tag=STM14_5626;product=conjugative transfer: oriT nicking-unwinding;protein_id=ACY86535.1;transl_table=11
+CP001362.1	Genbank	gene	92453	93193	.	+	.	ID=gene-STM14_5627;Name=traX;gbkey=Gene;gene=traX;gene_biotype=protein_coding;locus_tag=STM14_5627
+CP001362.1	Genbank	CDS	92453	93193	.	+	0	ID=cds-ACY86536.1;Parent=gene-STM14_5627;Dbxref=NCBI_GP:ACY86536.1;Name=ACY86536.1;gbkey=CDS;gene=traX;locus_tag=STM14_5627;product=conjugative transfer: fimbrial acetylation;protein_id=ACY86536.1;transl_table=11
+CP001362.1	Genbank	gene	93248	93811	.	+	.	ID=gene-STM14_5628;Name=finO;gbkey=Gene;gene=finO;gene_biotype=protein_coding;locus_tag=STM14_5628
+CP001362.1	Genbank	CDS	93248	93811	.	+	0	ID=cds-ACY86537.1;Parent=gene-STM14_5628;Dbxref=NCBI_GP:ACY86537.1;Name=ACY86537.1;gbkey=CDS;gene=finO;locus_tag=STM14_5628;product=conjugative transfer: regulation;protein_id=ACY86537.1;transl_table=11
+

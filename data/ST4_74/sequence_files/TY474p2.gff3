@@ -1,0 +1,184 @@
+##sequence-region CP002489.1 1 86908
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=909946
+CP002489.1	Genbank	region	1	86908	.	+	.	ID=CP002489.1:1..86908;Dbxref=taxon:909946;Is_circular=true;Name=TY474p2;gbkey=Src;genome=plasmid;mol_type=genomic DNA;old-name=Salmonella enterica subsp. enterica serovar Typhimurium str. 474;plasmid-name=TY474p2;serovar=Typhimurium;strain=ST4/74;sub-species=enterica
+CP002489.1	Genbank	gene	378	467	.	+	.	ID=gene-STM474_p201;Name=repY;gbkey=Gene;gene=repY;gene_biotype=protein_coding;locus_tag=STM474_p201
+CP002489.1	Genbank	CDS	378	467	.	+	0	ID=cds-ADX20488.1;Parent=gene-STM474_p201;Dbxref=NCBI_GP:ADX20488.1;Name=ADX20488.1;gbkey=CDS;gene=repY;locus_tag=STM474_p201;product=replication protein repZ regulatory protein;protein_id=ADX20488.1;transl_table=11
+CP002489.1	Genbank	gene	2395	2664	.	+	.	ID=gene-STM474_p202;Name=yacA;gbkey=Gene;gene=yacA;gene_biotype=protein_coding;locus_tag=STM474_p202
+CP002489.1	Genbank	CDS	2395	2664	.	+	0	ID=cds-ADX20489.1;Parent=gene-STM474_p202;Dbxref=NCBI_GP:ADX20489.1;Name=ADX20489.1;gbkey=CDS;gene=yacA;locus_tag=STM474_p202;product=conserved hypothetical protein YacA%2C possible repressor;protein_id=ADX20489.1;transl_table=11
+CP002489.1	Genbank	gene	2661	2942	.	+	.	ID=gene-STM474_p203;Name=yacB;gbkey=Gene;gene=yacB;gene_biotype=protein_coding;locus_tag=STM474_p203
+CP002489.1	Genbank	CDS	2661	2942	.	+	0	ID=cds-ADX20490.1;Parent=gene-STM474_p203;Dbxref=NCBI_GP:ADX20490.1;Name=ADX20490.1;gbkey=CDS;gene=yacB;locus_tag=STM474_p203;product=putative plasmid stabilization system protein;protein_id=ADX20490.1;transl_table=11
+CP002489.1	Genbank	gene	2982	3830	.	+	.	ID=gene-STM474_p204;Name=yacC;gbkey=Gene;gene=yacC;gene_biotype=protein_coding;locus_tag=STM474_p204
+CP002489.1	Genbank	CDS	2982	3830	.	+	0	ID=cds-ADX20491.1;Parent=gene-STM474_p204;Dbxref=NCBI_GP:ADX20491.1;Name=ADX20491.1;gbkey=CDS;gene=yacC;locus_tag=STM474_p204;product=YacC protein;protein_id=ADX20491.1;transl_table=11
+CP002489.1	Genbank	gene	3971	4420	.	+	.	ID=gene-STM474_p205;Name=yadA;gbkey=Gene;gene=yadA;gene_biotype=protein_coding;locus_tag=STM474_p205
+CP002489.1	Genbank	CDS	3971	4420	.	+	0	ID=cds-ADX20492.1;Parent=gene-STM474_p205;Dbxref=NCBI_GP:ADX20492.1;Name=ADX20492.1;gbkey=CDS;gene=yadA;locus_tag=STM474_p205;product=YadA protein;protein_id=ADX20492.1;transl_table=11
+CP002489.1	Genbank	gene	4555	4788	.	+	.	ID=gene-STM474_p206;Name=STM474_p206;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM474_p206
+CP002489.1	Genbank	CDS	4555	4788	.	+	0	ID=cds-ADX20493.1;Parent=gene-STM474_p206;Dbxref=NCBI_GP:ADX20493.1;Name=ADX20493.1;gbkey=CDS;locus_tag=STM474_p206;product=hypothetical protein;protein_id=ADX20493.1;transl_table=11
+CP002489.1	Genbank	gene	4897	5166	.	-	.	ID=gene-STM474_p207;Name=STM474_p207;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM474_p207
+CP002489.1	Genbank	CDS	4897	5166	.	-	0	ID=cds-ADX20494.1;Parent=gene-STM474_p207;Dbxref=NCBI_GP:ADX20494.1;Name=ADX20494.1;gbkey=CDS;locus_tag=STM474_p207;product=hypothetical protein;protein_id=ADX20494.1;transl_table=11
+CP002489.1	Genbank	gene	5163	5657	.	-	.	ID=gene-STM474_p208;Name=STM474_p208;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM474_p208
+CP002489.1	Genbank	CDS	5163	5657	.	-	0	ID=cds-ADX20495.1;Parent=gene-STM474_p208;Dbxref=NCBI_GP:ADX20495.1;Name=ADX20495.1;gbkey=CDS;locus_tag=STM474_p208;product=hypothetical protein;protein_id=ADX20495.1;transl_table=11
+CP002489.1	Genbank	gene	5713	6315	.	-	.	ID=gene-STM474_p209;Name=yafB;gbkey=Gene;gene=yafB;gene_biotype=protein_coding;locus_tag=STM474_p209
+CP002489.1	Genbank	CDS	5713	6315	.	-	0	ID=cds-ADX20496.1;Parent=gene-STM474_p209;Dbxref=NCBI_GP:ADX20496.1;Name=ADX20496.1;gbkey=CDS;gene=yafB;locus_tag=STM474_p209;product=YafB protein;protein_id=ADX20496.1;transl_table=11
+CP002489.1	Genbank	gene	7350	8015	.	+	.	ID=gene-STM474_p210;Name=STM474_p210;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM474_p210
+CP002489.1	Genbank	CDS	7350	8015	.	+	0	ID=cds-ADX20497.1;Parent=gene-STM474_p210;Dbxref=NCBI_GP:ADX20497.1;Name=ADX20497.1;gbkey=CDS;locus_tag=STM474_p210;product=hypothetical protein;protein_id=ADX20497.1;transl_table=11
+CP002489.1	Genbank	gene	8294	10174	.	+	.	ID=gene-STM474_p211;Name=cib;gbkey=Gene;gene=cib;gene_biotype=protein_coding;locus_tag=STM474_p211
+CP002489.1	Genbank	CDS	8294	10174	.	+	0	ID=cds-ADX20498.1;Parent=gene-STM474_p211;Dbxref=NCBI_GP:ADX20498.1;Name=ADX20498.1;gbkey=CDS;gene=cib;locus_tag=STM474_p211;product=colicin IB;protein_id=ADX20498.1;transl_table=11
+CP002489.1	Genbank	gene	10192	10539	.	-	.	ID=gene-STM474_p212;Name=imm;gbkey=Gene;gene=imm;gene_biotype=protein_coding;locus_tag=STM474_p212
+CP002489.1	Genbank	CDS	10192	10539	.	-	0	ID=cds-ADX20499.1;Parent=gene-STM474_p212;Dbxref=NCBI_GP:ADX20499.1;Name=ADX20499.1;gbkey=CDS;gene=imm;locus_tag=STM474_p212;product=colicin Ib immunity protein;protein_id=ADX20499.1;transl_table=11
+CP002489.1	Genbank	gene	11610	11870	.	-	.	ID=gene-STM474_p213;Name=ydfA;gbkey=Gene;gene=ydfA;gene_biotype=protein_coding;locus_tag=STM474_p213
+CP002489.1	Genbank	CDS	11610	11870	.	-	0	ID=cds-ADX20500.1;Parent=gene-STM474_p213;Dbxref=NCBI_GP:ADX20500.1;Name=ADX20500.1;gbkey=CDS;gene=ydfA;locus_tag=STM474_p213;product=hypothetical protein;protein_id=ADX20500.1;transl_table=11
+CP002489.1	Genbank	gene	12400	12852	.	+	.	ID=gene-STM474_p214;Name=STM474_p214;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM474_p214
+CP002489.1	Genbank	CDS	12400	12852	.	+	0	ID=cds-ADX20501.1;Parent=gene-STM474_p214;Dbxref=NCBI_GP:ADX20501.1;Name=ADX20501.1;gbkey=CDS;locus_tag=STM474_p214;product=hypothetical protein;protein_id=ADX20501.1;transl_table=11
+CP002489.1	Genbank	gene	12854	13639	.	+	.	ID=gene-STM474_p215;Name=STM474_p215;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM474_p215
+CP002489.1	Genbank	CDS	12854	13639	.	+	0	ID=cds-ADX20502.1;Parent=gene-STM474_p215;Dbxref=NCBI_GP:ADX20502.1;Name=ADX20502.1;gbkey=CDS;locus_tag=STM474_p215;product=resolvase;protein_id=ADX20502.1;transl_table=11
+CP002489.1	Genbank	gene	14223	14855	.	+	.	ID=gene-STM474_p216;Name=STM474_p216;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM474_p216
+CP002489.1	Genbank	CDS	14223	14855	.	+	0	ID=cds-ADX20503.1;Parent=gene-STM474_p216;Dbxref=NCBI_GP:ADX20503.1;Name=ADX20503.1;gbkey=CDS;locus_tag=STM474_p216;product=ParA;protein_id=ADX20503.1;transl_table=11
+CP002489.1	Genbank	gene	14855	15229	.	+	.	ID=gene-STM474_p217;Name=STM474_p217;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM474_p217
+CP002489.1	Genbank	CDS	14855	15229	.	+	0	ID=cds-ADX20504.1;Parent=gene-STM474_p217;Dbxref=NCBI_GP:ADX20504.1;Name=ADX20504.1;gbkey=CDS;locus_tag=STM474_p217;product=hypothetical protein;protein_id=ADX20504.1;transl_table=11
+CP002489.1	Genbank	gene	15468	16442	.	+	.	ID=gene-STM474_p218;Name=parM;gbkey=Gene;gene=parM;gene_biotype=protein_coding;locus_tag=STM474_p218
+CP002489.1	Genbank	CDS	15468	16442	.	+	0	ID=cds-ADX20505.1;Parent=gene-STM474_p218;Dbxref=NCBI_GP:ADX20505.1;Name=ADX20505.1;gbkey=CDS;gene=parM;locus_tag=STM474_p218;product=plasmid segregation protein ParM;protein_id=ADX20505.1;transl_table=11
+CP002489.1	Genbank	gene	16446	16838	.	+	.	ID=gene-STM474_p219;Name=stbB;gbkey=Gene;gene=stbB;gene_biotype=protein_coding;locus_tag=STM474_p219
+CP002489.1	Genbank	CDS	16446	16838	.	+	0	ID=cds-ADX20506.1;Parent=gene-STM474_p219;Dbxref=NCBI_GP:ADX20506.1;Name=ADX20506.1;gbkey=CDS;gene=stbB;locus_tag=STM474_p219;product=plasmid stability protein StbB;protein_id=ADX20506.1;transl_table=11
+CP002489.1	Genbank	gene	17495	18421	.	+	.	ID=gene-STM474_p220;Name=yfaB;gbkey=Gene;gene=yfaB;gene_biotype=protein_coding;locus_tag=STM474_p220
+CP002489.1	Genbank	CDS	17495	18421	.	+	0	ID=cds-ADX20507.1;Parent=gene-STM474_p220;Dbxref=NCBI_GP:ADX20507.1;Name=ADX20507.1;gbkey=CDS;gene=yfaB;locus_tag=STM474_p220;product=hypothetical protein;protein_id=ADX20507.1;transl_table=11
+CP002489.1	Genbank	gene	18806	19489	.	+	.	ID=gene-STM474_p221;Name=STM474_p221;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM474_p221
+CP002489.1	Genbank	CDS	18806	19489	.	+	0	ID=cds-ADX20508.1;Parent=gene-STM474_p221;Dbxref=NCBI_GP:ADX20508.1;Name=ADX20508.1;gbkey=CDS;locus_tag=STM474_p221;product=putative methylase;protein_id=ADX20508.1;transl_table=11
+CP002489.1	Genbank	gene	19490	19711	.	+	.	ID=gene-STM474_p222;Name=STM474_p222;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM474_p222
+CP002489.1	Genbank	CDS	19490	19711	.	+	0	ID=cds-ADX20509.1;Parent=gene-STM474_p222;Dbxref=NCBI_GP:ADX20509.1;Name=ADX20509.1;gbkey=CDS;locus_tag=STM474_p222;product=hypothetical protein;protein_id=ADX20509.1;transl_table=11
+CP002489.1	Genbank	gene	19725	20159	.	+	.	ID=gene-STM474_p223;Name=STM474_p223;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM474_p223
+CP002489.1	Genbank	CDS	19725	20159	.	+	0	ID=cds-ADX20510.1;Parent=gene-STM474_p223;Dbxref=NCBI_GP:ADX20510.1;Name=ADX20510.1;gbkey=CDS;locus_tag=STM474_p223;product=hypothetical protein;protein_id=ADX20510.1;transl_table=11
+CP002489.1	Genbank	gene	21522	21824	.	+	.	ID=gene-STM474_p224;Name=STM474_p224;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM474_p224
+CP002489.1	Genbank	CDS	21522	21824	.	+	0	ID=cds-ADX20511.1;Parent=gene-STM474_p224;Dbxref=NCBI_GP:ADX20511.1;Name=ADX20511.1;gbkey=CDS;locus_tag=STM474_p224;product=hypothetical protein;protein_id=ADX20511.1;transl_table=11
+CP002489.1	Genbank	gene	22290	22481	.	+	.	ID=gene-STM474_p225;Name=STM474_p225;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM474_p225
+CP002489.1	Genbank	CDS	22290	22481	.	+	0	ID=cds-ADX20512.1;Parent=gene-STM474_p225;Dbxref=NCBI_GP:ADX20512.1;Name=ADX20512.1;gbkey=CDS;locus_tag=STM474_p225;product=hypothetical protein;protein_id=ADX20512.1;transl_table=11
+CP002489.1	Genbank	gene	22552	22866	.	+	.	ID=gene-STM474_p226;Name=ychA;gbkey=Gene;gene=ychA;gene_biotype=protein_coding;locus_tag=STM474_p226
+CP002489.1	Genbank	CDS	22552	22866	.	+	0	ID=cds-ADX20513.1;Parent=gene-STM474_p226;Dbxref=NCBI_GP:ADX20513.1;Name=ADX20513.1;gbkey=CDS;gene=ychA;locus_tag=STM474_p226;product=YchA protein;protein_id=ADX20513.1;transl_table=11
+CP002489.1	Genbank	gene	22797	23129	.	-	.	ID=gene-STM474_p227;Name=STM474_p227;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM474_p227
+CP002489.1	Genbank	CDS	22797	23129	.	-	0	ID=cds-ADX20514.1;Parent=gene-STM474_p227;Dbxref=NCBI_GP:ADX20514.1;Name=ADX20514.1;gbkey=CDS;locus_tag=STM474_p227;product=hypothetical protein;protein_id=ADX20514.1;transl_table=11
+CP002489.1	Genbank	gene	23250	23777	.	+	.	ID=gene-STM474_p228;Name=STM474_p228;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM474_p228
+CP002489.1	Genbank	CDS	23250	23777	.	+	0	ID=cds-ADX20515.1;Parent=gene-STM474_p228;Dbxref=NCBI_GP:ADX20515.1;Name=ADX20515.1;gbkey=CDS;locus_tag=STM474_p228;product=hypothetical protein;protein_id=ADX20515.1;transl_table=11
+CP002489.1	Genbank	gene	23835	24068	.	+	.	ID=gene-STM474_p229;Name=ykfF;gbkey=Gene;gene=ykfF;gene_biotype=protein_coding;locus_tag=STM474_p229
+CP002489.1	Genbank	CDS	23835	24068	.	+	0	ID=cds-ADX20516.1;Parent=gene-STM474_p229;Dbxref=NCBI_GP:ADX20516.1;Name=ADX20516.1;gbkey=CDS;gene=ykfF;locus_tag=STM474_p229;product=YkfF protein;protein_id=ADX20516.1;transl_table=11
+CP002489.1	Genbank	gene	26140	26574	.	+	.	ID=gene-STM474_p230;Name=psiB;gbkey=Gene;gene=psiB;gene_biotype=protein_coding;locus_tag=STM474_p230
+CP002489.1	Genbank	CDS	26140	26574	.	+	0	ID=cds-ADX20517.1;Parent=gene-STM474_p230;Dbxref=NCBI_GP:ADX20517.1;Name=ADX20517.1;gbkey=CDS;gene=psiB;locus_tag=STM474_p230;product=plasmid SOS inhibition protein PsiB;protein_id=ADX20517.1;transl_table=11
+CP002489.1	Genbank	gene	26571	27290	.	+	.	ID=gene-STM474_p231;Name=psiA;gbkey=Gene;gene=psiA;gene_biotype=protein_coding;locus_tag=STM474_p231
+CP002489.1	Genbank	CDS	26571	27290	.	+	0	ID=cds-ADX20518.1;Parent=gene-STM474_p231;Dbxref=NCBI_GP:ADX20518.1;Name=ADX20518.1;gbkey=CDS;gene=psiA;locus_tag=STM474_p231;product=plasmid SOS inhibition protein A;protein_id=ADX20518.1;transl_table=11
+CP002489.1	Genbank	gene	27287	27883	.	+	.	ID=gene-STM474_p232;Name=STM474_p232;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM474_p232
+CP002489.1	Genbank	CDS	27287	27883	.	+	0	ID=cds-ADX20519.1;Parent=gene-STM474_p232;Dbxref=NCBI_GP:ADX20519.1;Name=ADX20519.1;gbkey=CDS;locus_tag=STM474_p232;product=hypothetical protein;protein_id=ADX20519.1;transl_table=11
+CP002489.1	Genbank	gene	27955	28425	.	+	.	ID=gene-STM474_p233;Name=yddA;gbkey=Gene;gene=yddA;gene_biotype=protein_coding;locus_tag=STM474_p233
+CP002489.1	Genbank	CDS	27955	28425	.	+	0	ID=cds-ADX20520.1;Parent=gene-STM474_p233;Dbxref=NCBI_GP:ADX20520.1;Name=ADX20520.1;gbkey=CDS;gene=yddA;locus_tag=STM474_p233;product=hypothetical protein;protein_id=ADX20520.1;transl_table=11
+CP002489.1	Genbank	gene	28346	28846	.	+	.	ID=gene-STM474_p234;Name=STM474_p234;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM474_p234
+CP002489.1	Genbank	CDS	28346	28846	.	+	0	ID=cds-ADX20521.1;Parent=gene-STM474_p234;Dbxref=NCBI_GP:ADX20521.1;Name=ADX20521.1;gbkey=CDS;locus_tag=STM474_p234;product=anti-restriction protein;protein_id=ADX20521.1;transl_table=11
+CP002489.1	Genbank	gene	29575	30009	.	+	.	ID=gene-STM474_p235;Name=STM474_p235;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM474_p235
+CP002489.1	Genbank	CDS	29575	30009	.	+	0	ID=cds-ADX20522.1;Parent=gene-STM474_p235;Dbxref=NCBI_GP:ADX20522.1;Name=ADX20522.1;gbkey=CDS;locus_tag=STM474_p235;product=hypothetical protein;protein_id=ADX20522.1;transl_table=11
+CP002489.1	Genbank	gene	30103	30369	.	+	.	ID=gene-STM474_p236;Name=STM474_p236;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM474_p236
+CP002489.1	Genbank	CDS	30103	30369	.	+	0	ID=cds-ADX20523.1;Parent=gene-STM474_p236;Dbxref=NCBI_GP:ADX20523.1;Name=ADX20523.1;gbkey=CDS;locus_tag=STM474_p236;product=hypothetical protein;protein_id=ADX20523.1;transl_table=11
+CP002489.1	Genbank	gene	30434	31360	.	+	.	ID=gene-STM474_p237;Name=ygdB;gbkey=Gene;gene=ygdB;gene_biotype=protein_coding;locus_tag=STM474_p237
+CP002489.1	Genbank	CDS	30434	31360	.	+	0	ID=cds-ADX20524.1;Parent=gene-STM474_p237;Dbxref=NCBI_GP:ADX20524.1;Name=ADX20524.1;gbkey=CDS;gene=ygdB;locus_tag=STM474_p237;product=transposase;protein_id=ADX20524.1;transl_table=11
+CP002489.1	Genbank	gene	31636	31887	.	-	.	ID=gene-STM474_p238;Name=STM474_p238;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM474_p238
+CP002489.1	Genbank	CDS	31636	31887	.	-	0	ID=cds-ADX20525.1;Parent=gene-STM474_p238;Dbxref=NCBI_GP:ADX20525.1;Name=ADX20525.1;gbkey=CDS;locus_tag=STM474_p238;product=hypothetical protein;protein_id=ADX20525.1;transl_table=11
+CP002489.1	Genbank	gene	32464	33315	.	+	.	ID=gene-STM474_p239;Name=ydiA;gbkey=Gene;gene=ydiA;gene_biotype=protein_coding;locus_tag=STM474_p239
+CP002489.1	Genbank	CDS	32464	33315	.	+	0	ID=cds-ADX20526.1;Parent=gene-STM474_p239;Dbxref=NCBI_GP:ADX20526.1;Name=ADX20526.1;gbkey=CDS;gene=ydiA;locus_tag=STM474_p239;product=YdiA protein;protein_id=ADX20526.1;transl_table=11
+CP002489.1	Genbank	gene	33401	33736	.	-	.	ID=gene-STM474_p240;Name=STM474_p240;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM474_p240
+CP002489.1	Genbank	CDS	33401	33736	.	-	0	ID=cds-ADX20527.1;Parent=gene-STM474_p240;Dbxref=NCBI_GP:ADX20527.1;Name=ADX20527.1;gbkey=CDS;locus_tag=STM474_p240;product=hypothetical protein;protein_id=ADX20527.1;transl_table=11
+CP002489.1	Genbank	gene	34312	37011	.	+	.	ID=gene-STM474_p241;Name=nikB;gbkey=Gene;gene=nikB;gene_biotype=protein_coding;locus_tag=STM474_p241
+CP002489.1	Genbank	CDS	34312	37011	.	+	0	ID=cds-ADX20528.1;Parent=gene-STM474_p241;Dbxref=NCBI_GP:ADX20528.1;Name=ADX20528.1;gbkey=CDS;gene=nikB;locus_tag=STM474_p241;product=relaxase;protein_id=ADX20528.1;transl_table=11
+CP002489.1	Genbank	gene	37048	39339	.	-	.	ID=gene-STM474_p242;Name=trbC;gbkey=Gene;gene=trbC;gene_biotype=protein_coding;locus_tag=STM474_p242
+CP002489.1	Genbank	CDS	37048	39339	.	-	0	ID=cds-ADX20529.1;Parent=gene-STM474_p242;Dbxref=NCBI_GP:ADX20529.1;Name=ADX20529.1;gbkey=CDS;gene=trbC;locus_tag=STM474_p242;product=TrbC protein;protein_id=ADX20529.1;transl_table=11
+CP002489.1	Genbank	gene	39332	40402	.	-	.	ID=gene-STM474_p243;Name=trbB;gbkey=Gene;gene=trbB;gene_biotype=protein_coding;locus_tag=STM474_p243
+CP002489.1	Genbank	CDS	39332	40402	.	-	0	ID=cds-ADX20530.1;Parent=gene-STM474_p243;Dbxref=NCBI_GP:ADX20530.1;Name=ADX20530.1;gbkey=CDS;gene=trbB;locus_tag=STM474_p243;product=protein-disulfide;protein_id=ADX20530.1;transl_table=11
+CP002489.1	Genbank	gene	40421	41629	.	-	.	ID=gene-STM474_p244;Name=trbA;gbkey=Gene;gene=trbA;gene_biotype=protein_coding;locus_tag=STM474_p244
+CP002489.1	Genbank	CDS	40421	41629	.	-	0	ID=cds-ADX20531.1;Parent=gene-STM474_p244;Dbxref=NCBI_GP:ADX20531.1;Name=ADX20531.1;gbkey=CDS;gene=trbA;locus_tag=STM474_p244;product=TrbA protein;protein_id=ADX20531.1;transl_table=11
+CP002489.1	Genbank	gene	41782	42066	.	+	.	ID=gene-STM474_p245;Name=pndC;gbkey=Gene;gene=pndC;gene_biotype=protein_coding;locus_tag=STM474_p245
+CP002489.1	Genbank	CDS	41782	42066	.	+	0	ID=cds-ADX20532.1;Parent=gene-STM474_p245;Dbxref=NCBI_GP:ADX20532.1;Name=ADX20532.1;gbkey=CDS;gene=pndC;locus_tag=STM474_p245;product=counter protein for PndA;protein_id=ADX20532.1;transl_table=11
+CP002489.1	Genbank	gene	41921	42073	.	+	.	ID=gene-STM474_p246;Name=pndA;gbkey=Gene;gene=pndA;gene_biotype=protein_coding;locus_tag=STM474_p246
+CP002489.1	Genbank	CDS	41921	42073	.	+	0	ID=cds-ADX20533.1;Parent=gene-STM474_p246;Dbxref=NCBI_GP:ADX20533.1;Name=ADX20533.1;gbkey=CDS;gene=pndA;locus_tag=STM474_p246;product=post-segregation killing protein;protein_id=ADX20533.1;transl_table=11
+CP002489.1	Genbank	gene	42145	42396	.	-	.	ID=gene-STM474_p247;Name=STM474_p247;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM474_p247
+CP002489.1	Genbank	CDS	42145	42396	.	-	0	ID=cds-ADX20534.1;Parent=gene-STM474_p247;Dbxref=NCBI_GP:ADX20534.1;Name=ADX20534.1;gbkey=CDS;locus_tag=STM474_p247;product=hypothetical protein;protein_id=ADX20534.1;transl_table=11
+CP002489.1	Genbank	gene	42696	42992	.	+	.	ID=gene-STM474_p248;Name=STM474_p248;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM474_p248
+CP002489.1	Genbank	CDS	42696	42992	.	+	0	ID=cds-ADX20535.1;Parent=gene-STM474_p248;Dbxref=NCBI_GP:ADX20535.1;Name=ADX20535.1;gbkey=CDS;locus_tag=STM474_p248;product=hypothetical protein;protein_id=ADX20535.1;transl_table=11
+CP002489.1	Genbank	gene	43625	43834	.	+	.	ID=gene-STM474_p249;Name=STM474_p249;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM474_p249
+CP002489.1	Genbank	CDS	43625	43834	.	+	0	ID=cds-ADX20536.1;Parent=gene-STM474_p249;Dbxref=NCBI_GP:ADX20536.1;Name=ADX20536.1;gbkey=CDS;locus_tag=STM474_p249;product=hypothetical protein;protein_id=ADX20536.1;transl_table=11
+CP002489.1	Genbank	gene	43906	44349	.	-	.	ID=gene-STM474_p250;Name=excA;gbkey=Gene;gene=excA;gene_biotype=protein_coding;locus_tag=STM474_p250
+CP002489.1	Genbank	CDS	43906	44349	.	-	0	ID=cds-ADX20537.1;Parent=gene-STM474_p250;Dbxref=NCBI_GP:ADX20537.1;Name=ADX20537.1;gbkey=CDS;gene=excA;locus_tag=STM474_p250;product=surface exclusion protein ExcA;protein_id=ADX20537.1;transl_table=11
+CP002489.1	Genbank	gene	46892	47476	.	-	.	ID=gene-STM474_p251;Name=traX;gbkey=Gene;gene=traX;gene_biotype=protein_coding;locus_tag=STM474_p251
+CP002489.1	Genbank	CDS	46892	47476	.	-	0	ID=cds-ADX20538.1;Parent=gene-STM474_p251;Dbxref=NCBI_GP:ADX20538.1;Name=ADX20538.1;gbkey=CDS;gene=traX;locus_tag=STM474_p251;product=TraX protein;protein_id=ADX20538.1;transl_table=11
+CP002489.1	Genbank	gene	47505	48707	.	-	.	ID=gene-STM474_p252;Name=traW;gbkey=Gene;gene=traW;gene_biotype=protein_coding;locus_tag=STM474_p252
+CP002489.1	Genbank	CDS	47505	48707	.	-	0	ID=cds-ADX20539.1;Parent=gene-STM474_p252;Dbxref=NCBI_GP:ADX20539.1;Name=ADX20539.1;gbkey=CDS;gene=traW;locus_tag=STM474_p252;product=TraW protein;protein_id=ADX20539.1;transl_table=11
+CP002489.1	Genbank	gene	48674	49288	.	-	.	ID=gene-STM474_p253;Name=traV;gbkey=Gene;gene=traV;gene_biotype=protein_coding;locus_tag=STM474_p253
+CP002489.1	Genbank	CDS	48674	49288	.	-	0	ID=cds-ADX20540.1;Parent=gene-STM474_p253;Dbxref=NCBI_GP:ADX20540.1;Name=ADX20540.1;gbkey=CDS;gene=traV;locus_tag=STM474_p253;product=TraV protein;protein_id=ADX20540.1;transl_table=11
+CP002489.1	Genbank	gene	49288	52332	.	-	.	ID=gene-STM474_p254;Name=traU;gbkey=Gene;gene=traU;gene_biotype=protein_coding;locus_tag=STM474_p254
+CP002489.1	Genbank	CDS	49288	52332	.	-	0	ID=cds-ADX20541.1;Parent=gene-STM474_p254;Dbxref=NCBI_GP:ADX20541.1;Name=ADX20541.1;gbkey=CDS;gene=traU;locus_tag=STM474_p254;product=TraU protein;protein_id=ADX20541.1;transl_table=11
+CP002489.1	Genbank	gene	52422	53222	.	-	.	ID=gene-STM474_p255;Name=traT;gbkey=Gene;gene=traT;gene_biotype=protein_coding;locus_tag=STM474_p255
+CP002489.1	Genbank	CDS	52422	53222	.	-	0	ID=cds-ADX20542.1;Parent=gene-STM474_p255;Dbxref=NCBI_GP:ADX20542.1;Name=ADX20542.1;gbkey=CDS;gene=traT;locus_tag=STM474_p255;product=TraT protein;protein_id=ADX20542.1;transl_table=11
+CP002489.1	Genbank	gene	53206	53394	.	-	.	ID=gene-STM474_p256;Name=traS;gbkey=Gene;gene=traS;gene_biotype=protein_coding;locus_tag=STM474_p256
+CP002489.1	Genbank	CDS	53206	53394	.	-	0	ID=cds-ADX20543.1;Parent=gene-STM474_p256;Dbxref=NCBI_GP:ADX20543.1;Name=ADX20543.1;gbkey=CDS;gene=traS;locus_tag=STM474_p256;product=TraS protein;protein_id=ADX20543.1;transl_table=11
+CP002489.1	Genbank	gene	53458	53862	.	-	.	ID=gene-STM474_p257;Name=traR;gbkey=Gene;gene=traR;gene_biotype=protein_coding;locus_tag=STM474_p257
+CP002489.1	Genbank	CDS	53458	53862	.	-	0	ID=cds-ADX20544.1;Parent=gene-STM474_p257;Dbxref=NCBI_GP:ADX20544.1;Name=ADX20544.1;gbkey=CDS;gene=traR;locus_tag=STM474_p257;product=TraR protein;protein_id=ADX20544.1;transl_table=11
+CP002489.1	Genbank	gene	53913	54440	.	-	.	ID=gene-STM474_p258;Name=traQ;gbkey=Gene;gene=traQ;gene_biotype=protein_coding;locus_tag=STM474_p258
+CP002489.1	Genbank	CDS	53913	54440	.	-	0	ID=cds-ADX20545.1;Parent=gene-STM474_p258;Dbxref=NCBI_GP:ADX20545.1;Name=ADX20545.1;gbkey=CDS;gene=traQ;locus_tag=STM474_p258;product=TraQ protein;protein_id=ADX20545.1;transl_table=11
+CP002489.1	Genbank	gene	54440	55144	.	-	.	ID=gene-STM474_p259;Name=traP;gbkey=Gene;gene=traP;gene_biotype=protein_coding;locus_tag=STM474_p259
+CP002489.1	Genbank	CDS	54440	55144	.	-	0	ID=cds-ADX20546.1;Parent=gene-STM474_p259;Dbxref=NCBI_GP:ADX20546.1;Name=ADX20546.1;gbkey=CDS;gene=traP;locus_tag=STM474_p259;product=TraPprotein;protein_id=ADX20546.1;transl_table=11
+CP002489.1	Genbank	gene	55144	56433	.	-	.	ID=gene-STM474_p260;Name=traO;gbkey=Gene;gene=traO;gene_biotype=protein_coding;locus_tag=STM474_p260
+CP002489.1	Genbank	CDS	55144	56433	.	-	0	ID=cds-ADX20547.1;Parent=gene-STM474_p260;Dbxref=NCBI_GP:ADX20547.1;Name=ADX20547.1;gbkey=CDS;gene=traO;locus_tag=STM474_p260;product=TraO protein;protein_id=ADX20547.1;transl_table=11
+CP002489.1	Genbank	gene	56436	57419	.	-	.	ID=gene-STM474_p261;Name=traN;gbkey=Gene;gene=traN;gene_biotype=protein_coding;locus_tag=STM474_p261
+CP002489.1	Genbank	CDS	56436	57419	.	-	0	ID=cds-ADX20548.1;Parent=gene-STM474_p261;Dbxref=NCBI_GP:ADX20548.1;Name=ADX20548.1;gbkey=CDS;gene=traN;locus_tag=STM474_p261;product=TraN protein;protein_id=ADX20548.1;transl_table=11
+CP002489.1	Genbank	gene	57430	58122	.	-	.	ID=gene-STM474_p262;Name=traM;gbkey=Gene;gene=traM;gene_biotype=protein_coding;locus_tag=STM474_p262
+CP002489.1	Genbank	CDS	57430	58122	.	-	0	ID=cds-ADX20549.1;Parent=gene-STM474_p262;Dbxref=NCBI_GP:ADX20549.1;Name=ADX20549.1;gbkey=CDS;gene=traM;locus_tag=STM474_p262;product=TraM protein;protein_id=ADX20549.1;transl_table=11
+CP002489.1	Genbank	gene	58119	58466	.	-	.	ID=gene-STM474_p263;Name=traL;gbkey=Gene;gene=traL;gene_biotype=protein_coding;locus_tag=STM474_p263
+CP002489.1	Genbank	CDS	58119	58466	.	-	0	ID=cds-ADX20550.1;Parent=gene-STM474_p263;Dbxref=NCBI_GP:ADX20550.1;Name=ADX20550.1;gbkey=CDS;gene=traL;locus_tag=STM474_p263;product=TraL protein;protein_id=ADX20550.1;transl_table=11
+CP002489.1	Genbank	gene	62341	62892	.	-	.	ID=gene-STM474_p264;Name=nuc;gbkey=Gene;gene=nuc;gene_biotype=protein_coding;locus_tag=STM474_p264
+CP002489.1	Genbank	CDS	62341	62892	.	-	0	ID=cds-ADX20551.1;Parent=gene-STM474_p264;Dbxref=NCBI_GP:ADX20551.1;Name=ADX20551.1;gbkey=CDS;gene=nuc;locus_tag=STM474_p264;product=EDTA-resistant nuclease;protein_id=ADX20551.1;transl_table=11
+CP002489.1	Genbank	gene	62907	63197	.	-	.	ID=gene-STM474_p265;Name=traK;gbkey=Gene;gene=traK;gene_biotype=protein_coding;locus_tag=STM474_p265
+CP002489.1	Genbank	CDS	62907	63197	.	-	0	ID=cds-ADX20552.1;Parent=gene-STM474_p265;Dbxref=NCBI_GP:ADX20552.1;Name=ADX20552.1;gbkey=CDS;gene=traK;locus_tag=STM474_p265;product=TraK protein;protein_id=ADX20552.1;transl_table=11
+CP002489.1	Genbank	gene	63194	64342	.	-	.	ID=gene-STM474_p266;Name=traJ;gbkey=Gene;gene=traJ;gene_biotype=protein_coding;locus_tag=STM474_p266
+CP002489.1	Genbank	CDS	63194	64342	.	-	0	ID=cds-ADX20553.1;Parent=gene-STM474_p266;Dbxref=NCBI_GP:ADX20553.1;Name=ADX20553.1;gbkey=CDS;gene=traJ;locus_tag=STM474_p266;product=plasmid transfer ATPase TraJ;protein_id=ADX20553.1;transl_table=11
+CP002489.1	Genbank	gene	64339	65157	.	-	.	ID=gene-STM474_p267;Name=traI;gbkey=Gene;gene=traI;gene_biotype=protein_coding;locus_tag=STM474_p267
+CP002489.1	Genbank	CDS	64339	65157	.	-	0	ID=cds-ADX20554.1;Parent=gene-STM474_p267;Dbxref=NCBI_GP:ADX20554.1;Name=ADX20554.1;gbkey=CDS;gene=traI;locus_tag=STM474_p267;product=TraI protein;protein_id=ADX20554.1;transl_table=11
+CP002489.1	Genbank	gene	65154	65612	.	-	.	ID=gene-STM474_p268;Name=traH;gbkey=Gene;gene=traH;gene_biotype=protein_coding;locus_tag=STM474_p268
+CP002489.1	Genbank	CDS	65154	65612	.	-	0	ID=cds-ADX20555.1;Parent=gene-STM474_p268;Dbxref=NCBI_GP:ADX20555.1;Name=ADX20555.1;gbkey=CDS;gene=traH;locus_tag=STM474_p268;product=TraH protein;protein_id=ADX20555.1;transl_table=11
+CP002489.1	Genbank	gene	66007	66591	.	-	.	ID=gene-STM474_p269;Name=traG;gbkey=Gene;gene=traG;gene_biotype=protein_coding;locus_tag=STM474_p269
+CP002489.1	Genbank	CDS	66007	66591	.	-	0	ID=cds-ADX20556.1;Parent=gene-STM474_p269;Dbxref=NCBI_GP:ADX20556.1;Name=ADX20556.1;gbkey=CDS;gene=traG;locus_tag=STM474_p269;product=TraG protein;protein_id=ADX20556.1;transl_table=11
+CP002489.1	Genbank	gene	66651	67853	.	-	.	ID=gene-STM474_p270;Name=traF;gbkey=Gene;gene=traF;gene_biotype=protein_coding;locus_tag=STM474_p270
+CP002489.1	Genbank	CDS	66651	67853	.	-	0	ID=cds-ADX20557.1;Parent=gene-STM474_p270;Dbxref=NCBI_GP:ADX20557.1;Name=ADX20557.1;gbkey=CDS;gene=traF;locus_tag=STM474_p270;product=TraF protein;protein_id=ADX20557.1;transl_table=11
+CP002489.1	Genbank	gene	67938	68762	.	-	.	ID=gene-STM474_p271;Name=traE;gbkey=Gene;gene=traE;gene_biotype=protein_coding;locus_tag=STM474_p271
+CP002489.1	Genbank	CDS	67938	68762	.	-	0	ID=cds-ADX20558.1;Parent=gene-STM474_p271;Dbxref=NCBI_GP:ADX20558.1;Name=ADX20558.1;gbkey=CDS;gene=traE;locus_tag=STM474_p271;product=TraE protein;protein_id=ADX20558.1;transl_table=11
+CP002489.1	Genbank	gene	68913	70067	.	-	.	ID=gene-STM474_p272;Name=rci;gbkey=Gene;gene=rci;gene_biotype=protein_coding;locus_tag=STM474_p272
+CP002489.1	Genbank	CDS	68913	70067	.	-	0	ID=cds-ADX20559.1;Parent=gene-STM474_p272;Dbxref=NCBI_GP:ADX20559.1;Name=ADX20559.1;gbkey=CDS;gene=rci;locus_tag=STM474_p272;product=shufflon-specific DNA reconbinase;protein_id=ADX20559.1;transl_table=11
+CP002489.1	Genbank	gene	72295	72951	.	-	.	ID=gene-STM474_p273;Name=pilU;gbkey=Gene;gene=pilU;gene_biotype=protein_coding;locus_tag=STM474_p273
+CP002489.1	Genbank	CDS	72295	72951	.	-	0	ID=cds-ADX20560.1;Parent=gene-STM474_p273;Dbxref=NCBI_GP:ADX20560.1;Name=ADX20560.1;gbkey=CDS;gene=pilU;locus_tag=STM474_p273;product=prepilin peptidase;protein_id=ADX20560.1;transl_table=11
+CP002489.1	Genbank	gene	72936	73496	.	-	.	ID=gene-STM474_p274;Name=pilT;gbkey=Gene;gene=pilT;gene_biotype=protein_coding;locus_tag=STM474_p274
+CP002489.1	Genbank	CDS	72936	73496	.	-	0	ID=cds-ADX20561.1;Parent=gene-STM474_p274;Dbxref=NCBI_GP:ADX20561.1;Name=ADX20561.1;gbkey=CDS;gene=pilT;locus_tag=STM474_p274;product=PilT;protein_id=ADX20561.1;transl_table=11
+CP002489.1	Genbank	gene	73506	74120	.	-	.	ID=gene-STM474_p275;Name=pilS;gbkey=Gene;gene=pilS;gene_biotype=protein_coding;locus_tag=STM474_p275
+CP002489.1	Genbank	CDS	73506	74120	.	-	0	ID=cds-ADX20562.1;Parent=gene-STM474_p275;Dbxref=NCBI_GP:ADX20562.1;Name=ADX20562.1;gbkey=CDS;gene=pilS;locus_tag=STM474_p275;product=typeIV prepilin;protein_id=ADX20562.1;transl_table=11
+CP002489.1	Genbank	gene	74138	75235	.	-	.	ID=gene-STM474_p276;Name=pilR;gbkey=Gene;gene=pilR;gene_biotype=protein_coding;locus_tag=STM474_p276
+CP002489.1	Genbank	CDS	74138	75235	.	-	0	ID=cds-ADX20563.1;Parent=gene-STM474_p276;Dbxref=NCBI_GP:ADX20563.1;Name=ADX20563.1;gbkey=CDS;gene=pilR;locus_tag=STM474_p276;product=integral membrane protein;protein_id=ADX20563.1;transl_table=11
+CP002489.1	Genbank	gene	75248	76801	.	-	.	ID=gene-STM474_p277;Name=pilQ;gbkey=Gene;gene=pilQ;gene_biotype=protein_coding;locus_tag=STM474_p277
+CP002489.1	Genbank	CDS	75248	76801	.	-	0	ID=cds-ADX20564.1;Parent=gene-STM474_p277;Dbxref=NCBI_GP:ADX20564.1;Name=ADX20564.1;gbkey=CDS;gene=pilQ;locus_tag=STM474_p277;product=ATP-binding protein;protein_id=ADX20564.1;transl_table=11
+CP002489.1	Genbank	gene	76812	77264	.	-	.	ID=gene-STM474_p278;Name=pilP;gbkey=Gene;gene=pilP;gene_biotype=protein_coding;locus_tag=STM474_p278
+CP002489.1	Genbank	CDS	76812	77264	.	-	0	ID=cds-ADX20565.1;Parent=gene-STM474_p278;Dbxref=NCBI_GP:ADX20565.1;Name=ADX20565.1;gbkey=CDS;gene=pilP;locus_tag=STM474_p278;product=type IV pilus biogenesis protein PilP;protein_id=ADX20565.1;transl_table=11
+CP002489.1	Genbank	gene	77251	78546	.	-	.	ID=gene-STM474_p279;Name=pilO;gbkey=Gene;gene=pilO;gene_biotype=protein_coding;locus_tag=STM474_p279
+CP002489.1	Genbank	CDS	77251	78546	.	-	0	ID=cds-ADX20566.1;Parent=gene-STM474_p279;Dbxref=NCBI_GP:ADX20566.1;Name=ADX20566.1;gbkey=CDS;gene=pilO;locus_tag=STM474_p279;product=PilO protein;protein_id=ADX20566.1;transl_table=11
+CP002489.1	Genbank	gene	78539	80221	.	-	.	ID=gene-STM474_p280;Name=pilN;gbkey=Gene;gene=pilN;gene_biotype=protein_coding;locus_tag=STM474_p280
+CP002489.1	Genbank	CDS	78539	80221	.	-	0	ID=cds-ADX20567.1;Parent=gene-STM474_p280;Dbxref=NCBI_GP:ADX20567.1;Name=ADX20567.1;gbkey=CDS;gene=pilN;locus_tag=STM474_p280;product=lipoprotein;protein_id=ADX20567.1;transl_table=11
+CP002489.1	Genbank	gene	80235	80672	.	-	.	ID=gene-STM474_p281;Name=pilM;gbkey=Gene;gene=pilM;gene_biotype=protein_coding;locus_tag=STM474_p281
+CP002489.1	Genbank	CDS	80235	80672	.	-	0	ID=cds-ADX20568.1;Parent=gene-STM474_p281;Dbxref=NCBI_GP:ADX20568.1;Name=ADX20568.1;gbkey=CDS;gene=pilM;locus_tag=STM474_p281;product=PilM protein;protein_id=ADX20568.1;transl_table=11
+CP002489.1	Genbank	gene	80672	81739	.	-	.	ID=gene-STM474_p282;Name=pilL;gbkey=Gene;gene=pilL;gene_biotype=protein_coding;locus_tag=STM474_p282
+CP002489.1	Genbank	CDS	80672	81739	.	-	0	ID=cds-ADX20569.1;Parent=gene-STM474_p282;Dbxref=NCBI_GP:ADX20569.1;Name=ADX20569.1;gbkey=CDS;gene=pilL;locus_tag=STM474_p282;product=PilL protein;protein_id=ADX20569.1;transl_table=11
+CP002489.1	Genbank	gene	81773	82363	.	-	.	ID=gene-STM474_p283;Name=pilK;gbkey=Gene;gene=pilK;gene_biotype=protein_coding;locus_tag=STM474_p283
+CP002489.1	Genbank	CDS	81773	82363	.	-	0	ID=cds-ADX20570.1;Parent=gene-STM474_p283;Dbxref=NCBI_GP:ADX20570.1;Name=ADX20570.1;gbkey=CDS;gene=pilK;locus_tag=STM474_p283;product=PilK protein;protein_id=ADX20570.1;transl_table=11
+CP002489.1	Genbank	gene	82413	82865	.	-	.	ID=gene-STM474_p284;Name=pilJ;gbkey=Gene;gene=pilJ;gene_biotype=protein_coding;locus_tag=STM474_p284
+CP002489.1	Genbank	CDS	82413	82865	.	-	0	ID=cds-ADX20571.1;Parent=gene-STM474_p284;Dbxref=NCBI_GP:ADX20571.1;Name=ADX20571.1;gbkey=CDS;gene=pilJ;locus_tag=STM474_p284;product=PilJ protein;protein_id=ADX20571.1;transl_table=11
+CP002489.1	Genbank	gene	82908	83162	.	-	.	ID=gene-STM474_p285;Name=pilI;gbkey=Gene;gene=pilI;gene_biotype=protein_coding;locus_tag=STM474_p285
+CP002489.1	Genbank	CDS	82908	83162	.	-	0	ID=cds-ADX20572.1;Parent=gene-STM474_p285;Dbxref=NCBI_GP:ADX20572.1;Name=ADX20572.1;gbkey=CDS;gene=pilI;locus_tag=STM474_p285;product=PilI protein;protein_id=ADX20572.1;transl_table=11
+CP002489.1	Genbank	gene	83430	83996	.	-	.	ID=gene-STM474_p286;Name=traD;gbkey=Gene;gene=traD;gene_biotype=protein_coding;locus_tag=STM474_p286
+CP002489.1	Genbank	CDS	83430	83996	.	-	0	ID=cds-ADX20573.1;Parent=gene-STM474_p286;Dbxref=NCBI_GP:ADX20573.1;Name=ADX20573.1;gbkey=CDS;gene=traD;locus_tag=STM474_p286;product=TraD protein;protein_id=ADX20573.1;transl_table=11
+CP002489.1	Genbank	gene	84010	84693	.	-	.	ID=gene-STM474_p287;Name=traC;gbkey=Gene;gene=traC;gene_biotype=protein_coding;locus_tag=STM474_p287
+CP002489.1	Genbank	CDS	84010	84693	.	-	0	ID=cds-ADX20574.1;Parent=gene-STM474_p287;Dbxref=NCBI_GP:ADX20574.1;Name=ADX20574.1;gbkey=CDS;gene=traC;locus_tag=STM474_p287;product=TraC protein;protein_id=ADX20574.1;transl_table=11
+CP002489.1	Genbank	gene	84947	85480	.	-	.	ID=gene-STM474_p288;Name=traB;gbkey=Gene;gene=traB;gene_biotype=protein_coding;locus_tag=STM474_p288
+CP002489.1	Genbank	CDS	84947	85480	.	-	0	ID=cds-ADX20575.1;Parent=gene-STM474_p288;Dbxref=NCBI_GP:ADX20575.1;Name=ADX20575.1;gbkey=CDS;gene=traB;locus_tag=STM474_p288;product=TraB protein;protein_id=ADX20575.1;transl_table=11
+CP002489.1	Genbank	gene	85922	86209	.	-	.	ID=gene-STM474_p289;Name=traA;gbkey=Gene;gene=traA;gene_biotype=protein_coding;locus_tag=STM474_p289
+CP002489.1	Genbank	CDS	85922	86209	.	-	0	ID=cds-ADX20576.1;Parent=gene-STM474_p289;Dbxref=NCBI_GP:ADX20576.1;Name=ADX20576.1;gbkey=CDS;gene=traA;locus_tag=STM474_p289;product=TraA protein;protein_id=ADX20576.1;transl_table=11
+CP002489.1	Genbank	gene	86127	86390	.	-	.	ID=gene-STM474_p290;Name=STM474_p290;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STM474_p290
+CP002489.1	Genbank	CDS	86127	86390	.	-	0	ID=cds-ADX20577.1;Parent=gene-STM474_p290;Dbxref=NCBI_GP:ADX20577.1;Name=ADX20577.1;gbkey=CDS;locus_tag=STM474_p290;product=hypothetical protein;protein_id=ADX20577.1;transl_table=11
+

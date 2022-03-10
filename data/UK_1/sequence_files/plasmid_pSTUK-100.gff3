@@ -1,0 +1,205 @@
+##sequence-region CP002615.1 1 93277
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=990282
+CP002615.1	Genbank	region	1	93277	.	+	.	ID=CP002615.1:1..93277;Dbxref=taxon:990282;Is_circular=true;Name=pSTUK-100;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=pSTUK-100;serovar=Typhimurium;strain=UK-1;sub-species=enterica
+CP002615.1	Genbank	gene	484	780	.	-	.	ID=gene-STMUK_p001;Name=STMUK_p001;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p001
+CP002615.1	Genbank	CDS	484	780	.	-	0	ID=cds-AEF10466.1;Parent=gene-STMUK_p001;Dbxref=NCBI_GP:AEF10466.1;Name=AEF10466.1;gbkey=CDS;locus_tag=STMUK_p001;product=putative cytoplasmic protein;protein_id=AEF10466.1;transl_table=11
+CP002615.1	Genbank	gene	1264	1785	.	-	.	ID=gene-STMUK_p002;Name=STMUK_p002;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p002
+CP002615.1	Genbank	CDS	1264	1785	.	-	0	ID=cds-AEF10467.1;Parent=gene-STMUK_p002;Dbxref=NCBI_GP:AEF10467.1;Name=AEF10467.1;gbkey=CDS;locus_tag=STMUK_p002;product=putative periplasmic protein;protein_id=AEF10467.1;transl_table=11
+CP002615.1	Genbank	gene	2461	2679	.	+	.	ID=gene-STMUK_p003;Name=ccdA;gbkey=Gene;gene=ccdA;gene_biotype=protein_coding;locus_tag=STMUK_p003
+CP002615.1	Genbank	CDS	2461	2679	.	+	0	ID=cds-AEF10479.1;Parent=gene-STMUK_p003;Dbxref=NCBI_GP:AEF10479.1;Name=AEF10479.1;gbkey=CDS;gene=ccdA;locus_tag=STMUK_p003;product=toxin addiction system: antidote;protein_id=AEF10479.1;transl_table=11
+CP002615.1	Genbank	gene	2681	2986	.	+	.	ID=gene-STMUK_p004;Name=ccdB;gbkey=Gene;gene=ccdB;gene_biotype=protein_coding;locus_tag=STMUK_p004
+CP002615.1	Genbank	CDS	2681	2986	.	+	0	ID=cds-AEF10469.1;Parent=gene-STMUK_p004;Dbxref=NCBI_GP:AEF10469.1;Name=AEF10469.1;gbkey=CDS;gene=ccdB;locus_tag=STMUK_p004;product=toxin addiction system: toxin;protein_id=AEF10469.1;transl_table=11
+CP002615.1	Genbank	gene	2988	3278	.	+	.	ID=gene-STMUK_p005;Name=STMUK_p005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p005
+CP002615.1	Genbank	CDS	2988	3278	.	+	0	ID=cds-AEF10465.1;Parent=gene-STMUK_p005;Dbxref=NCBI_GP:AEF10465.1;Name=AEF10465.1;gbkey=CDS;locus_tag=STMUK_p005;product=putative cytoplasmic protein;protein_id=AEF10465.1;transl_table=11
+CP002615.1	Genbank	gene	3275	3796	.	+	.	ID=gene-STMUK_p006;Name=STMUK_p006;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p006
+CP002615.1	Genbank	CDS	3275	3796	.	+	0	ID=cds-AEF10457.1;Parent=gene-STMUK_p006;Dbxref=NCBI_GP:AEF10457.1;Name=AEF10457.1;gbkey=CDS;locus_tag=STMUK_p006;product=putative cytoplasmic protein;protein_id=AEF10457.1;transl_table=11
+CP002615.1	Genbank	gene	3831	4613	.	+	.	ID=gene-STMUK_p007;Name=rsdB;gbkey=Gene;gene=rsdB;gene_biotype=protein_coding;locus_tag=STMUK_p007
+CP002615.1	Genbank	CDS	3831	4613	.	+	0	ID=cds-AEF10435.1;Parent=gene-STMUK_p007;Dbxref=NCBI_GP:AEF10435.1;Name=AEF10435.1;gbkey=CDS;gene=rsdB;locus_tag=STMUK_p007;product=resolvase;protein_id=AEF10435.1;transl_table=11
+CP002615.1	Genbank	gene	4622	5173	.	+	.	ID=gene-STMUK_p008;Name=STMUK_p008;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p008
+CP002615.1	Genbank	CDS	4622	5173	.	+	0	ID=cds-AEF10458.1;Parent=gene-STMUK_p008;Dbxref=NCBI_GP:AEF10458.1;Name=AEF10458.1;gbkey=CDS;locus_tag=STMUK_p008;product=putative diguanylate cyclase/phosphodiesterase;protein_id=AEF10458.1;transl_table=11
+CP002615.1	Genbank	gene	5842	6327	.	+	.	ID=gene-STMUK_p009;Name=STMUK_p009;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p009
+CP002615.1	Genbank	CDS	5842	6327	.	+	0	ID=cds-AEF10459.1;Parent=gene-STMUK_p009;Dbxref=NCBI_GP:AEF10459.1;Name=AEF10459.1;gbkey=CDS;locus_tag=STMUK_p009;product=putative inner membrane protein;protein_id=AEF10459.1;transl_table=11
+CP002615.1	Genbank	gene	7096	7446	.	-	.	ID=gene-STMUK_p010;Name=spvD;gbkey=Gene;gene=spvD;gene_biotype=protein_coding;locus_tag=STMUK_p010
+CP002615.1	Genbank	CDS	7096	7446	.	-	0	ID=cds-AEF10484.1;Parent=gene-STMUK_p010;Dbxref=NCBI_GP:AEF10484.1;Name=AEF10484.1;gbkey=CDS;gene=spvD;locus_tag=STMUK_p010;product=Salmonella plasmid virulence: hydrophilic protein;protein_id=AEF10484.1;transl_table=11
+CP002615.1	Genbank	gene	7664	7927	.	+	.	ID=gene-STMUK_p011;Name=STMUK_p011;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p011
+CP002615.1	Genbank	CDS	7664	7927	.	+	0	ID=cds-AEF10460.1;Parent=gene-STMUK_p011;Dbxref=NCBI_GP:AEF10460.1;Name=AEF10460.1;gbkey=CDS;locus_tag=STMUK_p011;product=putative transposase%2C IS200-like protein;protein_id=AEF10460.1;transl_table=11
+CP002615.1	Genbank	gene	8054	8704	.	-	.	ID=gene-STMUK_p012;Name=spvD;gbkey=Gene;gene=spvD;gene_biotype=protein_coding;locus_tag=STMUK_p012
+CP002615.1	Genbank	CDS	8054	8704	.	-	0	ID=cds-AEF10428.1;Parent=gene-STMUK_p012;Dbxref=NCBI_GP:AEF10428.1;Name=AEF10428.1;gbkey=CDS;gene=spvD;locus_tag=STMUK_p012;product=Salmonella plasmid virulence: hydrophilic protein;protein_id=AEF10428.1;transl_table=11
+CP002615.1	Genbank	gene	8965	9690	.	-	.	ID=gene-STMUK_p013;Name=spvC;gbkey=Gene;gene=spvC;gene_biotype=protein_coding;locus_tag=STMUK_p013
+CP002615.1	Genbank	CDS	8965	9690	.	-	0	ID=cds-AEF10430.1;Parent=gene-STMUK_p013;Dbxref=NCBI_GP:AEF10430.1;Name=AEF10430.1;gbkey=CDS;gene=spvC;locus_tag=STMUK_p013;product=Salmonella plasmid virulence: hydrophilic protein;protein_id=AEF10430.1;transl_table=11
+CP002615.1	Genbank	gene	9971	11740	.	-	.	ID=gene-STMUK_p014;Name=spvB;gbkey=Gene;gene=spvB;gene_biotype=protein_coding;locus_tag=STMUK_p014
+CP002615.1	Genbank	CDS	9971	11740	.	-	0	ID=cds-AEF10481.1;Parent=gene-STMUK_p014;Dbxref=NCBI_GP:AEF10481.1;Name=AEF10481.1;gbkey=CDS;gene=spvB;locus_tag=STMUK_p014;product=Salmonella plasmid virulence: hydrophilic protein;protein_id=AEF10481.1;transl_table=11
+CP002615.1	Genbank	gene	11922	12689	.	-	.	ID=gene-STMUK_p015;Name=spvA;gbkey=Gene;gene=spvA;gene_biotype=protein_coding;locus_tag=STMUK_p015
+CP002615.1	Genbank	CDS	11922	12689	.	-	0	ID=cds-AEF10429.1;Parent=gene-STMUK_p015;Dbxref=NCBI_GP:AEF10429.1;Name=AEF10429.1;gbkey=CDS;gene=spvA;locus_tag=STMUK_p015;product=Salmonella plasmid virulence: outer membrane protein;protein_id=AEF10429.1;transl_table=11
+CP002615.1	Genbank	gene	13201	14094	.	-	.	ID=gene-STMUK_p016;Name=spvR;gbkey=Gene;gene=spvR;gene_biotype=protein_coding;locus_tag=STMUK_p016
+CP002615.1	Genbank	CDS	13201	14094	.	-	0	ID=cds-AEF10391.1;Parent=gene-STMUK_p016;Dbxref=NCBI_GP:AEF10391.1;Name=AEF10391.1;gbkey=CDS;gene=spvR;locus_tag=STMUK_p016;product=Salmonella plasmid virulence: regulation of spv operon%2C lysR family;protein_id=AEF10391.1;transl_table=11
+CP002615.1	Genbank	gene	14702	15739	.	+	.	ID=gene-STMUK_p017;Name=STMUK_p017;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p017
+CP002615.1	Genbank	CDS	14702	15739	.	+	0	ID=cds-AEF10461.1;Parent=gene-STMUK_p017;Dbxref=NCBI_GP:AEF10461.1;Name=AEF10461.1;gbkey=CDS;locus_tag=STMUK_p017;product=putative integrase protein;protein_id=AEF10461.1;transl_table=11
+CP002615.1	Genbank	gene	15928	16953	.	-	.	ID=gene-STMUK_p018;Name=STMUK_p018;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p018
+CP002615.1	Genbank	CDS	15928	16953	.	-	0	ID=cds-AEF10463.1;Parent=gene-STMUK_p018;Dbxref=NCBI_GP:AEF10463.1;Name=AEF10463.1;gbkey=CDS;locus_tag=STMUK_p018;product=putative phosphoribulokinase / uridine kinase family;protein_id=AEF10463.1;transl_table=11
+CP002615.1	Genbank	gene	16886	18550	.	-	.	ID=gene-STMUK_p019;Name=rlgA;gbkey=Gene;gene=rlgA;gene_biotype=protein_coding;locus_tag=STMUK_p019
+CP002615.1	Genbank	CDS	16886	18550	.	-	0	ID=cds-AEF10438.1;Parent=gene-STMUK_p019;Dbxref=NCBI_GP:AEF10438.1;Name=AEF10438.1;gbkey=CDS;gene=rlgA;locus_tag=STMUK_p019;product=putative resolvase;protein_id=AEF10438.1;transl_table=11
+CP002615.1	Genbank	gene	18534	19094	.	-	.	ID=gene-STMUK_p020;Name=rlgA;gbkey=Gene;gene=rlgA;gene_biotype=protein_coding;locus_tag=STMUK_p020
+CP002615.1	Genbank	CDS	18534	19094	.	-	0	ID=cds-AEF10485.1;Parent=gene-STMUK_p020;Dbxref=NCBI_GP:AEF10485.1;Name=AEF10485.1;gbkey=CDS;gene=rlgA;locus_tag=STMUK_p020;product=putative resolvase;protein_id=AEF10485.1;transl_table=11
+CP002615.1	Genbank	gene	19301	20041	.	-	.	ID=gene-STMUK_p021;Name=STMUK_p021;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p021
+CP002615.1	Genbank	CDS	19301	20041	.	-	0	ID=cds-AEF10464.1;Parent=gene-STMUK_p021;Dbxref=NCBI_GP:AEF10464.1;Name=AEF10464.1;gbkey=CDS;locus_tag=STMUK_p021;product=putative carbonic anhydrase;protein_id=AEF10464.1;transl_table=11
+CP002615.1	Genbank	gene	20696	21184	.	-	.	ID=gene-STMUK_p022;Name=STMUK_p022;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p022
+CP002615.1	Genbank	CDS	20696	21184	.	-	0	ID=cds-AEF10456.1;Parent=gene-STMUK_p022;Dbxref=NCBI_GP:AEF10456.1;Name=AEF10456.1;gbkey=CDS;locus_tag=STMUK_p022;product=putative cytoplasmic protein;protein_id=AEF10456.1;transl_table=11
+CP002615.1	Genbank	gene	21443	22558	.	+	.	ID=gene-STMUK_p023;Name=tlpA;gbkey=Gene;gene=tlpA;gene_biotype=protein_coding;locus_tag=STMUK_p023
+CP002615.1	Genbank	CDS	21443	22558	.	+	0	ID=cds-AEF10422.1;Parent=gene-STMUK_p023;Dbxref=NCBI_GP:AEF10422.1;Name=AEF10422.1;gbkey=CDS;gene=tlpA;locus_tag=STMUK_p023;product=alpha-helical coiled coil protein;protein_id=AEF10422.1;transl_table=11
+CP002615.1	Genbank	gene	22644	23060	.	+	.	ID=gene-STMUK_p024;Name=STMUK_p024;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p024
+CP002615.1	Genbank	CDS	22644	23060	.	+	0	ID=cds-AEF10486.1;Parent=gene-STMUK_p024;Dbxref=NCBI_GP:AEF10486.1;Name=AEF10486.1;gbkey=CDS;locus_tag=STMUK_p024;product=putative DNA polymerase III epsilon subunit (3'-5' exonuclease);protein_id=AEF10486.1;transl_table=11
+CP002615.1	Genbank	gene	22754	23080	.	-	.	ID=gene-STMUK_p025;Name=STMUK_p025;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p025
+CP002615.1	Genbank	CDS	22754	23080	.	-	0	ID=cds-AEF10488.1;Parent=gene-STMUK_p025;Dbxref=NCBI_GP:AEF10488.1;Name=AEF10488.1;gbkey=CDS;locus_tag=STMUK_p025;product=putative cytoplasmic protein;protein_id=AEF10488.1;transl_table=11
+CP002615.1	Genbank	gene	24234	25175	.	-	.	ID=gene-STMUK_p026;Name=umuC;gbkey=Gene;gene=umuC;gene_biotype=protein_coding;locus_tag=STMUK_p026
+CP002615.1	Genbank	CDS	24234	25175	.	-	0	ID=cds-AEF10434.1;Parent=gene-STMUK_p026;Dbxref=NCBI_GP:AEF10434.1;Name=AEF10434.1;gbkey=CDS;gene=umuC;locus_tag=STMUK_p026;product=DNA polymerase V subunit UmuC;protein_id=AEF10434.1;transl_table=11
+CP002615.1	Genbank	gene	25590	26795	.	+	.	ID=gene-STMUK_p027;Name=parA;gbkey=Gene;gene=parA;gene_biotype=protein_coding;locus_tag=STMUK_p027
+CP002615.1	Genbank	CDS	25590	26795	.	+	0	ID=cds-AEF10413.1;Parent=gene-STMUK_p027;Dbxref=NCBI_GP:AEF10413.1;Name=AEF10413.1;gbkey=CDS;gene=parA;locus_tag=STMUK_p027;product=plasmid partition protein A;protein_id=AEF10413.1;transl_table=11
+CP002615.1	Genbank	gene	26792	27769	.	+	.	ID=gene-STMUK_p028;Name=parB;gbkey=Gene;gene=parB;gene_biotype=protein_coding;locus_tag=STMUK_p028
+CP002615.1	Genbank	CDS	26792	27769	.	+	0	ID=cds-AEF10402.1;Parent=gene-STMUK_p028;Dbxref=NCBI_GP:AEF10402.1;Name=AEF10402.1;gbkey=CDS;gene=parB;locus_tag=STMUK_p028;product=plasmid partition protein B;protein_id=AEF10402.1;transl_table=11
+CP002615.1	Genbank	gene	27851	29125	.	-	.	ID=gene-STMUK_p029;Name=umuC;gbkey=Gene;gene=umuC;gene_biotype=protein_coding;locus_tag=STMUK_p029
+CP002615.1	Genbank	CDS	27851	29125	.	-	0	ID=cds-AEF10432.1;Parent=gene-STMUK_p029;Dbxref=NCBI_GP:AEF10432.1;Name=AEF10432.1;gbkey=CDS;gene=umuC;locus_tag=STMUK_p029;product=DNA polymerase V subunit UmuC;protein_id=AEF10432.1;transl_table=11
+CP002615.1	Genbank	gene	29125	29547	.	-	.	ID=gene-STMUK_p030;Name=samA;gbkey=Gene;gene=samA;gene_biotype=protein_coding;locus_tag=STMUK_p030
+CP002615.1	Genbank	CDS	29125	29547	.	-	0	ID=cds-AEF10433.1;Parent=gene-STMUK_p030;Dbxref=NCBI_GP:AEF10433.1;Name=AEF10433.1;Note=related to umuDC operon;gbkey=CDS;gene=samA;locus_tag=STMUK_p030;product=mutagenesis by UV and mutagens;protein_id=AEF10433.1;transl_table=11
+CP002615.1	Genbank	gene	30058	30528	.	+	.	ID=gene-STMUK_p031;Name=STMUK_p031;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p031
+CP002615.1	Genbank	CDS	30058	30528	.	+	0	ID=cds-AEF10455.1;Parent=gene-STMUK_p031;Dbxref=NCBI_GP:AEF10455.1;Name=AEF10455.1;gbkey=CDS;locus_tag=STMUK_p031;product=putative cytoplasmic protein;protein_id=AEF10455.1;transl_table=11
+CP002615.1	Genbank	gene	30521	30877	.	+	.	ID=gene-STMUK_p032;Name=STMUK_p032;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p032
+CP002615.1	Genbank	CDS	30521	30877	.	+	0	ID=cds-AEF10450.1;Parent=gene-STMUK_p032;Dbxref=NCBI_GP:AEF10450.1;Name=AEF10450.1;gbkey=CDS;locus_tag=STMUK_p032;product=putative cytoplasmic protein;protein_id=AEF10450.1;transl_table=11
+CP002615.1	Genbank	gene	31259	31939	.	+	.	ID=gene-STMUK_p033;Name=STMUK_p033;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p033
+CP002615.1	Genbank	CDS	31259	31939	.	+	0	ID=cds-AEF10451.1;Parent=gene-STMUK_p033;Dbxref=NCBI_GP:AEF10451.1;Name=AEF10451.1;gbkey=CDS;locus_tag=STMUK_p033;product=putative adenine-specific DNA methylase;protein_id=AEF10451.1;transl_table=11
+CP002615.1	Genbank	gene	31939	32160	.	+	.	ID=gene-STMUK_p034;Name=STMUK_p034;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p034
+CP002615.1	Genbank	CDS	31939	32160	.	+	0	ID=cds-AEF10452.1;Parent=gene-STMUK_p034;Dbxref=NCBI_GP:AEF10452.1;Name=AEF10452.1;gbkey=CDS;locus_tag=STMUK_p034;product=putative cytoplasmic protein;protein_id=AEF10452.1;transl_table=11
+CP002615.1	Genbank	gene	32701	33465	.	+	.	ID=gene-STMUK_p035;Name=STMUK_p035;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p035
+CP002615.1	Genbank	CDS	32701	33465	.	+	0	ID=cds-AEF10453.1;Parent=gene-STMUK_p035;Dbxref=NCBI_GP:AEF10453.1;Name=AEF10453.1;gbkey=CDS;locus_tag=STMUK_p035;product=putative inner membrane protein;protein_id=AEF10453.1;transl_table=11
+CP002615.1	Genbank	gene	33961	34395	.	+	.	ID=gene-STMUK_p036;Name=STMUK_p036;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p036
+CP002615.1	Genbank	CDS	33961	34395	.	+	0	ID=cds-AEF10448.1;Parent=gene-STMUK_p036;Dbxref=NCBI_GP:AEF10448.1;Name=AEF10448.1;gbkey=CDS;locus_tag=STMUK_p036;product=putative cytoplasmic protein;protein_id=AEF10448.1;transl_table=11
+CP002615.1	Genbank	gene	34462	34896	.	+	.	ID=gene-STMUK_p037;Name=STMUK_p037;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p037
+CP002615.1	Genbank	CDS	34462	34896	.	+	0	ID=cds-AEF10449.1;Parent=gene-STMUK_p037;Dbxref=NCBI_GP:AEF10449.1;Name=AEF10449.1;gbkey=CDS;locus_tag=STMUK_p037;product=putative cytoplasmic protein;protein_id=AEF10449.1;transl_table=11
+CP002615.1	Genbank	gene	35132	35455	.	+	.	ID=gene-STMUK_p038;Name=STMUK_p038;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p038
+CP002615.1	Genbank	CDS	35132	35455	.	+	0	ID=cds-AEF10447.1;Parent=gene-STMUK_p038;Dbxref=NCBI_GP:AEF10447.1;Name=AEF10447.1;gbkey=CDS;locus_tag=STMUK_p038;product=putative inner membrane protein;protein_id=AEF10447.1;transl_table=11
+CP002615.1	Genbank	gene	36186	36704	.	+	.	ID=gene-STMUK_p039;Name=ssbB;gbkey=Gene;gene=ssbB;gene_biotype=protein_coding;locus_tag=STMUK_p039
+CP002615.1	Genbank	CDS	36186	36704	.	+	0	ID=cds-AEF10423.1;Parent=gene-STMUK_p039;Dbxref=NCBI_GP:AEF10423.1;Name=AEF10423.1;gbkey=CDS;gene=ssbB;locus_tag=STMUK_p039;product=single-strand binding protein;protein_id=AEF10423.1;transl_table=11
+CP002615.1	Genbank	gene	36759	37001	.	+	.	ID=gene-STMUK_p040;Name=STMUK_p040;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p040
+CP002615.1	Genbank	CDS	36759	37001	.	+	0	ID=cds-AEF10444.1;Parent=gene-STMUK_p040;Dbxref=NCBI_GP:AEF10444.1;Name=AEF10444.1;gbkey=CDS;locus_tag=STMUK_p040;product=putative cytoplasmic protein;protein_id=AEF10444.1;transl_table=11
+CP002615.1	Genbank	gene	37070	39067	.	+	.	ID=gene-STMUK_p041;Name=STMUK_p041;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p041
+CP002615.1	Genbank	CDS	37070	39067	.	+	0	ID=cds-AEF10445.1;Parent=gene-STMUK_p041;Dbxref=NCBI_GP:AEF10445.1;Name=AEF10445.1;gbkey=CDS;locus_tag=STMUK_p041;product=putative ParB-like nuclease domain protein;protein_id=AEF10445.1;transl_table=11
+CP002615.1	Genbank	gene	39107	39541	.	+	.	ID=gene-STMUK_p042;Name=psiB;gbkey=Gene;gene=psiB;gene_biotype=protein_coding;locus_tag=STMUK_p042
+CP002615.1	Genbank	CDS	39107	39541	.	+	0	ID=cds-AEF10472.1;Parent=gene-STMUK_p042;Dbxref=NCBI_GP:AEF10472.1;Name=AEF10472.1;gbkey=CDS;gene=psiB;locus_tag=STMUK_p042;product=Plasmid SOS inhibition;protein_id=AEF10472.1;transl_table=11
+CP002615.1	Genbank	gene	39538	40275	.	+	.	ID=gene-STMUK_p043;Name=psiA;gbkey=Gene;gene=psiA;gene_biotype=protein_coding;locus_tag=STMUK_p043
+CP002615.1	Genbank	CDS	39538	40275	.	+	0	ID=cds-AEF10471.1;Parent=gene-STMUK_p043;Dbxref=NCBI_GP:AEF10471.1;Name=AEF10471.1;gbkey=CDS;gene=psiA;locus_tag=STMUK_p043;product=Plasmid SOS inhibition;protein_id=AEF10471.1;transl_table=11
+CP002615.1	Genbank	gene	41914	42384	.	-	.	ID=gene-STMUK_p044;Name=STMUK_p044;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p044
+CP002615.1	Genbank	CDS	41914	42384	.	-	0	ID=cds-AEF10454.1;Parent=gene-STMUK_p044;Dbxref=NCBI_GP:AEF10454.1;Name=AEF10454.1;gbkey=CDS;locus_tag=STMUK_p044;product=putative transglycosylase;protein_id=AEF10454.1;transl_table=11
+CP002615.1	Genbank	gene	42799	43179	.	+	.	ID=gene-STMUK_p045;Name=traM;gbkey=Gene;gene=traM;gene_biotype=protein_coding;locus_tag=STMUK_p045
+CP002615.1	Genbank	CDS	42799	43179	.	+	0	ID=cds-AEF10407.1;Parent=gene-STMUK_p045;Dbxref=NCBI_GP:AEF10407.1;Name=AEF10407.1;gbkey=CDS;gene=traM;locus_tag=STMUK_p045;product=conjugative transfer: mating signal;protein_id=AEF10407.1;transl_table=11
+CP002615.1	Genbank	gene	43372	44058	.	+	.	ID=gene-STMUK_p046;Name=traJ;gbkey=Gene;gene=traJ;gene_biotype=protein_coding;locus_tag=STMUK_p046
+CP002615.1	Genbank	CDS	43372	44058	.	+	0	ID=cds-AEF10411.1;Parent=gene-STMUK_p046;Dbxref=NCBI_GP:AEF10411.1;Name=AEF10411.1;gbkey=CDS;gene=traJ;locus_tag=STMUK_p046;product=conjugative transfer: regulation;protein_id=AEF10411.1;transl_table=11
+CP002615.1	Genbank	gene	44059	44379	.	+	.	ID=gene-STMUK_p047;Name=traY;gbkey=Gene;gene=traY;gene_biotype=protein_coding;locus_tag=STMUK_p047
+CP002615.1	Genbank	CDS	44059	44379	.	+	0	ID=cds-AEF10398.1;Parent=gene-STMUK_p047;Dbxref=NCBI_GP:AEF10398.1;Name=AEF10398.1;gbkey=CDS;gene=traY;locus_tag=STMUK_p047;product=conjugative transfer: oriT nicking;protein_id=AEF10398.1;transl_table=11
+CP002615.1	Genbank	gene	44421	44783	.	+	.	ID=gene-STMUK_p048;Name=traA;gbkey=Gene;gene=traA;gene_biotype=protein_coding;locus_tag=STMUK_p048
+CP002615.1	Genbank	CDS	44421	44783	.	+	0	ID=cds-AEF10420.1;Parent=gene-STMUK_p048;Dbxref=NCBI_GP:AEF10420.1;Name=AEF10420.1;gbkey=CDS;gene=traA;locus_tag=STMUK_p048;product=conjugative transfer: fimbrial subunit;protein_id=AEF10420.1;transl_table=11
+CP002615.1	Genbank	gene	44798	45109	.	+	.	ID=gene-STMUK_p049;Name=traL;gbkey=Gene;gene=traL;gene_biotype=protein_coding;locus_tag=STMUK_p049
+CP002615.1	Genbank	CDS	44798	45109	.	+	0	ID=cds-AEF10409.1;Parent=gene-STMUK_p049;Dbxref=NCBI_GP:AEF10409.1;Name=AEF10409.1;gbkey=CDS;gene=traL;locus_tag=STMUK_p049;product=conjugative transfer: assembly;protein_id=AEF10409.1;transl_table=11
+CP002615.1	Genbank	gene	45131	45697	.	+	.	ID=gene-STMUK_p050;Name=traE;gbkey=Gene;gene=traE;gene_biotype=protein_coding;locus_tag=STMUK_p050
+CP002615.1	Genbank	CDS	45131	45697	.	+	0	ID=cds-AEF10417.1;Parent=gene-STMUK_p050;Dbxref=NCBI_GP:AEF10417.1;Name=AEF10417.1;gbkey=CDS;gene=traE;locus_tag=STMUK_p050;product=conjugative transfer: assembly;protein_id=AEF10417.1;transl_table=11
+CP002615.1	Genbank	gene	45684	46424	.	+	.	ID=gene-STMUK_p051;Name=traK;gbkey=Gene;gene=traK;gene_biotype=protein_coding;locus_tag=STMUK_p051
+CP002615.1	Genbank	CDS	45684	46424	.	+	0	ID=cds-AEF10410.1;Parent=gene-STMUK_p051;Dbxref=NCBI_GP:AEF10410.1;Name=AEF10410.1;gbkey=CDS;gene=traK;locus_tag=STMUK_p051;product=conjugative transfer: assembly;protein_id=AEF10410.1;transl_table=11
+CP002615.1	Genbank	gene	46424	47845	.	+	.	ID=gene-STMUK_p052;Name=traB;gbkey=Gene;gene=traB;gene_biotype=protein_coding;locus_tag=STMUK_p052
+CP002615.1	Genbank	CDS	46424	47845	.	+	0	ID=cds-AEF10419.1;Parent=gene-STMUK_p052;Dbxref=NCBI_GP:AEF10419.1;Name=AEF10419.1;gbkey=CDS;gene=traB;locus_tag=STMUK_p052;product=conjugative transfer: assembly;protein_id=AEF10419.1;transl_table=11
+CP002615.1	Genbank	gene	47835	48431	.	+	.	ID=gene-STMUK_p053;Name=traP;gbkey=Gene;gene=traP;gene_biotype=protein_coding;locus_tag=STMUK_p053
+CP002615.1	Genbank	CDS	47835	48431	.	+	0	ID=cds-AEF10403.1;Parent=gene-STMUK_p053;Dbxref=NCBI_GP:AEF10403.1;Name=AEF10403.1;gbkey=CDS;gene=traP;locus_tag=STMUK_p053;product=conjugative transfer;protein_id=AEF10403.1;transl_table=11
+CP002615.1	Genbank	gene	48409	48654	.	+	.	ID=gene-STMUK_p054;Name=trbD;gbkey=Gene;gene=trbD;gene_biotype=protein_coding;locus_tag=STMUK_p054
+CP002615.1	Genbank	CDS	48409	48654	.	+	0	ID=cds-AEF10393.1;Parent=gene-STMUK_p054;Dbxref=NCBI_GP:AEF10393.1;Name=AEF10393.1;gbkey=CDS;gene=trbD;locus_tag=STMUK_p054;product=conjugative transfer protein;protein_id=AEF10393.1;transl_table=11
+CP002615.1	Genbank	gene	48651	49166	.	+	.	ID=gene-STMUK_p055;Name=traV;gbkey=Gene;gene=traV;gene_biotype=protein_coding;locus_tag=STMUK_p055
+CP002615.1	Genbank	CDS	48651	49166	.	+	0	ID=cds-AEF10400.1;Parent=gene-STMUK_p055;Dbxref=NCBI_GP:AEF10400.1;Name=AEF10400.1;gbkey=CDS;gene=traV;locus_tag=STMUK_p055;product=conjugative transfer: assembly;protein_id=AEF10400.1;transl_table=11
+CP002615.1	Genbank	gene	49301	49522	.	+	.	ID=gene-STMUK_p056;Name=traR;gbkey=Gene;gene=traR;gene_biotype=protein_coding;locus_tag=STMUK_p056
+CP002615.1	Genbank	CDS	49301	49522	.	+	0	ID=cds-AEF10405.1;Parent=gene-STMUK_p056;Dbxref=NCBI_GP:AEF10405.1;Name=AEF10405.1;gbkey=CDS;gene=traR;locus_tag=STMUK_p056;product=conjugative transfer;protein_id=AEF10405.1;transl_table=11
+CP002615.1	Genbank	gene	49515	49982	.	+	.	ID=gene-STMUK_p057;Name=STMUK_p057;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p057
+CP002615.1	Genbank	CDS	49515	49982	.	+	0	ID=cds-AEF10446.1;Parent=gene-STMUK_p057;Dbxref=NCBI_GP:AEF10446.1;Name=AEF10446.1;gbkey=CDS;locus_tag=STMUK_p057;product=conjugative transfer protein;protein_id=AEF10446.1;transl_table=11
+CP002615.1	Genbank	gene	50378	53026	.	+	.	ID=gene-STMUK_p058;Name=traC;gbkey=Gene;gene=traC;gene_biotype=protein_coding;locus_tag=STMUK_p058
+CP002615.1	Genbank	CDS	50378	53026	.	+	0	ID=cds-AEF10418.1;Parent=gene-STMUK_p058;Dbxref=NCBI_GP:AEF10418.1;Name=AEF10418.1;gbkey=CDS;gene=traC;locus_tag=STMUK_p058;product=conjugative transfer: assembly;protein_id=AEF10418.1;transl_table=11
+CP002615.1	Genbank	gene	53001	53387	.	+	.	ID=gene-STMUK_p059;Name=trbI;gbkey=Gene;gene=trbI;gene_biotype=protein_coding;locus_tag=STMUK_p059
+CP002615.1	Genbank	CDS	53001	53387	.	+	0	ID=cds-AEF10477.1;Parent=gene-STMUK_p059;Dbxref=NCBI_GP:AEF10477.1;Name=AEF10477.1;gbkey=CDS;gene=trbI;locus_tag=STMUK_p059;product=conjugative transfer;protein_id=AEF10477.1;transl_table=11
+CP002615.1	Genbank	gene	53384	54016	.	+	.	ID=gene-STMUK_p060;Name=traW;gbkey=Gene;gene=traW;gene_biotype=protein_coding;locus_tag=STMUK_p060
+CP002615.1	Genbank	CDS	53384	54016	.	+	0	ID=cds-AEF10399.1;Parent=gene-STMUK_p060;Dbxref=NCBI_GP:AEF10399.1;Name=AEF10399.1;gbkey=CDS;gene=traW;locus_tag=STMUK_p060;product=conjugative transfer: assembly;protein_id=AEF10399.1;transl_table=11
+CP002615.1	Genbank	gene	54013	55005	.	+	.	ID=gene-STMUK_p061;Name=traU;gbkey=Gene;gene=traU;gene_biotype=protein_coding;locus_tag=STMUK_p061
+CP002615.1	Genbank	CDS	54013	55005	.	+	0	ID=cds-AEF10401.1;Parent=gene-STMUK_p061;Dbxref=NCBI_GP:AEF10401.1;Name=AEF10401.1;gbkey=CDS;gene=traU;locus_tag=STMUK_p061;product=conjugative transfer: assembly;protein_id=AEF10401.1;transl_table=11
+CP002615.1	Genbank	gene	55024	55332	.	+	.	ID=gene-STMUK_p062;Name=STMUK_p062;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p062
+CP002615.1	Genbank	CDS	55024	55332	.	+	0	ID=cds-AEF10441.1;Parent=gene-STMUK_p062;Dbxref=NCBI_GP:AEF10441.1;Name=AEF10441.1;gbkey=CDS;locus_tag=STMUK_p062;product=conjugative transfer protein;protein_id=AEF10441.1;transl_table=11
+CP002615.1	Genbank	gene	55317	55955	.	+	.	ID=gene-STMUK_p063;Name=trbC;gbkey=Gene;gene=trbC;gene_biotype=protein_coding;locus_tag=STMUK_p063
+CP002615.1	Genbank	CDS	55317	55955	.	+	0	ID=cds-AEF10392.1;Parent=gene-STMUK_p063;Dbxref=NCBI_GP:AEF10392.1;Name=AEF10392.1;gbkey=CDS;gene=trbC;locus_tag=STMUK_p063;product=conjugative transfer: assembly;protein_id=AEF10392.1;transl_table=11
+CP002615.1	Genbank	gene	56408	58234	.	+	.	ID=gene-STMUK_p064;Name=traN;gbkey=Gene;gene=traN;gene_biotype=protein_coding;locus_tag=STMUK_p064
+CP002615.1	Genbank	CDS	56408	58234	.	+	0	ID=cds-AEF10408.1;Parent=gene-STMUK_p064;Dbxref=NCBI_GP:AEF10408.1;Name=AEF10408.1;gbkey=CDS;gene=traN;locus_tag=STMUK_p064;product=conjugative transfer: aggregate stability;protein_id=AEF10408.1;transl_table=11
+CP002615.1	Genbank	gene	58245	58460	.	+	.	ID=gene-STMUK_p065;Name=trbE;gbkey=Gene;gene=trbE;gene_biotype=protein_coding;locus_tag=STMUK_p065
+CP002615.1	Genbank	CDS	58245	58460	.	+	0	ID=cds-AEF10394.1;Parent=gene-STMUK_p065;Dbxref=NCBI_GP:AEF10394.1;Name=AEF10394.1;gbkey=CDS;gene=trbE;locus_tag=STMUK_p065;product=conjugative transfer;protein_id=AEF10394.1;transl_table=11
+CP002615.1	Genbank	gene	58472	59221	.	+	.	ID=gene-STMUK_p066;Name=traF;gbkey=Gene;gene=traF;gene_biotype=protein_coding;locus_tag=STMUK_p066
+CP002615.1	Genbank	CDS	58472	59221	.	+	0	ID=cds-AEF10416.1;Parent=gene-STMUK_p066;Dbxref=NCBI_GP:AEF10416.1;Name=AEF10416.1;gbkey=CDS;gene=traF;locus_tag=STMUK_p066;product=conjugative transfer: assembly;protein_id=AEF10416.1;transl_table=11
+CP002615.1	Genbank	gene	59435	59728	.	+	.	ID=gene-STMUK_p067;Name=traQ;gbkey=Gene;gene=traQ;gene_biotype=protein_coding;locus_tag=STMUK_p067
+CP002615.1	Genbank	CDS	59435	59728	.	+	0	ID=cds-AEF10404.1;Parent=gene-STMUK_p067;Dbxref=NCBI_GP:AEF10404.1;Name=AEF10404.1;gbkey=CDS;gene=traQ;locus_tag=STMUK_p067;product=conjugative transfer: fimbrial synthesis;protein_id=AEF10404.1;transl_table=11
+CP002615.1	Genbank	gene	59715	60263	.	+	.	ID=gene-STMUK_p068;Name=trbB;gbkey=Gene;gene=trbB;gene_biotype=protein_coding;locus_tag=STMUK_p068
+CP002615.1	Genbank	CDS	59715	60263	.	+	0	ID=cds-AEF10396.1;Parent=gene-STMUK_p068;Dbxref=NCBI_GP:AEF10396.1;Name=AEF10396.1;gbkey=CDS;gene=trbB;locus_tag=STMUK_p068;product=conjugative transfer;protein_id=AEF10396.1;transl_table=11
+CP002615.1	Genbank	gene	60253	61635	.	+	.	ID=gene-STMUK_p069;Name=traH;gbkey=Gene;gene=traH;gene_biotype=protein_coding;locus_tag=STMUK_p069
+CP002615.1	Genbank	CDS	60253	61635	.	+	0	ID=cds-AEF10414.1;Parent=gene-STMUK_p069;Dbxref=NCBI_GP:AEF10414.1;Name=AEF10414.1;gbkey=CDS;gene=traH;locus_tag=STMUK_p069;product=conjugative transfer: assembly;protein_id=AEF10414.1;transl_table=11
+CP002615.1	Genbank	gene	61632	64454	.	+	.	ID=gene-STMUK_p070;Name=traG;gbkey=Gene;gene=traG;gene_biotype=protein_coding;locus_tag=STMUK_p070
+CP002615.1	Genbank	CDS	61632	64454	.	+	0	ID=cds-AEF10415.1;Parent=gene-STMUK_p070;Dbxref=NCBI_GP:AEF10415.1;Name=AEF10415.1;gbkey=CDS;gene=traG;locus_tag=STMUK_p070;product=conjugative transfer: assembly abd aggregate stability;protein_id=AEF10415.1;transl_table=11
+CP002615.1	Genbank	gene	64470	64964	.	+	.	ID=gene-STMUK_p071;Name=traS;gbkey=Gene;gene=traS;gene_biotype=protein_coding;locus_tag=STMUK_p071
+CP002615.1	Genbank	CDS	64470	64964	.	+	0	ID=cds-AEF10406.1;Parent=gene-STMUK_p071;Dbxref=NCBI_GP:AEF10406.1;Name=AEF10406.1;gbkey=CDS;gene=traS;locus_tag=STMUK_p071;product=conjugative transfer: surface exclusion;protein_id=AEF10406.1;transl_table=11
+CP002615.1	Genbank	gene	65000	65731	.	+	.	ID=gene-STMUK_p072;Name=traT;gbkey=Gene;gene=traT;gene_biotype=protein_coding;locus_tag=STMUK_p072
+CP002615.1	Genbank	CDS	65000	65731	.	+	0	ID=cds-AEF10390.1;Parent=gene-STMUK_p072;Dbxref=NCBI_GP:AEF10390.1;Name=AEF10390.1;gbkey=CDS;gene=traT;locus_tag=STMUK_p072;product=conjugative transfer: surface exclusion;protein_id=AEF10390.1;transl_table=11
+CP002615.1	Genbank	gene	66108	68270	.	+	.	ID=gene-STMUK_p073;Name=traD;gbkey=Gene;gene=traD;gene_biotype=protein_coding;locus_tag=STMUK_p073
+CP002615.1	Genbank	CDS	66108	68270	.	+	0	ID=cds-AEF10483.1;Parent=gene-STMUK_p073;Dbxref=NCBI_GP:AEF10483.1;Name=AEF10483.1;gbkey=CDS;gene=traD;locus_tag=STMUK_p073;product=conjugative transfer: DNA transport;protein_id=AEF10483.1;transl_table=11
+CP002615.1	Genbank	gene	68270	68989	.	+	.	ID=gene-STMUK_p074;Name=trbH;gbkey=Gene;gene=trbH;gene_biotype=protein_coding;locus_tag=STMUK_p074
+CP002615.1	Genbank	CDS	68270	68989	.	+	0	ID=cds-AEF10478.1;Parent=gene-STMUK_p074;Dbxref=NCBI_GP:AEF10478.1;Name=AEF10478.1;gbkey=CDS;gene=trbH;locus_tag=STMUK_p074;product=conjugative transfer;protein_id=AEF10478.1;transl_table=11
+CP002615.1	Genbank	gene	68279	68677	.	-	.	ID=gene-STMUK_p075;Name=STMUK_p075;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p075
+CP002615.1	Genbank	CDS	68279	68677	.	-	0	ID=cds-AEF10442.1;Parent=gene-STMUK_p075;Dbxref=NCBI_GP:AEF10442.1;Name=AEF10442.1;Note=similar to mvpA%2C Shigella flexneri;gbkey=CDS;locus_tag=STMUK_p075;product=MvpA-like protein;protein_id=AEF10442.1;transl_table=11
+CP002615.1	Genbank	gene	68677	68907	.	-	.	ID=gene-STMUK_p076;Name=STMUK_p076;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p076
+CP002615.1	Genbank	CDS	68677	68907	.	-	0	ID=cds-AEF10443.1;Parent=gene-STMUK_p076;Dbxref=NCBI_GP:AEF10443.1;Name=AEF10443.1;gbkey=CDS;locus_tag=STMUK_p076;product=putative cytoplasmic protein;protein_id=AEF10443.1;transl_table=11
+CP002615.1	Genbank	gene	68986	74244	.	+	.	ID=gene-STMUK_p077;Name=traI;gbkey=Gene;gene=traI;gene_biotype=protein_coding;locus_tag=STMUK_p077
+CP002615.1	Genbank	CDS	68986	74244	.	+	0	ID=cds-AEF10412.1;Parent=gene-STMUK_p077;Dbxref=NCBI_GP:AEF10412.1;Name=AEF10412.1;gbkey=CDS;gene=traI;locus_tag=STMUK_p077;product=conjugative transfer: oriT nicking-unwinding;protein_id=AEF10412.1;transl_table=11
+CP002615.1	Genbank	gene	74264	75004	.	+	.	ID=gene-STMUK_p078;Name=traX;gbkey=Gene;gene=traX;gene_biotype=protein_coding;locus_tag=STMUK_p078
+CP002615.1	Genbank	CDS	74264	75004	.	+	0	ID=cds-AEF10397.1;Parent=gene-STMUK_p078;Dbxref=NCBI_GP:AEF10397.1;Name=AEF10397.1;gbkey=CDS;gene=traX;locus_tag=STMUK_p078;product=conjugative transfer: fimbrial acetylation;protein_id=AEF10397.1;transl_table=11
+CP002615.1	Genbank	gene	75059	75622	.	+	.	ID=gene-STMUK_p079;Name=finO;gbkey=Gene;gene=finO;gene_biotype=protein_coding;locus_tag=STMUK_p079
+CP002615.1	Genbank	CDS	75059	75622	.	+	0	ID=cds-AEF10462.1;Parent=gene-STMUK_p079;Dbxref=NCBI_GP:AEF10462.1;Name=AEF10462.1;gbkey=CDS;gene=finO;locus_tag=STMUK_p079;product=conjugative transfer: regulation;protein_id=AEF10462.1;transl_table=11
+CP002615.1	Genbank	gene	75737	76021	.	+	.	ID=gene-STMUK_p080;Name=STMUK_p080;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p080
+CP002615.1	Genbank	CDS	75737	76021	.	+	0	ID=cds-AEF10473.1;Parent=gene-STMUK_p080;Dbxref=NCBI_GP:AEF10473.1;Name=AEF10473.1;gbkey=CDS;locus_tag=STMUK_p080;product=putative cytoplasmic protein;protein_id=AEF10473.1;transl_table=11
+CP002615.1	Genbank	gene	76355	76797	.	+	.	ID=gene-STMUK_p081;Name=STMUK_p081;Note=frameshift;description=putative phospholipase D%3B frameshift;gbkey=Gene;gene_biotype=other;locus_tag=STMUK_p081
+CP002615.1	Genbank	gene	76976	77242	.	+	.	ID=gene-STMUK_p082;Name=repC;gbkey=Gene;gene=repC;gene_biotype=protein_coding;locus_tag=STMUK_p082
+CP002615.1	Genbank	CDS	76976	77242	.	+	0	ID=cds-AEF10437.1;Parent=gene-STMUK_p082;Dbxref=NCBI_GP:AEF10437.1;Name=AEF10437.1;gbkey=CDS;gene=repC;locus_tag=STMUK_p082;product=DNA replication;protein_id=AEF10437.1;transl_table=11
+CP002615.1	Genbank	gene	77365	77487	.	+	.	ID=gene-STMUK_p083;Name=repA3;gbkey=Gene;gene=repA3;gene_biotype=protein_coding;locus_tag=STMUK_p083
+CP002615.1	Genbank	CDS	77365	77487	.	+	0	ID=cds-AEF10436.1;Parent=gene-STMUK_p083;Dbxref=NCBI_GP:AEF10436.1;Name=AEF10436.1;gbkey=CDS;gene=repA3;locus_tag=STMUK_p083;product=DNA replication;protein_id=AEF10436.1;transl_table=11
+CP002615.1	Genbank	gene	77492	77569	.	+	.	ID=gene-STMUK_p084;Name=tap;gbkey=Gene;gene=tap;gene_biotype=protein_coding;locus_tag=STMUK_p084
+CP002615.1	Genbank	CDS	77492	77569	.	+	0	ID=cds-AEF10421.1;Parent=gene-STMUK_p084;Dbxref=NCBI_GP:AEF10421.1;Name=AEF10421.1;gbkey=CDS;gene=tap;locus_tag=STMUK_p084;product=replication of plasmid;protein_id=AEF10421.1;transl_table=11
+CP002615.1	Genbank	gene	77550	78431	.	+	.	ID=gene-STMUK_p085;Name=repA;gbkey=Gene;gene=repA;gene_biotype=protein_coding;locus_tag=STMUK_p085
+CP002615.1	Genbank	CDS	77550	78431	.	+	0	ID=cds-AEF10487.1;Parent=gene-STMUK_p085;Dbxref=NCBI_GP:AEF10487.1;Name=AEF10487.1;gbkey=CDS;gene=repA;locus_tag=STMUK_p085;product=DNA replication;protein_id=AEF10487.1;transl_table=11
+CP002615.1	Genbank	gene	79372	79512	.	+	.	ID=gene-STMUK_p086;Name=STMUK_p086;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p086
+CP002615.1	Genbank	CDS	79372	79512	.	+	0	ID=cds-AEF10468.1;Parent=gene-STMUK_p086;Dbxref=NCBI_GP:AEF10468.1;Name=AEF10468.1;gbkey=CDS;locus_tag=STMUK_p086;product=putative outer membrane protein;protein_id=AEF10468.1;transl_table=11
+CP002615.1	Genbank	gene	79609	80367	.	-	.	ID=gene-STMUK_p087;Name=srgC;gbkey=Gene;gene=srgC;gene_biotype=protein_coding;locus_tag=STMUK_p087
+CP002615.1	Genbank	CDS	79609	80367	.	-	0	ID=cds-AEF10426.1;Parent=gene-STMUK_p087;Dbxref=NCBI_GP:AEF10426.1;Name=AEF10426.1;gbkey=CDS;gene=srgC;locus_tag=STMUK_p087;product=sdiA-regulated protein;protein_id=AEF10426.1;transl_table=11
+CP002615.1	Genbank	gene	80634	81191	.	-	.	ID=gene-STMUK_p088;Name=rcK;gbkey=Gene;gene=rcK;gene_biotype=protein_coding;locus_tag=STMUK_p088
+CP002615.1	Genbank	CDS	80634	81191	.	-	0	ID=cds-AEF10395.1;Parent=gene-STMUK_p088;Dbxref=NCBI_GP:AEF10395.1;Name=AEF10395.1;gbkey=CDS;gene=rcK;locus_tag=STMUK_p088;product=resistance to complement killing;protein_id=AEF10395.1;transl_table=11
+CP002615.1	Genbank	gene	81281	82180	.	-	.	ID=gene-STMUK_p089;Name=srgB;gbkey=Gene;gene=srgB;gene_biotype=protein_coding;locus_tag=STMUK_p089
+CP002615.1	Genbank	CDS	81281	82180	.	-	0	ID=cds-AEF10425.1;Parent=gene-STMUK_p089;Dbxref=NCBI_GP:AEF10425.1;Name=AEF10425.1;gbkey=CDS;gene=srgB;locus_tag=STMUK_p089;product=sdiA-regulated protein;protein_id=AEF10425.1;transl_table=11
+CP002615.1	Genbank	gene	82313	82966	.	-	.	ID=gene-STMUK_p090;Name=srgA;gbkey=Gene;gene=srgA;gene_biotype=protein_coding;locus_tag=STMUK_p090
+CP002615.1	Genbank	CDS	82313	82966	.	-	0	ID=cds-AEF10427.1;Parent=gene-STMUK_p090;Dbxref=NCBI_GP:AEF10427.1;Name=AEF10427.1;gbkey=CDS;gene=srgA;locus_tag=STMUK_p090;product=sdiA-regulated protein;protein_id=AEF10427.1;transl_table=11
+CP002615.1	Genbank	gene	83211	83561	.	-	.	ID=gene-STMUK_p091;Name=STMUK_p091;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p091
+CP002615.1	Genbank	CDS	83211	83561	.	-	0	ID=cds-AEF10424.1;Parent=gene-STMUK_p091;Dbxref=NCBI_GP:AEF10424.1;Name=AEF10424.1;gbkey=CDS;locus_tag=STMUK_p091;product=putative bacterial regulatory protein%2C luxR family;protein_id=AEF10424.1;transl_table=11
+CP002615.1	Genbank	gene	83546	83758	.	-	.	ID=gene-STMUK_p092;Name=pefI;gbkey=Gene;gene=pefI;gene_biotype=protein_coding;locus_tag=STMUK_p092
+CP002615.1	Genbank	CDS	83546	83758	.	-	0	ID=cds-AEF10470.1;Parent=gene-STMUK_p092;Dbxref=NCBI_GP:AEF10470.1;Name=AEF10470.1;gbkey=CDS;gene=pefI;locus_tag=STMUK_p092;product=plasmid-encoded fimbriae%3B regulatory;protein_id=AEF10470.1;transl_table=11
+CP002615.1	Genbank	gene	84190	85065	.	-	.	ID=gene-STMUK_p093;Name=STMUK_p093;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p093
+CP002615.1	Genbank	CDS	84190	85065	.	-	0	ID=cds-AEF10431.1;Parent=gene-STMUK_p093;Dbxref=NCBI_GP:AEF10431.1;Name=AEF10431.1;gbkey=CDS;locus_tag=STMUK_p093;product=putative outer membrane protein;protein_id=AEF10431.1;transl_table=11
+CP002615.1	Genbank	gene	85318	85875	.	-	.	ID=gene-STMUK_p094;Name=STMUK_p094;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p094
+CP002615.1	Genbank	CDS	85318	85875	.	-	0	ID=cds-AEF10440.1;Parent=gene-STMUK_p094;Dbxref=NCBI_GP:AEF10440.1;Name=AEF10440.1;gbkey=CDS;locus_tag=STMUK_p094;product=putative outer membrane protein;protein_id=AEF10440.1;transl_table=11
+CP002615.1	Genbank	gene	85890	86582	.	-	.	ID=gene-STMUK_p095;Name=pefD;gbkey=Gene;gene=pefD;gene_biotype=protein_coding;locus_tag=STMUK_p095
+CP002615.1	Genbank	CDS	85890	86582	.	-	0	ID=cds-AEF10474.1;Parent=gene-STMUK_p095;Dbxref=NCBI_GP:AEF10474.1;Name=AEF10474.1;gbkey=CDS;gene=pefD;locus_tag=STMUK_p095;product=plasmid-encoded fimbriae%3Bchaperone;protein_id=AEF10474.1;transl_table=11
+CP002615.1	Genbank	gene	86575	88983	.	-	.	ID=gene-STMUK_p096;Name=pefC;gbkey=Gene;gene=pefC;gene_biotype=protein_coding;locus_tag=STMUK_p096
+CP002615.1	Genbank	CDS	86575	88983	.	-	0	ID=cds-AEF10476.1;Parent=gene-STMUK_p096;Dbxref=NCBI_GP:AEF10476.1;Name=AEF10476.1;gbkey=CDS;gene=pefC;locus_tag=STMUK_p096;product=plasmid-encoded fimbriae%3B usher protein;protein_id=AEF10476.1;transl_table=11
+CP002615.1	Genbank	gene	89211	89729	.	-	.	ID=gene-STMUK_p097;Name=pefA;gbkey=Gene;gene=pefA;gene_biotype=protein_coding;locus_tag=STMUK_p097
+CP002615.1	Genbank	CDS	89211	89729	.	-	0	ID=cds-AEF10480.1;Parent=gene-STMUK_p097;Dbxref=NCBI_GP:AEF10480.1;Name=AEF10480.1;gbkey=CDS;gene=pefA;locus_tag=STMUK_p097;product=plasmid-encoded fimbriae%3B major fimbrial subunit;protein_id=AEF10480.1;transl_table=11
+CP002615.1	Genbank	gene	90004	90306	.	-	.	ID=gene-STMUK_p098;Name=pefB;gbkey=Gene;gene=pefB;gene_biotype=protein_coding;locus_tag=STMUK_p098
+CP002615.1	Genbank	CDS	90004	90306	.	-	0	ID=cds-AEF10475.1;Parent=gene-STMUK_p098;Dbxref=NCBI_GP:AEF10475.1;Name=AEF10475.1;gbkey=CDS;gene=pefB;locus_tag=STMUK_p098;product=plasmid-encoded fimbriae%3Bregulation;protein_id=AEF10475.1;transl_table=11
+CP002615.1	Genbank	gene	91203	91406	.	+	.	ID=gene-STMUK_p099;Name=STMUK_p099;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p099
+CP002615.1	Genbank	CDS	91203	91406	.	+	0	ID=cds-AEF10489.1;Parent=gene-STMUK_p099;Dbxref=NCBI_GP:AEF10489.1;Name=AEF10489.1;gbkey=CDS;locus_tag=STMUK_p099;product=hypothetical protein;protein_id=AEF10489.1;transl_table=11
+CP002615.1	Genbank	gene	92278	93267	.	-	.	ID=gene-STMUK_p100;Name=repA2;gbkey=Gene;gene=repA2;gene_biotype=protein_coding;locus_tag=STMUK_p100
+CP002615.1	Genbank	CDS	92278	93267	.	-	0	ID=cds-AEF10439.1;Parent=gene-STMUK_p100;Dbxref=NCBI_GP:AEF10439.1;Name=AEF10439.1;gbkey=CDS;gene=repA2;locus_tag=STMUK_p100;product=DNA replication;protein_id=AEF10439.1;transl_table=11
+CP002615.1	Genbank	gene	93011	93319	.	+	.	ID=gene-STMUK_p101;Name=STMUK_p101;gbkey=Gene;gene_biotype=protein_coding;locus_tag=STMUK_p101
+CP002615.1	Genbank	CDS	93011	93319	.	+	0	ID=cds-AEF10482.1;Parent=gene-STMUK_p101;Dbxref=NCBI_GP:AEF10482.1;Name=AEF10482.1;gbkey=CDS;locus_tag=STMUK_p101;product=hypothetical protein;protein_id=AEF10482.1;transl_table=11
+

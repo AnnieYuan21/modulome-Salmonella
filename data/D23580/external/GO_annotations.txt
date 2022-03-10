@@ -1,0 +1,4 @@
+UniProtKB	C9X8K0	sopA		GO:0004842	GO_REF:0000024	ISS	UniProtKB:Q8ZNR3	F	E3 ubiquitin-protein ligase SopA	STMMW_20971	protein	NCBITaxon:568708	20100607	UniProt			ubiquitin-protein transferase activity
+UniProtKB	C9X8K0	sopA		GO:0005576	GO_REF:0000024	ISS	UniProtKB:Q9S4P4	C	E3 ubiquitin-protein ligase SopA	STMMW_20971	protein	NCBITaxon:568708	20100607	UniProt			extracellular region
+UniProtKB	C9X8K0	sopA		GO:0009405	GO_REF:0000024	ISS	UniProtKB:Q8ZNR3	P	E3 ubiquitin-protein ligase SopA	STMMW_20971	protein	NCBITaxon:568708	20100607	UniProt			pathogenesis
+UniProtKB	C9X8K0	sopA		GO:0016567	GO_REF:0000024	ISS	UniProtKB:Q8ZNR3	P	E3 ubiquitin-protein ligase SopA	STMMW_20971	protein	NCBITaxon:568708	20100607	UniProt			protein ubiquitination

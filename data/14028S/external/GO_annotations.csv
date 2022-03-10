@@ -1,0 +1,62 @@
+,gene_id,gene_ontology
+0,STM14_2769,ubiquitin-protein transferase activity
+1,STM14_2769,pathogenesis
+2,STM14_2769,protein ubiquitination
+3,STM14_2769,host cell plasma membrane
+4,STM14_2769,protein secretion by the type III secretion system
+5,sigE|STM14_3234,response to temperature stimulus
+6,sigE|STM14_3234,pathogenesis
+7,sigE|STM14_3234,cellular stress response to acid chemical
+8,STM14_0587,transcription regulatory region sequence-specific DNA binding
+9,STM14_0587,DNA-binding transcription activator activity
+10,STM14_0587,protein-DNA complex
+11,STM14_0587,"positive regulation of transcription, DNA-templated"
+12,mnmG|STM14_4671,chromosome segregation
+13,mnmG|STM14_4671,cell division
+14,STM14_4667,protein binding
+15,STM14_3566,positive regulation of single-species biofilm formation on inanimate substrate
+16,STM14_2824,protein binding
+17,STM14_2824,protein binding
+18,STM14_2374,negative regulation of cell adhesion involved in single-species biofilm formation
+19,STM14_1974,protein binding
+20,STM14_1974,host cell plasma membrane
+21,STM14_1974,host cell late endosome
+22,STM14_1974,positive regulation of membrane tubulation
+23,STM14_4041,proteolysis
+24,STM14_4041,response to temperature stimulus
+25,STM14_4041,pathogenesis
+26,STM14_4041,cellular stress response to acid chemical
+27,STM14_1193,protein binding
+28,STM14_1400,protein binding
+29,STM14_1400,protein binding
+30,STM14_1400,host cell plasma membrane
+31,STM14_1400,host cell cytoplasm
+32,STM14_1400,positive regulation of membrane tubulation
+33,STM14_1483,ubiquitin-protein transferase activity
+34,STM14_1483,protein binding
+35,STM14_1483,pathogenesis
+36,STM14_1483,protein ubiquitination
+37,STM14_1483,protein secretion by the type III secretion system
+38,STM14_1483,host cell nucleus
+39,STM14_2557,ubiquitin-protein transferase activity
+40,STM14_2557,extracellular region
+41,STM14_2557,pathogenesis
+42,STM14_2557,protein ubiquitination
+43,STM14_2340,negative regulation of cell adhesion involved in single-species biofilm formation
+44,STM14_2341,negative regulation of cell adhesion involved in single-species biofilm formation
+45,yaeL|STM14_0265,proteolysis
+46,yaeL|STM14_0265,response to temperature stimulus
+47,yaeL|STM14_0265,pathogenesis
+48,yaeL|STM14_0265,cellular stress response to acid chemical
+49,STM14_4538,protein binding
+50,STM14_3233,cellular stress response to acid chemical
+51,STM14_928,ubiquitin-protein transferase activity
+52,STM14_928,protein binding
+53,STM14_928,protein binding
+54,STM14_928,pathogenesis
+55,STM14_928,positive regulation of cell death
+56,STM14_928,protein ubiquitination
+57,STM14_928,protein ubiquitination
+58,STM14_928,protein secretion by the type III secretion system
+59,STM14_928,ubiquitin protein ligase activity
+60,STM14_928,negative regulation of thioredoxin peroxidase activity
