@@ -1,5 +1,5 @@
 # modulome-Salmonella
-This repository contains datasets and scripts for the modulome-Salmonella project. Check out the paper [**here**](https://www.biorxiv.org/content/10.1101/2022.01.11.475931v1)
+This repository contains datasets and scripts for the modulome-Salmonella project. Check out the paper [**here**]([https://www.biorxiv.org/content/10.1101/2022.01.11.475931v1](https://journals.asm.org/doi/10.1128/msystems.00467-22))
 
 ## **Figures**
 
